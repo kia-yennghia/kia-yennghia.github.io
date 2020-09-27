@@ -1,0 +1,34 @@
+<section class="section-padding gray-bg">
+    <div class="container">
+      <div class="section-header text-center">
+        <h2>Showroom <span>KIA Yên Nghĩa</span></h2>
+        <p>Rất nhiều xe...</p>
+      </div>
+      <div class="row">
+        <!-- Nav tabs -->
+        <div class="recent-tab">
+          <ul class="nav nav-tabs" role="tablist">
+            {% for cars in site.collections %}
+            {% assign label = cars.label %}
+            {% if label != 'posts' and label != 'pages' and label != 'rondo' and label != 'optima' %}
+            {% if label == 'cerato' %}
+            <li role="presentation" class="active">
+              <a href="#{{ label }}" role="tab" data-toggle="tab">{{ label | upcase }}</a>
+            </li>
+            {% else %}
+            <li role="presentation">
+              <a href="#{{ label }}" role="tab" data-toggle="tab">{{ label | upcase }}</a>
+            </li>
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+          </ul>
+        </div>
+  
+  
+        <div class="tab-content">
+          {% include cars/test.html %}
+        </div>
+      </div>
+    </div>
+  </section>

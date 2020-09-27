@@ -1,0 +1,13 @@
+- name: SEDONA
+  link: sedona
+  class: active
+- name: SORENTO
+  link: sorento
+- name: RONDO
+  link: rondo
+- name: OPTIMA
+  link: optima
+- name: MORNING
+  link: morning
+- name: SELTOS
+  link: seltos

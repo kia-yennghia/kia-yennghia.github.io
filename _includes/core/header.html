@@ -1,0 +1,53 @@
+    <header>
+        <div class="default-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-3 col-md-2">
+                        <div class="logo"> <a href="/"><img src="{{ site.baseurl }}/assets/images/kia-logo.png" alt=" Kia Yên Nghĩa" /></a>
+                        </div>
+                    </div>
+                    <div class="col-sm-9 col-md-10">
+                        <div class="header_info">
+                            <div class="header_widgets">
+                                <div class="circle_icon"> <i class="fa fa-envelope" aria-hidden="true"></i> </div>
+                                <p class="uppercase_text">Email : </p>
+                                <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+                            </div>
+                            <div class="header_widgets">
+                                <div class="circle_icon"> <i class="fa fa-phone" aria-hidden="true"></i> </div>
+                                <p class="uppercase_text">Nhân viên kinh doanh: </p>
+                                <a href="tel:{{ site.phone }}">{{ site.phone }}</a>
+                            </div>
+                            <div class="social-follow">
+                                {% include core/social.html %}
+                            </div>
+                            <!-- <div class="login_btn"> <a href="#loginform" class="btn btn-xs uppercase"
+                                    data-toggle="modal" data-dismiss="modal">Login / Register</a> </div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Navigation -->
+        <nav id="navigation_bar" class="navbar navbar-default">
+            <div class="container">
+                <div class="navbar-header">
+                    <button id="menu_slide" data-target="#navigation" aria-expanded="false" data-toggle="collapse"
+                        class="navbar-toggle collapsed" type="button"> <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+                    </button>
+                </div>
+                {% include core/search-lunr.html %}
+                <div class="collapse navbar-collapse" id="navigation">
+                    <ul class="nav navbar-nav">
+                        {% for nav in site.data.navigation %}
+                        <li><a href="{{ nav.link }}">{{ nav.name }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Navigation end -->
+
+    </header>

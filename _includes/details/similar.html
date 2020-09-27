@@ -1,0 +1,27 @@
+<div class="similar_cars">
+    <h3>Xe cùng model</h3>
+    <div class="row">
+        {% assign model = page.collection %}
+        {% for car in site[model] %}
+        {% unless car.title == page.title %}
+        <div class="col-md-3 grid_listing">
+            <div class="product-listing-m gray-bg">
+                <div class="product-listing-img"> <a href="#"><img src="{{ site.baseurl }}{{ site.img }}{{ car.url }}{{ car.img }}"
+                            class="img-responsive" alt="image" /> </a>
+                </div>
+                <div class="product-listing-content">
+                    <h5><a href="{{ car.url }}">Kia {{ car.title }}</a></h5>
+                    <p class="list-price">{{ car.price }} VND</p>
+                    <ul class="features_list">
+                        <li><i class="fa fa-road" aria-hidden="true"></i>35,000 km</li>
+                        <li><i class="fa fa-tachometer" aria-hidden="true"></i>30.000 miles</li>
+                        <li><i class="fa fa-calendar" aria-hidden="true"></i>2005 model</li>
+                        <li><i class="fa fa-car" aria-hidden="true"></i>Diesel</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        {% endunless %}
+        {% endfor %}
+    </div>
+</div>

@@ -1,0 +1,25 @@
+- name: Mrs Hoa
+  pos: CEO of ABC
+  class: active
+  img: mrshoa
+  feed: "Giá trị cảm nhận của khách hàng là giá trị được cảm nhận tính theo đơn vị tiền tệ của lợi ích về mặt kỹ thuật, kinh tế, dịch vụ và xã hội mà khách hàng có thể nhận được so với giá mà họ trả cho một sản phẩm, đặt trong việc xem xét giá cả và chào hàng của các nhà cung cấp sẵn có (Anderson, Jain and Chintagunta 1993"
+- name: Mr Vuong
+  pos: CEO of ABC
+  feed: "Giá trị cảm nhận của khách hàng là giá trị được cảm nhận tính theo đơn vị tiền tệ của lợi ích về mặt kỹ thuật, kinh tế, dịch vụ và xã hội mà khách hàng có thể nhận được so với giá mà họ trả cho một sản phẩm, đặt trong việc xem xét giá cả và chào hàng của các nhà cung cấp sẵn có (Anderson, Jain and Chintagunta 1993"
+  img: mrshoa
+- name: Mrs Chuyen
+  pos: CEO of ABC
+  feed: "Giá trị cảm nhận của khách hàng là giá trị được cảm nhận tính theo đơn vị tiền tệ của lợi ích về mặt kỹ thuật, kinh tế, dịch vụ và xã hội mà khách hàng có thể nhận được so với giá mà họ trả cho một sản phẩm, đặt trong việc xem xét giá cả và chào hàng của các nhà cung cấp sẵn có (Anderson, Jain and Chintagunta 1993"
+  img: mrshoa
+- name: Mr Bom
+  pos: CEO of ABC
+  feed: "Giá trị cảm nhận của khách hàng là giá trị được cảm nhận tính theo đơn vị tiền tệ của lợi ích về mặt kỹ thuật, kinh tế, dịch vụ và xã hội mà khách hàng có thể nhận được so với giá mà họ trả cho một sản phẩm, đặt trong việc xem xét giá cả và chào hàng của các nhà cung cấp sẵn có (Anderson, Jain and Chintagunta 1993"
+  img: mrshoa
+- name: Mr Bun
+  pos: CEO of ABC
+  feed: "Giá trị cảm nhận của khách hàng là giá trị được cảm nhận tính theo đơn vị tiền tệ của lợi ích về mặt kỹ thuật, kinh tế, dịch vụ và xã hội mà khách hàng có thể nhận được so với giá mà họ trả cho một sản phẩm, đặt trong việc xem xét giá cả và chào hàng của các nhà cung cấp sẵn có (Anderson, Jain and Chintagunta 1993"
+  img: mrshoa
+- name: Mr Duong
+  pos: CEO of ABC
+  feed: "Giá trị cảm nhận của khách hàng là giá trị được cảm nhận tính theo đơn vị tiền tệ của lợi ích về mặt kỹ thuật, kinh tế, dịch vụ và xã hội mà khách hàng có thể nhận được so với giá mà họ trả cho một sản phẩm, đặt trong việc xem xét giá cả và chào hàng của các nhà cung cấp sẵn có (Anderson, Jain and Chintagunta 1993"
+  img: mrshoa

@@ -1,0 +1,42 @@
+{% for m in site.morning %}
+<div class="col-list-3">
+    <div class="recent-car-list">
+        <div class="featured-car-list">
+            <div class="featured-car-img">
+                <a href="{{ m.url }}"><img src="{{ site.img }}/{{ m.url }}{{ m.img }}" class="img-responsive"
+                        alt="Image" /></a>
+            </div>
+            <div class="featured-car-content">
+                <h6><a href="{{ m.url }}">{{ m.title }}</a></h6>
+                <div class="price_info">
+                    <p class="featured-price">{{ m.price }}</p>
+                    <div class="car-location">
+                        <span><i class="fa fa-map-marker" aria-hidden="true"></i>
+                            Kia Yên Nghĩa</span>
+                    </div>
+                </div>
+                <ul>
+                    <li>
+                        <i class="fa fa-road" aria-hidden="true"></i>0,000 km
+                    </li>
+                    <li>
+                        <i class="fa fa-tachometer" aria-hidden="true"></i>30.000
+                        miles
+                    </li>
+                    <li>
+                        <i class="fa fa-calendar" aria-hidden="true"></i>2005
+                        model
+                    </li>
+                    <li><i class="fa fa-car" aria-hidden="true"></i>Diesel</li>
+                    <li>
+                        <i class="fa fa-user" aria-hidden="true"></i>5 seats
+                    </li>
+                    <li>
+                        <i class="fa fa-superpowers" aria-hidden="true"></i>143 kW
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}

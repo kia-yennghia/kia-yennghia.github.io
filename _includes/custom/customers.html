@@ -1,0 +1,27 @@
+    <section class="section-padding testimonial-section parallex-bg">
+        <div class="container div_zindex">
+            <div class="section-header white-text text-center">
+                <h2>Cảm nhận <span>của Khách hàng</span></h2>
+                <p>Những đánh giá từ khách hàng. </p>
+            </div>
+            <div class="row">
+                <div id="testimonial-slider">
+                    {% for cus in site.data.customers %}
+                    <div class="testimonial-m">
+                        <div class="testimonial-img"> <img src="assets/images/customers/{{ cus.img }}.jpg "
+                                alt="images" /> </div>
+                        <div class="testimonial-content">
+                            <div class="testimonial-heading">
+                                <h5>{{ cus.name }}</h5>
+                                <span class="client-designation">{{ cus.pos }}</span>
+                            </div>
+                            <p>{{ cus.feed }}.</p>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <!-- Dark Overlay-->
+        <div class="dark-overlay"></div>
+    </section>

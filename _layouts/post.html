@@ -1,0 +1,141 @@
+---
+layout: default
+---
+
+<!--Page Header-->
+<section class="page-header blog_page">
+    <div class="container">
+        <div class="page-header_wrap">
+            <div class="page-heading">
+                <h1>Tin tức xe</h1>
+            </div>
+            <ul class="coustom-breadcrumb">
+                <li><a href="/">Trang chủ</a></li>
+                <li>Tin tức</li>
+            </ul>
+        </div>
+    </div>
+    <!-- Dark Overlay-->
+    <div class="dark-overlay"></div>
+</section>
+<!-- /Page Header-->
+
+<!--Our-Blog-->
+<section class="our_blog">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9 col-md-8">
+                <!--article-1-->
+                <article class="article_wrap article_full_info">
+                    <div class="articale_header">
+                        <h2>{{ page.title }}</h2>
+                        <div class="article_meta">
+                            <ul>
+                                <li><i class="fa fa-user-circle-o" aria-hidden="true"></i> <a href="#">{{ site.author }}</a>
+                                </li>
+                                <li><i class="fa fa-calendar-check-o" aria-hidden="true"></i>
+                                    {{ page.date | date: "%d/%m/%Y" }}</li>
+                                
+                                <li><i class="fa fa-tags" aria-hidden="true"></i>
+                                    {% for cat in page.categories %} 
+                                    <a href="{{ cat }}">{{ cat }}, </a>
+                                    {% endfor %}
+                                </li>
+                               
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="article_img"> <img src="{{ site.img }}/{{ page.img }}" alt="image"> </div>
+                    <div class="article_info">
+                        <p>{{ content }}</p>
+                    </div>
+                    {% include core/video.html %}
+                    <div class="article_tag gray-bg">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-6">
+                                <h6>Tags:</h6>
+                                <div class="tag_list">
+                                    <ul>
+                                        <li><a href="#">Trends</a></li>
+                                        <li><a href="#">Triple Foam</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-sm-6">
+                                <div class="share_article ">
+                                    <h6>Share:</h6>
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
+
+            <!--Side-bar-->
+            <aside class="col-lg-3 col-md-4">
+                <div class="sidebar_widget">
+                    <div class="widget_heading">
+                        <h5>Tìm kiếm bài viết</h5>
+                    </div>
+                    <div class="blog_search">
+                        <form action="#" method="get">
+                            <input class="form-control" name="search" type="text" placeholder="Tìm kiếm...">
+                            <button type="submit" class="search_btn"><i class="fa fa-search"
+                                    aria-hidden="true"></i></button>
+                        </form>
+                    </div>
+                </div>
+                <div class="sidebar_widget">
+                    <div class="widget_heading">
+                        <h5>Bài đăng phổ biến</h5>
+                    </div>
+                    <div class="popular_post">
+                        <ul>
+                            {% for post in site.posts limit: 4 %}
+                            <li>
+                                <div class="popular_post_img"> <a href="#"><img src="{{ site.img }}/{{ post.img }}"
+                                            alt="image"></a> </div>
+                                <div class="popular_post_title"> <a href="{{ post.url }}">{{ post.title }}</a> </div>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+                <div class="sidebar_widget">
+                    <div class="widget_heading">
+                        <h5>Danh mục</h5>
+                    </div>
+                    <div class="categories_list">
+                        <ul>
+                            {% for category in site.categories %}
+                            <li><a href="#">{{ category[0] }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+                <div class="sidebar_widget">
+                    <div class="widget_heading">
+                        <h5>Tags</h5>
+                    </div>
+                    <div class="tag_list">
+                        <ul>
+                            {% for tag in site.tags %}
+                            <li><a href="#">{{ tag[0] }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </aside>
+            <!--/Side-bar-->
+
+        </div>
+    </div>
+</section>
+<!-- /Our-Blog-->

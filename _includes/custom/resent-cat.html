@@ -1,0 +1,52 @@
+<section class="section-padding gray-bg">
+  <div class="container">
+    <div class="section-header text-center">
+      <h2>Showroom <span>KIA Yên Nghĩa</span></h2>
+      <p>Rất nhiều xe...</p>
+    </div>
+    <div class="row">
+      <!-- Nav tabs -->
+      <div class="recent-tab">
+        <ul class="nav nav-tabs" role="tablist">
+          {% for i in site.data.resent %} {% if i[0] %}
+          <li role="presentation" class="{{ i.class }}">
+            <a href="#{{ i.link[0] }}" role="tab" data-toggle="tab">i.name[0]</a>
+          </li>
+          {% else %}
+          <li role="presentation" class="{{ i.class }}">
+            <a href="#{{ i.link }}" role="tab" data-toggle="tab">{{ i.name }}</a>
+          </li>
+          {% endif %} {% endfor %}
+        </ul>
+      </div>
+
+
+      <div class="tab-content">
+        <!-- Sedora -->
+        <div role="tabpanel" class="tab-pane active" id="sedona">
+          {% include cars/sedona.html %}
+        </div>
+        <!-- Sorento -->
+        <div role="tabpanel" class="tab-pane" id="sorento">
+          {% include cars/sorento.html %}
+        </div>
+        <!-- Rondo -->
+        <div role="tabpanel" class="tab-pane" id="rondo">
+          {% include cars/rondo.html %}
+        </div>
+        <!-- Optima -->
+        <div role="tabpanel" class="tab-pane" id="optima">
+          {% include cars/optima.html %}
+        </div>
+        <!-- Morning -->
+        <div role="tabpanel" class="tab-pane" id="morning">
+          {% include cars/morning.html %}
+        </div>
+        <!-- Seltos -->
+        <div role="tabpanel" class="tab-pane" id="seltos">
+          {% include cars/seltos.html %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,294 @@
+---
+layout: default
+---
+<!-- Listing-detail-header -->
+<section class="listing_detail_header">
+    <div class="container">
+        <div class="listing_detail_head white-text div_zindex row">
+            <div class="col-md-9">
+                <h2>Kia {{ page.title }}</h2>
+                <div class="car-location"><i class="fa fa-map-marker"></i><a href="#maps" data-toggle="modal" data-target="#maps"> Yên Nghĩa, Hà
+                    Đông</a></div>
+                <div class="add_compare">
+                    <div class="share_vehicle">
+                        <p>Chia sẻ: <a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a> <a
+                                href="#"><i class="fa fa-twitter-square" aria-hidden="true"></i></a> <a href="#"><i
+                                    class="fa fa-linkedin-square" aria-hidden="true"></i></a> <a href="#"><i
+                                    class="fa fa-google-plus-square" aria-hidden="true"></i></a> </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="price_info">
+                    <p>{{ page.price | format: decimal_places }} VNĐ</p>
+                    <p class="old_price">{{ page.price | plus: 20000000 }} VNĐ</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="dark-overlay"></div>
+</section>
+<!-- /Listing-detail-header -->
+
+<section class="listing_other_info secondary-bg">
+    <div class="container">
+        <div id="filter_toggle" class="search_other"> <i class="fa fa-filter" aria-hidden="true"></i> Tìm xe
+        </div>
+        <div id="other_info"><i class="fa fa-info-circle" aria-hidden="true"></i></div>
+        <div id="info_toggle">
+            <button type="button" data-toggle="modal" data-target="#schedule"> <i class="fa fa-car"
+                    aria-hidden="true"></i> Đăng ký lái thử </button>
+            <button type="button" data-toggle="modal" data-target="#make_offer"> <i class="fa fa-money"
+                    aria-hidden="true"></i> Nhận báo giá </button>
+            <button type="button" data-toggle="modal" data-target="#email_friend"> <i class="fa fa-envelope"
+                    aria-hidden="true"></i> Gửi email </button>
+            <button type="button" data-toggle="modal" data-target="#more_info"> <i class="fa fa-file-text-o"
+                    aria-hidden="true"></i> Yêu cầu thêm thông tin </button>
+        </div>
+    </div>
+</section>
+
+<!-- Filter-Form -->
+{% include details/filter-form.html %}
+<!-- /Filter-Form -->
+
+<!--Listing-detail-->
+<section class="listing-detail">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9">
+                {% include details/slider.html %}
+                <div class="main_features">
+                    <ul>
+                        <li> <i class="fa fa-car" aria-hidden="true"></i>
+                            <h5>4.3 x 1.8 x 1.6</h5>
+                            <p>Kích thước (m)</p>
+                        </li>
+                        <li> <i class="fa fa-calendar" aria-hidden="true"></i>
+                            <h5>2010</h5>
+                            <p>Reg.Year</p>
+                        </li>
+                        <li> <i class="fa fa-cogs" aria-hidden="true"></i>
+                            <h5>Diesel</h5>
+                            <p>Fuel Type</p>
+                        </li>
+                        <li> <i class="fa fa-power-off" aria-hidden="true"></i>
+                            <h5>Automatic</h5>
+                            <p>Transmission</p>
+                        </li>
+                        <li> <i class="fa fa-superpowers" aria-hidden="true"></i>
+                            <h5>153KW</h5>
+                            <p>Engine</p>
+                        </li>
+                        <li> <i class="fa fa-user-plus" aria-hidden="true"></i>
+                            <h5>5</h5>
+                            <p>Số ghế</p>
+                        </li>
+                    </ul>
+                </div>
+                <div class="listing_more_info">
+                    <div class="listing_detail_wrap">
+                        <!-- Nav tabs -->
+                        <ul class="nav nav-tabs gray-bg" role="tablist">
+                            <li role="presentation" class="active"><a href="#vehicle-overview "
+                                    aria-controls="vehicle-overview" role="tab" data-toggle="tab">Đánh giá tổng quan
+                                </a></li>
+                            <li role="presentation"><a href="#specification" aria-controls="specification" role="tab"
+                                    data-toggle="tab">Thông số kĩ thuật</a></li>
+                            <li role="presentation"><a href="#accessories" aria-controls="accessories" role="tab"
+                                    data-toggle="tab">Công nghệ</a></li>
+                        </ul>
+
+                        <!-- Tab panes -->
+                        <div class="tab-content">
+                            <!-- vehicle-overview -->
+                            <div role="tabpanel" class="tab-pane active" id="vehicle-overview">
+                                <p>{{ content }}
+                                </p>
+                            </div>
+
+                            <!-- Technical-Specification -->
+                            {% include details/tech-specs.html %}
+
+                            <!-- Accessories -->
+                            {% include details/accessories.html %}
+                        </div>
+                    </div>
+
+                    <!--Vehicle-Video-->
+                    {% include core/video.html %}
+                </div>
+            </div>
+
+            <!--Side-Bar-->
+            <aside class="col-md-3">
+                <div class="sidebar_widget">
+                    {% include details/cal.html %}
+                </div>
+                <div class="sidebar_widget">
+                    {% include details/staff.html %}
+                </div>
+                <div class="sidebar_widget">
+                    {% include details/form.html %}
+                </div>
+            </aside>
+            <!--/Side-Bar-->
+
+        </div>
+        <div class="space-20"></div>
+        <div class="divider"></div>
+
+        <!--Similar-Cars-->
+        {% include details/similar.html %}
+        <!--/Similar-Cars-->
+
+    </div>
+</section>
+<!--/Listing-detail-->
+
+<!-- Maps -->
+<div class="modal fade" id="maps">
+    <div class="modal-dialog" role="document">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3725.9876812351326!2d105.75071706472352!3d20.953009845736332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3134554e07657a73%3A0xb90593864bbf287c!2zS0lBIFnDqm4gTmdoxKlh!5e0!3m2!1svi!2s!4v1601173743282!5m2!1svi!2s" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    </div>
+</div>
+<!-- End maps -->
+
+<!--Back to top-->
+<div id="back-top" class="back-top"> <a href="#top"><i class="fa fa-angle-up" aria-hidden="true"></i> </a> </div>
+<!--/Back to top-->
+
+<!--Schedule-Test-Drive -->
+<div class="modal fade" id="schedule">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                        aria-hidden="true">&times;</span></button>
+                <h3 class="modal-title">Đăng ký lịch lái thử</h3>
+            </div>
+            <div class="modal-body">
+                <form action="#" method="get">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Họ tên">
+                    </div>
+                    <div class="form-group">
+                        <input type="email" class="form-control" placeholder="Email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Số điện thoại">
+                    </div>
+                    <div class="form-group">
+                        <textarea rows="4" class="form-control" placeholder="Lời nhắn"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Gửi" class="btn btn-block">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!--/Schedule-Test-Drive -->
+
+<!--Make-Offer -->
+<div class="modal fade" id="make_offer">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                        aria-hidden="true">&times;</span></button>
+                <h3 class="modal-title">Make an Offer</h3>
+            </div>
+            <div class="modal-body">
+                <form action="#" method="get">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Full Name">
+                    </div>
+                    <div class="form-group">
+                        <input type="email" class="form-control" placeholder="Email Address">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Phone Number">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Offer Price">
+                    </div>
+                    <div class="form-group">
+                        <textarea class="form-control" placeholder="Message"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Submit Query" class="btn btn-block">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!--/Make-Offer -->
+
+<!--Email-to-Friend -->
+<div class="modal fade" id="email_friend">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                        aria-hidden="true">&times;</span></button>
+                <h3 class="modal-title">Email to a Friend</h3>
+            </div>
+            <div class="modal-body">
+                <form action="#" method="get">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Your Name">
+                    </div>
+                    <div class="form-group">
+                        <input type="email" class="form-control" placeholder="Your Email Address">
+                    </div>
+                    <div class="form-group">
+                        <input type="email" class="form-control" placeholder="Friend Email Address">
+                    </div>
+                    <div class="form-group">
+                        <textarea rows="4" class="form-control" placeholder="Message"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Submit Query" class="btn btn-block">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!--/Email-to-Friend -->
+
+<!--Request-More-Info -->
+<div class="modal fade" id="more_info">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                        aria-hidden="true">&times;</span></button>
+                <h3 class="modal-title">Request More Info</h3>
+            </div>
+            <div class="modal-body">
+                <form action="#" method="get">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Full Name">
+                    </div>
+                    <div class="form-group">
+                        <input type="email" class="form-control" placeholder="Email Address">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Phone Number">
+                    </div>
+                    <div class="form-group">
+                        <textarea rows="4" class="form-control" placeholder="Message"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Submit Query" class="btn btn-block">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!--/Request-More-Info -->

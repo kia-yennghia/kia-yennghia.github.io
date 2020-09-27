@@ -1,0 +1,12 @@
+<div class="listing_images">
+    <div id="listing_images_slider" class="listing_images_slider">
+        {% for slider in page.sliders %}
+        <div><img src="{{ site.baseurl }}{{ site.img }}{{ page.url }}{{ slider }}.jpg" alt="image"></div>
+        {% endfor %}
+    </div>
+    <div id="listing_images_slider_nav" class="listing_images_slider_nav">
+        {% for slider in page.sliders %}
+        <div><img src="{{ site.baseurl }}{{ site.img }}{{ page.url }}{{ slider }}.jpg" alt="image"></div>
+        {% endfor %}
+    </div>
+</div>
