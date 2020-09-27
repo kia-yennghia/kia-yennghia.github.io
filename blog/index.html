@@ -32,7 +32,7 @@ layout: default
                 {% for post in posts %}
                 <article class="article_wrap">
                     <div class="article_img">
-                        <a href="#"><img src="{{ site.img }}/{{ post.img }}" alt="image" /></a>
+                        <a href="#"><img src="{{ site.img }}/post/{{ post.img }}" alt="image" /></a>
                         <div class="articale_header">
                             <h2><a href="{{ post.url }}">{{ post.title }}.</a></h2>
                             <div class="article_meta">
@@ -47,15 +47,9 @@ layout: default
                                     </li>
                                     <li>
                                         <i class="fa fa-tags" aria-hidden="true"></i>
-                                        <a href="#">General</a>, <a href="#">Business</a>
-                                    </li>
-                                    <li>
-                                        <i class="fa fa-comment" aria-hidden="true"></i>
-                                        <a href="#">10 Comments</a>
-                                    </li>
-                                    <li>
-                                        <i class="fa fa-eye" aria-hidden="true"></i>
-                                        <a href="#">205 Views</a>
+                                        {% for category in page.categories %}
+                                        <a href="#">{{ category }}, </a>
+                                        {% endfor %}
                                     </li>
                                 </ul>
                             </div>
@@ -82,103 +76,7 @@ layout: default
             </div>
 
             <!--Side-bar-->
-            <aside class="col-lg-3 col-md-4">
-                <div class="sidebar_widget">
-                    <div class="widget_heading">
-                        <h5>Search Blog</h5>
-                    </div>
-                    <div class="blog_search">
-                        <form action="#" method="get">
-                            <input class="form-control" name="#" type="text" placeholder="Search..." />
-                            <button type="submit" class="search_btn">
-                                <i class="fa fa-search" aria-hidden="true"></i>
-                            </button>
-                        </form>
-                    </div>
-                </div>
-                <div class="sidebar_widget">
-                    <div class="widget_heading">
-                        <h5>Popular Posts</h5>
-                    </div>
-                    <div class="popular_post">
-                        <ul>
-                            <li>
-                                <div class="popular_post_img">
-                                    <a href="#"><img src="assets/images/200x200.jpg" alt="image" /></a>
-                                </div>
-                                <div class="popular_post_title">
-                                    <a href="#">At vero eos et accusamus et iusto odio dignissimos.</a>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="popular_post_img">
-                                    <a href="#"><img src="assets/images/200x200.jpg" alt="image" /></a>
-                                </div>
-                                <div class="popular_post_title">
-                                    <a href="#">On the other hand, we denounce with righteous.</a>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="popular_post_img">
-                                    <a href="#"><img src="assets/images/200x200.jpg" alt="image" /></a>
-                                </div>
-                                <div class="popular_post_title">
-                                    <a href="#">But I must explain to you how all this mistaken idea.</a>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="popular_post_img">
-                                    <a href="#"><img src="assets/images/200x200.jpg" alt="image" /></a>
-                                </div>
-                                <div class="popular_post_title">
-                                    <a href="#">Nor again is there anyone who loves or pursues.</a>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="sidebar_widget">
-                    <div class="widget_heading">
-                        <h5>Categories</h5>
-                    </div>
-                    <div class="categories_list">
-                        <ul>
-                            <li><a href="#">Trends</a></li>
-                            <li><a href="#">The Works</a></li>
-                            <li><a href="#">Hand Wash</a></li>
-                            <li><a href="#">General</a></li>
-                            <li><a href="#">Business</a></li>
-                            <li><a href="#">Auto Detail</a></li>
-                            <li><a href="#">Motorbikes</a></li>
-                            <li><a href="#">Compacts</a></li>
-                            <li><a href="#">Vans & Trucks</a></li>
-                            <li><a href="#">Buy a car</a></li>
-                            <li><a href="#">Sell your Car</a></li>
-                            <li><a href="#">Car Land</a></li>
-                            <li><a href="#">Car Showrooms</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="sidebar_widget">
-                    <div class="widget_heading">
-                        <h5>Tag Widget</h5>
-                    </div>
-                    <div class="tag_list">
-                        <ul>
-                            <li><a href="#">Trends</a></li>
-                            <li><a href="#">The Works</a></li>
-                            <li><a href="#">Auto Detail</a></li>
-                            <li><a href="#">Motorbikes</a></li>
-                            <li><a href="#">Compacts</a></li>
-                            <li><a href="#">Buy a car</a></li>
-                            <li><a href="#">Vans & Trucks</a></li>
-                            <li><a href="#">Car Land</a></li>
-                            <li><a href="#">Sell your Car</a></li>
-                            <li><a href="#">Sedans</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </aside>
+            {% include post/side-bar.html %}
             <!--/Side-bar-->
         </div>
     </div>

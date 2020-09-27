@@ -79,60 +79,7 @@ layout: default
             </div>
 
             <!--Side-bar-->
-            <aside class="col-lg-3 col-md-4">
-                <div class="sidebar_widget">
-                    <div class="widget_heading">
-                        <h5>Tìm kiếm bài viết</h5>
-                    </div>
-                    <div class="blog_search">
-                        <form action="#" method="get">
-                            <input class="form-control" name="search" type="text" placeholder="Tìm kiếm...">
-                            <button type="submit" class="search_btn"><i class="fa fa-search"
-                                    aria-hidden="true"></i></button>
-                        </form>
-                    </div>
-                </div>
-                <div class="sidebar_widget">
-                    <div class="widget_heading">
-                        <h5>Bài đăng phổ biến</h5>
-                    </div>
-                    <div class="popular_post">
-                        <ul>
-                            {% for post in site.posts limit: 4 %}
-                            <li>
-                                <div class="popular_post_img"> <a href="#"><img src="{{ site.img }}/post/{{ post.img }}"
-                                            alt="image"></a> </div>
-                                <div class="popular_post_title"> <a href="{{ post.url }}">{{ post.title }}</a> </div>
-                            </li>
-                            {% endfor %}
-                        </ul>
-                    </div>
-                </div>
-                <div class="sidebar_widget">
-                    <div class="widget_heading">
-                        <h5>Danh mục</h5>
-                    </div>
-                    <div class="categories_list">
-                        <ul>
-                            {% for category in site.categories %}
-                            <li><a href="#">{{ category[0] }}</a></li>
-                            {% endfor %}
-                        </ul>
-                    </div>
-                </div>
-                <div class="sidebar_widget">
-                    <div class="widget_heading">
-                        <h5>Tags</h5>
-                    </div>
-                    <div class="tag_list">
-                        <ul>
-                            {% for tag in site.tags %}
-                            <li><a href="#">{{ tag[0] }}</a></li>
-                            {% endfor %}
-                        </ul>
-                    </div>
-                </div>
-            </aside>
+            {% include post/side-bar.html %}
             <!--/Side-bar-->
 
         </div>
