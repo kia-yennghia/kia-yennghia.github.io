@@ -45,7 +45,7 @@ layout: default
                             </ul>
                         </div>
                     </div>
-                    <div class="article_img"> <img src="{{ site.img }}/{{ page.img }}" alt="image"> </div>
+                    <div class="article_img"> <img src="{{ site.img }}/post/{{ page.img }}" alt="image"> </div>
                     <div class="article_info">
                         <p>{{ content }}</p>
                     </div>
@@ -100,7 +100,7 @@ layout: default
                         <ul>
                             {% for post in site.posts limit: 4 %}
                             <li>
-                                <div class="popular_post_img"> <a href="#"><img src="{{ site.img }}/{{ post.img }}"
+                                <div class="popular_post_img"> <a href="#"><img src="{{ site.img }}/post/{{ post.img }}"
                                             alt="image"></a> </div>
                                 <div class="popular_post_title"> <a href="{{ post.url }}">{{ post.title }}</a> </div>
                             </li>
