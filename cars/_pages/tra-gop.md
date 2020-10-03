@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: tra-gop
-title: Thủ tục cho vay mua xe ô tô trả góp năm 2020 | Lãi suất cho vay tại các ngân hàng 2020
+title: Thủ tục cho vay mua xe ô tô trả góp và lãi suất ngân hàng năm 2020
 ---
 
 Cho vay mua ô tô đối với khách hàng cá nhân, hộ gia đình

@@ -1,151 +1,28 @@
 ---
 layout: default
 ---
-<!--Our-Blog-->
-<section class="our_blog">
+<!--Page Header-->
+<section class="page-header contactus_page">
+    <div class="container">
+        <div class="page-header_wrap">
+            <div class="page-heading">
+                <h1>{{ page.title }}</h1>
+            </div>
+            <ul class="coustom-breadcrumb">
+                <li><a href="/">Trang chủ</a></li>
+                <li>{{ page.title }}</li>
+            </ul>
+        </div>
+    </div>
+    <!-- Dark Overlay-->
+    <div class="dark-overlay"></div>
+</section>
+<!-- /Page Header-->
+
+<section class="contact_us section-padding">
     <div class="container">
         <div class="row">
-            <div class="col-lg-9 col-md-8">
-                <!--article-1-->
-                <article class="article_wrap article_full_info">
-                    <div class="articale_header">
-                        <h2>{{ page.title }}</h2>
-                        <div class="article_meta">
-                            <ul>
-                                <li><i class="fa fa-user-circle-o" aria-hidden="true"></i> <a
-                                        href="#">{{ site.author }}</a>
-                                </li>
-                                <li><i class="fa fa-calendar-check-o" aria-hidden="true"></i>
-                                    {{ page.date | date: "%d/%m/%Y" }}</li>
-                                <li><i class="fa fa-tags" aria-hidden="true"></i> <a href="#">General</a>, <a
-                                        href="#">Business</a></li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="article_info">
-                        <p>{{ content }}</p>
-                    </div>
-                    <div class="article_tag gray-bg">
-                        <div class="row">
-                            <div class="col-md-6 col-sm-6">
-                                <h6>Tags:</h6>
-                                <div class="tag_list">
-                                    <ul>
-                                        <li><a href="#">Trends</a></li>
-                                        <li><a href="#">Triple Foam</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-sm-6">
-                                <div class="share_article ">
-                                    <h6>Share:</h6>
-                                    <ul>
-                                        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </article>
-            </div>
-
-            <!--Side-bar-->
-            <aside class="col-lg-3 col-md-4">
-                <div class="sidebar_widget">
-                    <div class="widget_heading">
-                        <h5>Search Blog</h5>
-                    </div>
-                    <div class="blog_search">
-                        <form action="#" method="get">
-                            <input class="form-control" name="search" type="text" placeholder="Search...">
-                            <button type="submit" class="search_btn"><i class="fa fa-search"
-                                    aria-hidden="true"></i></button>
-                        </form>
-                    </div>
-                </div>
-                <div class="sidebar_widget">
-                    <div class="widget_heading">
-                        <h5>Popular Posts</h5>
-                    </div>
-                    <div class="popular_post">
-                        <ul>
-                            <li>
-                                <div class="popular_post_img"> <a href="#"><img src="assets/images/200x200.jpg"
-                                            alt="image"></a> </div>
-                                <div class="popular_post_title"> <a href="#">At vero eos et accusamus et iusto odio
-                                        dignissimos.</a> </div>
-                            </li>
-                            <li>
-                                <div class="popular_post_img"> <a href="#"><img src="assets/images/200x200.jpg"
-                                            alt="image"></a> </div>
-                                <div class="popular_post_title"> <a href="#">On the other hand, we denounce with
-                                        righteous.</a> </div>
-                            </li>
-                            <li>
-                                <div class="popular_post_img"> <a href="#"><img src="assets/images/200x200.jpg"
-                                            alt="image"></a> </div>
-                                <div class="popular_post_title"> <a href="#">But I must explain to you how all this
-                                        mistaken idea.</a> </div>
-                            </li>
-                            <li>
-                                <div class="popular_post_img"> <a href="#"><img src="assets/images/200x200.jpg"
-                                            alt="image"></a> </div>
-                                <div class="popular_post_title"> <a href="#">Nor again is there anyone who loves or
-                                        pursues.</a> </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="sidebar_widget">
-                    <div class="widget_heading">
-                        <h5>Categories</h5>
-                    </div>
-                    <div class="categories_list">
-                        <ul>
-                            <li><a href="#">Trends</a></li>
-                            <li><a href="#">The Works</a></li>
-                            <li><a href="#">Hand Wash</a></li>
-                            <li><a href="#">General</a></li>
-                            <li><a href="#">Business</a></li>
-                            <li><a href="#">Auto Detail</a></li>
-                            <li><a href="#">Motorbikes</a></li>
-                            <li><a href="#">Compacts</a></li>
-                            <li><a href="#">Vans & Trucks</a></li>
-                            <li><a href="#">Buy a car</a></li>
-                            <li><a href="#">Sell your Car</a></li>
-                            <li><a href="#">Car Land</a></li>
-                            <li><a href="#">Car Showrooms</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="sidebar_widget">
-                    <div class="widget_heading">
-                        <h5>Tag Widget</h5>
-                    </div>
-                    <div class="tag_list">
-                        <ul>
-                            <li><a href="#">Trends</a></li>
-                            <li><a href="#">The Works</a></li>
-                            <li><a href="#">Auto Detail</a></li>
-                            <li><a href="#">Motorbikes</a></li>
-                            <li><a href="#">Compacts</a></li>
-                            <li><a href="#">Buy a car</a></li>
-                            <li><a href="#">Vans & Trucks</a></li>
-                            <li><a href="#">Car Land</a></li>
-                            <li><a href="#">Sell your Car</a></li>
-                            <li><a href="#">Sedans</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </aside>
-            <!--/Side-bar-->
-
+            {{ content }}
         </div>
     </div>
 </section>
-<!-- /Our-Blog-->
