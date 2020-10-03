@@ -1,6 +1,6 @@
 - name: Trang chủ
   link: /
-- name: Sản phẩm
+- name: Bảng giá xe kia
   link: xe-kia
 - name: Thủ tục trả góp
   link: tra-gop

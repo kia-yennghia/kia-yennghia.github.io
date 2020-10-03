@@ -15,8 +15,7 @@ name: KIA YÊN NGHĨA
 title: KIA YÊN NGHĨA | LIÊN HỆ 0346 084 666
 email: duongvu8520@gmail.com
 phone: 0346 084 666
-description: >- # this means to ignore newlines until "baseurl:"
-  Phòng kinh doanh KIA Yên Nghĩa.
+description: "Kia Yên Nghĩa - Phân phối xe KIA chính hãng giá tốt. Nhiều quà tặng giá trị. Liên hệ ngay! HT Vay tối đa các Ngân Hàng, LS tốt nhất. HS nợ xấu. Thủ tục nhanh gọn. Sẵn Xe + Đủ Màu Giao Ngay. Bảo Hành Dài Hạn. Hỗ Trợ ĐKĐK. Lái Thử Xe Miễn Phí. Phụ Kiện Chính Hãng."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "dailykia5s.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title/

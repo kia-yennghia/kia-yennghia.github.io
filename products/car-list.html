@@ -1,5 +1,5 @@
 ---
-title: Danh sách xe tại Showroom Yên Nghĩa
+title: Bảng giá xe Kia cập nhật mới nhất năm 2020
 layout: default
 permalink: /xe-kia
 ---
@@ -113,18 +113,11 @@ permalink: /xe-kia
                         <h5><a href="{{ car.url }}">Kia {{ car.title }}</a></h5>
                         <p class="list-price">{{ car.price }} VNĐ</p>
                         <ul>
-                            <li><i class="fa fa-road" aria-hidden="true"></i>0,000 km</li>
-                            <li>
-                                <i class="fa fa-tachometer" aria-hidden="true"></i>30.000 miles
+                            {% for info in car.basic %}
+                            <li title="{{ info.name }}">
+                                <i class="fa {{ info.icon }}" aria-hidden="true"></i>{{ info.val }}
                             </li>
-                            <li><i class="fa fa-user" aria-hidden="true"></i>5 seats</li>
-                            <li>
-                                <i class="fa fa-calendar" aria-hidden="true"></i>2005 model
-                            </li>
-                            <li><i class="fa fa-car" aria-hidden="true"></i>Diesel</li>
-                            <li>
-                                <i class="fa fa-superpowers" aria-hidden="true"></i>143 kW
-                            </li>
+                            {% endfor %}
                         </ul>
                         <a href="{{ car.url }}" class="btn">Xem thêm
                             <span class="angle_arrow"><i class="fa fa-angle-right" aria-hidden="true"></i></span></a>

@@ -12,28 +12,15 @@
                     <p class="featured-price">{{ i.price }}</p>
                     <div class="car-location">
                         <span><i class="fa fa-map-marker" aria-hidden="true"></i>
-                            Colorado, USA</span>
+                            Kia Yên Nghĩa</span>
                     </div>
                 </div>
                 <ul>
-                    <li>
-                        <i class="fa fa-road" aria-hidden="true"></i>0,000 km
+                    {% for info in i.basic %}
+                    <li title="{{ info.name }}">
+                        <i class="fa {{ info.icon }}" aria-hidden="true"></i>{{ info.val }}
                     </li>
-                    <li>
-                        <i class="fa fa-tachometer" aria-hidden="true"></i>30.000
-                        miles
-                    </li>
-                    <li>
-                        <i class="fa fa-calendar" aria-hidden="true"></i>2005
-                        model
-                    </li>
-                    <li><i class="fa fa-car" aria-hidden="true"></i>Diesel</li>
-                    <li>
-                        <i class="fa fa-user" aria-hidden="true"></i>5 seats
-                    </li>
-                    <li>
-                        <i class="fa fa-superpowers" aria-hidden="true"></i>143 kW
-                    </li>
+                    {% endfor %}
                 </ul>
             </div>
         </div>
