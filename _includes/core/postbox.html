@@ -13,11 +13,11 @@
                             <p><i class="fa fa-share-alt" aria-hidden="true"></i></p>
                             <ul>
                                 <li><a target="_blank"
-                                        href="https://facebook.com/sharer.php?u={{ site.url }}{{ post.url | absolute_url }}"
+                                        href="https://facebook.com/sharer.php?u={{ post.url | absolute_url }}"
                                         onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;"><i
                                             class="fa fa-facebook" aria-hidden="true"></i></a></li>
                                 <li><a target="_blank"
-                                        href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{site.url}}{{ post.url | absolute_url }}"
+                                        href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{ post.url | absolute_url }}"
                                         onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;"><i
                                             class="fa fa-twitter" aria-hidden="true"></i></a></li>
                             </ul>
