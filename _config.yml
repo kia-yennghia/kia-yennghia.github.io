@@ -18,7 +18,7 @@ phone: 0346 084 666
 description: >- # this means to ignore newlines until "baseurl:"
   Phòng kinh doanh KIA Yên Nghĩa.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "dailykia5s.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title/
 
 author: Duong Vu
