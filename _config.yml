@@ -35,9 +35,6 @@ plugins:
   - jekyll-archives
   - jekyll-figure
 
-# Sitemap
-url: ""
-
 # Collections
 collections_dir: cars
 collections:
