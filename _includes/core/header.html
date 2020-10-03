@@ -42,7 +42,7 @@
                 <div class="collapse navbar-collapse" id="navigation">
                     <ul class="nav navbar-nav">
                         {% for nav in site.data.navigation %}
-                        <li><a href="{{ nav.link | absolute_url }}">{{ nav.name }}</a></li>
+                        <li><a href="{{ nav.link }}">{{ nav.name }}</a></li>
                         {% endfor %}
                     </ul>
                 </div>
