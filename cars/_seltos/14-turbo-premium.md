@@ -11,8 +11,8 @@ basic:
   - name: Trọng lượng không tải
     val: 2.070 kg
     icon: fa-tachometer
-  - name: Dung tích xi lanh
-    val: 2.199 cc
+  - name: Màu sắc
+    val: Trắng
     icon: fa-bandcamp
   - name: Loại nhiên liệu
     val: Xăng

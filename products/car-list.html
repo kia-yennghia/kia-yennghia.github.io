@@ -1,26 +1,8 @@
 ---
 title: Bảng giá xe Kia cập nhật mới nhất năm 2020
-layout: default
+layout: page
 permalink: /xe-kia
 ---
-
-<!--Page Header-->
-<section class="page-header listing_page">
-    <div class="container">
-        <div class="page-header_wrap">
-            <div class="page-heading">
-                <h1>{{ page.title }}</h1>
-            </div>
-            <ul class="coustom-breadcrumb">
-                <li><a href="/">Trang chủ</a></li>
-                <li>Xe Kia</li>
-            </ul>
-        </div>
-    </div>
-    <!-- Dark Overlay-->
-    <div class="dark-overlay"></div>
-</section>
-<!-- /Page Header-->
 
 <!--Listing-->
 <section class="listing-page">
@@ -37,28 +19,32 @@ permalink: /xe-kia
                                 <div class="form-group select">
                                     <select class="form-control">
                                         <option>Mẫu xe</option>
-                                        <option>Location 1</option>
-                                        <option>Location 2</option>
-                                        <option>Location 3</option>
-                                        <option>Location 4</option>
+                                        <option>Cerato</option>
+                                        <option>Morning</option>
+                                        <option>Optima</option>
+                                        <option>Rondo</option>
+                                        <option>Sedona</option>
+                                        <option>Seltos</option>
+                                        <option>Soluto</option>
+                                        <option>Sorento</option>
                                     </select>
                                 </div>
                                 <div class="form-group select">
                                     <select class="form-control">
                                         <option>Màu sắc</option>
-                                        <option>Brand 1</option>
-                                        <option>Brand 2</option>
-                                        <option>Brand 3</option>
-                                        <option>Brand 4</option>
+                                        <option>Đỏ</option>
+                                        <option>Trắng</option>
+                                        <option>Cam</option>
+                                        <option>Nâu</option>
                                     </select>
                                 </div>
                                 <div class="form-group select">
                                     <select class="form-control">
-                                        <option>Select Model</option>
-                                        <option>Series 1</option>
-                                        <option>Series 2</option>
-                                        <option>Series 3</option>
-                                        <option>Series 4</option>
+                                        <option>Số chỗ</option>
+                                        <option>4 chỗ</option>
+                                        <option>5 chỗ</option>
+                                        <option>6 chỗ</option>
+                                        <option>7 chỗ</option>
                                     </select>
                                 </div>
                                 <div class="form-group select">
@@ -72,7 +58,7 @@ permalink: /xe-kia
                                 <div class="form-group">
                                     <label class="form-label">Giá (VND)</label>
                                     <input id="price_range1" type="text" class="span2" value="" data-slider-min="50"
-                                        data-slider-max="6000" data-slider-step="5" data-slider-value="[1000,5000]" />
+                                        data-slider-max="50000000" data-slider-step="5" data-slider-value="[200000000,1500000000]" />
                                 </div>
                                 <div class="form-group">
                                     <button type="submit" class="btn btn-block">
@@ -103,14 +89,14 @@ permalink: /xe-kia
                 {% assign label = cars.label %}
                 {% if label != 'posts' and label != 'pages' %}
                 {% for car in site[label] %}
-                <div class="product-listing-m gray-bg">
+                <div class="product-listing-m gray-bg" id="car-list">
                     <div class="product-listing-img">
                         <a href="{{ car.url }}"><img src="{{ site.baseurl }}{{ site.img }}{{ car.url }}{{ car.img }}"
                                 class="img-responsive" alt="image" />
                         </a>
                     </div>
                     <div class="product-listing-content">
-                        <h5><a href="{{ car.url }}">Kia {{ car.title }}</a></h5>
+                        <h5><a class="name" href="{{ car.url }}">Kia {{ car.title }}</a></h5>
                         <p class="list-price">{{ car.price }} VNĐ</p>
                         <ul>
                             {% for info in car.basic %}
@@ -148,8 +134,8 @@ permalink: /xe-kia
                         <h5><i class="fa fa-filter" aria-hidden="true"></i> Tìm xe</h5>
                     </div>
                     <div class="sidebar_filter">
-                        <form action="#" method="get">
-                            <div class="form-group select">
+                        <form>
+                            <div class="form-group select" name="models" id="models">
                                 <select class="form-control">
                                     <option>Mẫu xe</option>
                                     <option>Cerato</option>
@@ -162,7 +148,7 @@ permalink: /xe-kia
                                     <option>Sorento</option>
                                 </select>
                             </div>
-                            <div class="form-group select">
+                            <div class="form-group select" name="colors" id="colors">
                                 <select class="form-control">
                                     <option>Màu sắc</option>
                                     <option>Đỏ</option>
@@ -171,17 +157,17 @@ permalink: /xe-kia
                                     <option>Nâu</option>
                                 </select>
                             </div>
-                            <div class="form-group select">
+                            <div class="form-group select" name="seats" id="seats">
                                 <select class="form-control">
                                     <option>Số chỗ</option>
                                     <option>4 chỗ</option>
+                                    <option>5 chỗ</option>
+                                    <option>6 chỗ</option>
                                     <option>7 chỗ</option>
-                                    <option>Series 3</option>
-                                    <option>Series 4</option>
                                 </select>
                             </div>
                             <div class="form-group select">
-                                <select class="form-control">
+                                <select class="form-control" name="fuels" id="fuels">
                                     <option>Loại nhiên liệu</option>
                                     <option>Xăng</option>
                                     <option>Dầu</option>
@@ -191,12 +177,7 @@ permalink: /xe-kia
                             <div class="form-group">
                                 <label class="form-label">Giá (VNĐ)</label>
                                 <input id="price_range" type="text" class="span2" value="" data-slider-min="50"
-                                    data-slider-max="6000" data-slider-step="5" data-slider-value="[1000,5000]" />
-                            </div>
-                            <div class="form-group">
-                                <button type="submit" class="btn btn-block">
-                                    <i class="fa fa-search" aria-hidden="true"></i> Tìm xe
-                                </button>
+                                    data-slider-max="50000000" data-slider-step="5" data-slider-value="[200000000,1500000000]" />
                             </div>
                         </form>
                     </div>
