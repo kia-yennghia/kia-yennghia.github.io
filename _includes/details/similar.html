@@ -13,10 +13,11 @@
                     <h5><a href="{{ car.url }}">Kia {{ car.title }}</a></h5>
                     <p class="list-price">{{ car.price }} VND</p>
                     <ul class="features_list">
-                        <li><i class="fa fa-road" aria-hidden="true"></i>35,000 km</li>
-                        <li><i class="fa fa-tachometer" aria-hidden="true"></i>30.000 miles</li>
-                        <li><i class="fa fa-calendar" aria-hidden="true"></i>2005 model</li>
-                        <li><i class="fa fa-car" aria-hidden="true"></i>Diesel</li>
+                        {% for info in car.basic limit: 4 %}
+                        <li title="{{ info.name }}">
+                            <i class="fa {{ info.icon }}" aria-hidden="true"></i>{{ info.val }}
+                        </li>
+                        {% endfor %}
                     </ul>
                 </div>
             </div>

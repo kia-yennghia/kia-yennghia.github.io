@@ -1,0 +1,10 @@
+<div class="main_features">
+    <ul>
+        {% for main in page.basic %}
+        <li> <i class="fa {{ main.icon }}" aria-hidden="true"></i>
+            <h5>{{ main.val }}</h5>
+            <p>{{ main.name }}</p>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

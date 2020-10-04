@@ -3,6 +3,7 @@ title: Soluto 1.4 AT Luxury
 price: 469000000
 categories: soluto
 img: "14-at-luxury.jpg"
+sliders: [1, 2, 3, 4, 5, 6]
 basic:
   - name: Chiều dài cơ sở xe
     val: 3.060 mm
@@ -19,9 +20,266 @@ basic:
   - name: Số chỗ ngồi
     val: 4 chỗ
     icon: fa-user
-  - name: Công suất cực đại
-    val: 190Hp/3.800rpm
+  - name: Số túi khí
+    val: 2 túi
     icon: fa-superpowers
+
+specs:
+  - name: Kích thước tổng thể (mm) 
+    val: 5115 x 1985 x 1755
+  - name: Chiều dài cơ sở (mm) 
+    val: 3060
+  - name: Khoảng sáng gầm xe (mm) 
+    val: 163
+  - name: Bán kính vòng quay (mm) 
+    val: 5600
+  - name: Trọng lượng không tải (Kg) 
+    val : 2070
+  - name: Trọng lượng toàn tải (Kg) 
+    val: 2830
+  - name: Dung tích bình nhiên liệu (L) 
+    val: 80
+  - name: Số chỗ ngồi 
+    val: 07 Chỗ
+  - name: Công nghệ động cơ 
+    val: Dầu, 2.2L CRD
+  - name: Loại động cơ 
+    val: DOHC
+  - name: Dung tích xi lanh (cc) 
+    val: 2.199 cc
+  - name: Công suất cực đại (hp / rpm) 
+    val: 190Hp / 3.800rpm
+  - name: Mô men xoắn cực đại (Nm / rpm) 
+    val: 440Nm / 1.750~2.750rpm
+  - name: Hộp số 
+    val: Số tự động 6 cấp
+  - name: Hệ thống dẫn động 
+    val: Cầu trước
+  - name: Hệ thống treo trước 
+    val: Kiểu Mc Pherson
+  - name: Hệ thống treo sau 
+    val: Đa liên kết
+  - name: Hệ thống phanh trước 
+    val: Đĩa thông gió
+  - name: Hệ thống phanh sau 
+    val: Đĩa đặc
+  - name: Trợ lực tay lái 
+    val: Trợ lực thủy lực
+  - name: Kích thước lốp xe 
+    val: 235/60R18
+  - name: Loại mâm xe 
+    val: Mâm đúc hợp kim nhôm
+
+acc:
+  - name: Hệ thống chống bó cứng phanh ABS.
+    icon: check
+  - name: Hệ thống phân phối lực phanh điện tử EBD.
+    icon: check
+  - name: Hệ thống ga tự động.
+    icon: check
+  - name: Khóa cửa điều khiển từ xa.
+    icon: check
+  - name: Hệ thống chống trộm.
+    icon: check
+  - name: Chống sao chép chìa khóa.
+    icon: check
+  - name: Dây đai an toàn các hàng ghế.
+    icon: check
+  - name: Chức năng đèn mở rộng góc chiếu
+    icon: close
+  - name: Đèn chiếu sáng ban ngày LED
+    icon: close
+  - name: Cụm đèn sau LED
+    icon: close
+  - name: Đèn sương mù trước
+    icon: check
+  - name: Cánh hướng gió phía sau
+    icon: check
+  - name: Đèn báo phanh trên cao
+    icon: check
+  - name: Giá đỡ hành lý trên mui xe
+    icon: check
+  - name: Lưới tản nhiệt
+    icon: close
+  - name: Viền Logo cốp sau
+    icon: close
+  - name: Gạt mưa trước
+    icon: close
+  - name: Gương chiếu hậu chỉnh điện 
+    icon: check
+  - name: Gương chiếu hậu gập điện 
+    icon: check
+  - name: Gương chiếu hậu tích hợp đèn báo rẽ 
+    icon: check
+  - name: Phim cách nhiệt 
+    icon: check
+  - name: Bọc da vô lăng
+    icon: check
+  - name: Vô lăng tích hợp nút bấm âm thanh 
+    icon: check
+  - name: Chế độ điện thoại rảnh tay 
+    icon: check
+  - name: Vô lăng điều chỉnh
+    icon: close
+  - name: Màn hình hiển thị đa thông tin 
+    icon: check
+  - name: Hệ thống loa 6 loa
+    icon: check
+  - name: Đầu DVD, MP3, Radio 
+    icon: check
+  - name: Cổng kết nối AUX 
+    icon: check
+  - name: Cổng kết nối USB 
+    icon: check
+  - name: Kết nối Bluetooth 
+    icon: check
+  - name: Sấy kính trước 
+    icon: check
+  - name: Sấy kính sau 
+    icon: check
+  - name: Sưởi vô lăng
+    icon: close
+  - name: Sưởi và làm mát hàng ghế trước
+    icon: close
+  - name: Kính cửa điều khiển điện 1 chạm, chống kẹp ở 2 cửa trước 
+    icon: check
+  - name: Cửa hông
+    icon: close
+  - name: Cốp sau chỉnh điện
+    icon: close
+  - name: Điều hòa tự động Chỉnh cơ
+    icon: close
+  - name: Hệ thống lọc khí 
+    icon: close
+  - name: Hệ thống điều hòa sau Chỉnh cơ
+    icon: close
+  - name: Gương chiếu hậu chống chói (ECM) 
+    icon: close
+  - name: Hệ thống kiểm soát tiêu hao nhiên liệu 
+    icon: check
+  - name: Cửa sổ trời 
+    icon: close
+  - name: Rèm che nắng hàng ghế 2 và 3 
+    icon: check
+  - name: Ghế da cao cấp 
+    icon: check
+  - name: Điều chỉnh ghế lái Chỉnh cơ
+    icon: close
+  - name: Hàng ghế thứ 3 gập tỷ lệ
+    icon: close
+  - name: Đèn trang điểm
+    icon: close
+  - name: Hệ thống chống bó cứng phanh (ABS) 
+    icon: check
+  - name: Hệ thống hỗ trợ lực phanh khẩn cấp BA 
+    icon: close
+  - name: Hệ thống phân phối lực phanh điện tử EBD 
+    icon: check
+  - name: Hệ thống cân bằng điện tử (ESP) 
+    icon: close
+  - name: Hệ thống chống trộm 
+    icon: check
+  - name: Chống sao chép chìa khóa
+    icon: close
+  - name: Dây đai an toàn các hàng ghế
+    icon: close
+  - name: Hệ thống túi khí 2 túi khí
+    icon: close
+  - name: Khóa cửa trung tâm 
+    icon: check
+  - name: Khóa cửa tự động theo tốc độ
+    icon: close
+  - name: Hệ thống cảnh báo điểm mù BSM
+    icon: close
+  - name: Cảm biến hỗ trợ đỗ xe trước 
+    icon: close
+  - name: Cảm biến hỗ trợ đỗ xe sau 
+    icon: check
+  - name: Camera lùi 
+    icon: check
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Tổng quan
+KIA Soluto AT Luxury hay còn gọi là KIA Pegas là mẫu sedan hạng B xuất hiện lần đầu tiên trước công chúng trong triển lãm ô tô Thượng Hải 2017. Soluto được sản xuất dựa trên nền tảng của mẫu xe KIA K2 hướng tới khách hàng trẻ. Khi Soluto được bán chính thức tại Việt Nam nó sẽ thay thế cho KIA Rio và sẽ chám trán các đối thủ cực mạnh như Toyota Vios, Hyundai Accent, Honda City,...
+
+<img src="/assets/images/soluto/14-at-luxury/kia-soluto-anh1.jpg" style="width: 100%" alt="KIA Soluto AT Luxury - Hình 1" />
+KIA Soluto thiết kế vẻ ngoài trẻ trung
+
+## Ngoại thất
+KIA Soluto sở hữu kích thước tổng thể dài x rộng x cao lần lượt là 4.300 x 1.700 x 1.460 mm. Mẫu xe này lần đầu ra mắt đã thu hút được rất nhiều sự quan tâm từ khách hàng vì sử dụng khung gầm được chia từ KIA K2.
+
+<img src="/assets/images/soluto/14-at-luxury/kia-soluto-anh2.jpg" style="width: 100%" alt="KIA Soluto AT Luxury - Hình 2" />
+KIA Soluto thiết kế vẻ ngoài trẻ trung
+
+
+Đầu xe nổi bật với lưới tản nhiệt dạng “mũi hổ” với kiểu dáng thanh mảnh nối liền với cụm đèn pha bầu bĩnh. Điểm nhấn là sự xuất hiện của hốc hút gió kéo dài là yếu tố giúp phần đầu xe trở nên rộng rãi và cứng cáp hơn. Thiết kế hai bóng đèn sương mù trên cản trước làm hoàn thiện tổng thể đầu xe.
+
+<img src="/assets/images/soluto/14-at-luxury/kia-soluto-anh3.jpg" style="width: 100%" alt="KIA Soluto AT Luxury - Hình 3" />
+Đầu xe nổi bật với lưới tản nhiệt
+
+Từ đầu xe quan sát xuống thân xe bạn sẽ ấn tượng với những đường gân dập nổi kéo dài từ vòm bánh trước đến tận đèn hậu góp phần tăng tính khí động học cho xe. Nổi bật trên thân xe chính là bộ vành kích thước 14 inch cực kỳ phù hợp với ngoại hình của xe.
+
+<img src="/assets/images/soluto/14-at-luxury/kia-soluto-anh4.jpg" style="width: 100%" alt="KIA Soluto AT Luxury - Hình 4" />
+Thân xe thiết kế những đường gân dập nổi kéo dài
+
+Thân xe còn nổi bật với trang bị gương chiếu hậu cho phép chỉnh điện tích hợp đèn báo rẽ LED nổi bật. Thiết kế tay nắm cửa được phủ lớp crom sáng bóng giúp hông xe thêm phần sang trọng. Phong cách thiết kế dáng xe hơi xuôi về phía sau chính là cách giúp chiếc xe có vẻ dài hơn và cuốn hút hơn.
+
+Từ thân xe quan sát xuống đuôi xe, bạn sẽ nhận thấy rất nhiều điểm tương đồng giữa Soluto và KIA K2. Thiết kế đuôi xe uyển chuyển nhờ các đường nét bo tròn kết hợp cùng cụm đèn hậu dạng đa giác với kiểu thiết kế chia làm 2 tầng ấn tượng.
+
+<img src="/assets/images/soluto/14-at-luxury/kia-soluto-anh1.jpg" style="width: 100%" alt="KIA Soluto AT Luxury - Hình 5" />
+Thiết kế đuôi xe uyển chuyển thể thao
+
+Bên dưới là cụm đèn phản quang đối xứng nhau giúp tăng yếu tố nhận diện cho các phương tiện phía sau nhất là khi di chuyển vào ban đêm. Đuôi xe càng thêm phần sang trọng và tinh tế nhớ thiết kế cụm ống xả dạng ống đặt lệch về bên phải và được giấu kín dưới gầm.
+
+<img src="/assets/images/soluto/14-at-luxury/kia-soluto-anh5.jpg" style="width: 100%" alt="KIA Soluto AT Luxury - Hình 6" />
+Đuôi xe sang trọng và tinh tế
+
+ 
+
+## Nội thất
+
+Nội thất Soluto AT Luxury được thay đổi theo hướng sang trọng & tiện nghi hơn với ghế da phối 2 tông màu xám đỏ thay vì 2 tông màu xám đậm nhạt như các phiên bản khác. Điểm khác biệt lớn nhất chính là ở phiên bản này, Kia Việt Nam sẽ thay thế chìa khóa cơ bằng chìa khóa thông minh (smartkey) với nút nhấn khởi động (Start/Stop).
+<img src="/assets/images/soluto/14-at-luxury/kia-luxury-a2.jpg" style="width: 100%" alt="KIA Soluto AT Luxury - Hình 7" />
+
+
+Chiều dài cơ sở của KIA Soluto AT Luxury là 2570 mm, thông số này nhỉnh hơn đối thủ Toyota Vios có kích thước 2550 mm. Nhờ vậy, bạn có thể yên tâm Soluto hứa hẹn mang tới cho tất cả các hành khách trên xe không gian nội thất thoáng đãng.
+
+<img src="/assets/images/soluto/14-at-luxury/kia-soluto-anh6.jpg" style="width: 100%" alt="KIA Soluto AT Luxury - Hình 8" />
+Không gian nội thất thoáng đãng
+
+Bước vào cabin xe, bạn sẽ ấn tượng ngay với phong cách thiết kế bảng táp lô hài hòa và trang nhã trên nền đen chủ đạo. Xe sử dụng vô lăng 3 chấu bọc da tích hợp nút bấm tiện lợi cho phép bạn dễ dàng thao tác.
+
+<img src="/assets/images/soluto/14-at-luxury/kia-soluto-anh7.jpg" style="width: 100%" alt="KIA Soluto AT Luxury - Hình 9" />
+vô lăng 3 chấu bọc da tích hợp nút bấm tiện lợi
+
+Bạn có thể tùy chọn phiên bản Soluto với ghế ngồi bọc da sang trọng hoặc nỉ thông thường. Thiết kế ghế lái cho phép tùy chỉnh độ cao giúp bạn có tầm quan sát tốt nhất. Đồng thời, bạn cũng có thể điều chỉnh tựa đầu hàng ghế trước.
+
+<img src="/assets/images/soluto/14-at-luxury/kia-soluto-anh8.jpg" style="width: 100%" alt="KIA Soluto AT Luxury - Hình 10" />
+Ghế bọc da sang trọng
+
+Về tiện nghi trên xe, Soluto sử dụng điều hòa còn khá đơn điệu, cụ thể bạn phải sử dụng núm xoay để điều chỉnh độ lạnh. Tuy nhiên, bạn có thể yên tâm vì hệ thống điều hòa của Soluto hoàn toàn đáp ứng khả năng làm lạnh nhanh và sâu cho mọi vị trí trên xe.
+
+Về tiện nghi giải trí, KIA Soluto được trang bị màn hình cảm ứng 7 inch, cho phép kết nối Apple Carplay, Android Auto cùng với rất nhiều tính năng mới. Ngoài ra, còn phải kể tới các tiện nghi như đèn khoang hành lý, hộc đựng cốc, hộc đựng đồ, cửa sổ phía sau chỉnh điện.
+
+<img src="/assets/images/soluto/14-at-luxury/kia-soluto-at-deluxe-1-4l-10.jpg" style="width: 100%" alt="KIA Soluto AT Luxury - Hình 11" />
+KIA Soluto được trang bị màn hình cảm ứng 7 inch
+
+ 
+
+## Vận hành
+
+KIA Soluto AT Luxury được trang bị động cơ Kappa 1.4L Dual – CVVT cho khả năng sản sinh công suất 93 mã lực tại 6000 vòng/phút, mô men xoắn cực đại 132 Nm tại 4000 vòng/phút. Soluto dùng hộp số tùy chọn gồm hộp số sàn 5 cấp hoặc hộp số tự động 4 cấp. Với hộp số sàn thì có ưu điểm đó là giúp xe tiết kiệm nhiên liệu đồng thời mang tới cảm giác lái chân thật. Tuy nhiên, nhược điểm của xe sử dụng số sàn đó là quá trình chuyển số còn giật cục.
+
+<img src="/assets/images/soluto/14-at-luxury/kia-soluto-at-deluxe-1-4l-11.jpg" style="width: 100%" alt="KIA Soluto AT Luxury - Hình 12" />
+Động cơ vận hành mãnh mẽ
+
+Còn nếu bạn chọn Soluto hộp số tự động 4 cấp thì có ưu điểm đó là quá trình sang số diễn ra nhanh chóng và mượt mà. Đây được xem là trang bị hộp số được đông đảo khách hàng nữ ưu tiên chọn lựa vì việc lái xe không đòi hỏi bạn phải thao tác quá nhiều nhất là sử dụng xe trong đô thị.
+
+## An toàn
+
+Các tính năng an toàn trên Kia Soluto AT Luxury là một bước nâng cấp của các phiên bản hiện hữu khi mẫu xe được trang bị thêm hệ thống cân bằng điện tử (ESP), hệ thống khởi hành ngang dốc (HAC) ngoài các tiện ích so vốn có ở các phiên bản khác như camera lùi, cảm biến lùi, 2 túi khí, ABS, EBD.
+
+Bên cạnh đó, Kia Soluto AT Luxury còn được bổ sung trang bị tính năng điều khiển hành trình (Cruise Control). Một tính năng tối ưu cho những khách hàng có nhu cầu thường xuyên di chuyển trên các cung đường trường, đường cao tốc.
+<img src="/assets/images/soluto/14-at-luxury/kia-luxury-a1.jpg" style="width: 100%" alt="KIA Soluto AT Luxury - Hình 13" />
+
+Ngoài các trang bị tiện ích cao cấp trên, Kia Soluto AT Luxury còn được trang bị tính năng công nghệ thông minh Kia Link, tính năng hoàn toàn mới được Kia Việt Nam phát triển theo chiến lược ứng dụng công nghệ kỹ thuật số trên thế giới giúp khách hàng kiểm soát tình trạng xe và hỗ trợ khách hàng chủ động khi đặt lịch hẹn dịch vụ, bảo dưỡng cho xe.

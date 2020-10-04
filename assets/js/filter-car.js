@@ -10,12 +10,13 @@ const searchOptions = {
   };
   
   // Define the list object.
-  const recipeList = new List('car-list', searchOptions);
+  const carList = new List('car-list', searchOptions);
   
-  const checkCategory = document.getElementsByClassName('js-category');
-  const checkDuration = document.getElementsByClassName('js-duration');
-  const checkMeat = document.getElementsByClassName('js-meat');
-  const checkOrigin = document.getElementsByClassName('js-origin');
+  const models = document.getElementById('models');
+  const colors = document.getElementById('colors');
+  const seats = document.getElementById('seats');
+  const fuels = document.getElementById('fuels');
+
   
   const checkBoxes = document.getElementsByClassName('searchbar-checkbox');
   

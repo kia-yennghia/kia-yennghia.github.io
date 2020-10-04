@@ -58,34 +58,7 @@ layout: default
         <div class="row">
             <div class="col-md-9">
                 {% include details/slider.html %}
-                <div class="main_features">
-                    <ul>
-                        <li> <i class="fa fa-car" aria-hidden="true"></i>
-                            <h5>4.3 x 1.8 x 1.6</h5>
-                            <p>Kích thước (m)</p>
-                        </li>
-                        <li> <i class="fa fa-calendar" aria-hidden="true"></i>
-                            <h5>2010</h5>
-                            <p>Reg.Year</p>
-                        </li>
-                        <li> <i class="fa fa-cogs" aria-hidden="true"></i>
-                            <h5>Diesel</h5>
-                            <p>Fuel Type</p>
-                        </li>
-                        <li> <i class="fa fa-power-off" aria-hidden="true"></i>
-                            <h5>Automatic</h5>
-                            <p>Transmission</p>
-                        </li>
-                        <li> <i class="fa fa-superpowers" aria-hidden="true"></i>
-                            <h5>153KW</h5>
-                            <p>Engine</p>
-                        </li>
-                        <li> <i class="fa fa-user-plus" aria-hidden="true"></i>
-                            <h5>5</h5>
-                            <p>Số ghế</p>
-                        </li>
-                    </ul>
-                </div>
+                {% include details/main-features.html %}
                 <div class="listing_more_info">
                     <div class="listing_detail_wrap">
                         <!-- Nav tabs -->
@@ -103,8 +76,7 @@ layout: default
                         <div class="tab-content">
                             <!-- vehicle-overview -->
                             <div role="tabpanel" class="tab-pane active" id="vehicle-overview">
-                                <p>{{ content }}
-                                </p>
+                                {{ content }}
                             </div>
 
                             <!-- Technical-Specification -->

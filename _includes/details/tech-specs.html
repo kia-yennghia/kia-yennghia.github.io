@@ -2,71 +2,13 @@
     <div class="table-responsive">
         <!--Basic-Info-Table-->
         <table>
-            <thead>
-                <tr>
-                    <th colspan="2">BASIC INFO</th>
-                </tr>
-            </thead>
             <tbody>
+                {% for spec in page.specs %}
                 <tr>
-                    <td>Model Year</td>
-                    <td>2010</td>
+                    <td>{{ spec.name }}</td>
+                    <td>{{ spec.val }}</td>
                 </tr>
-                <tr>
-                    <td>No. of Owners</td>
-                    <td>4</td>
-                </tr>
-                <tr>
-                    <td>KMs Driven</td>
-                    <td>30,000</td>
-                </tr>
-                <tr>
-                    <td>Fuel Type</td>
-                    <td>Diesel</td>
-                </tr>
-            </tbody>
-        </table>
-
-        <!--Technical-Specification-Table-->
-        <table>
-            <thead>
-                <tr>
-                    <th colspan="2">Technical Specification</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>Engine Type</td>
-                    <td>TDCI Diesel Engine</td>
-                </tr>
-                <tr>
-                    <td>Engine Description</td>
-                    <td>1.5KW</td>
-                </tr>
-                <tr>
-                    <td>No. of Cylinders</td>
-                    <td>4</td>
-                </tr>
-                <tr>
-                    <td>Mileage-City</td>
-                    <td>22.4kmpl</td>
-                </tr>
-                <tr>
-                    <td>Mileage-Highway</td>
-                    <td>25.83kmpl</td>
-                </tr>
-                <tr>
-                    <td>Fuel Tank Capacity</td>
-                    <td>40 (Liters)</td>
-                </tr>
-                <tr>
-                    <td>Seating Capacity</td>
-                    <td>5</td>
-                </tr>
-                <tr>
-                    <td>Transmission Type</td>
-                    <td>Manual</td>
-                </tr>
+                {% endfor %}
             </tbody>
         </table>
     </div>

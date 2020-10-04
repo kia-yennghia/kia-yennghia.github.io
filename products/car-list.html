@@ -96,7 +96,7 @@ permalink: /xe-kia
                         </a>
                     </div>
                     <div class="product-listing-content">
-                        <h5><a class="name" href="{{ car.url }}">Kia {{ car.title }}</a></h5>
+                        <h5><a class="name" href="{{ car.url }}" data-name="{{ car.title }}">Kia {{ car.title }}</a></h5>
                         <p class="list-price">{{ car.price }} VNĐ</p>
                         <ul>
                             {% for info in car.basic %}
@@ -134,50 +134,50 @@ permalink: /xe-kia
                         <h5><i class="fa fa-filter" aria-hidden="true"></i> Tìm xe</h5>
                     </div>
                     <div class="sidebar_filter">
-                        <form>
-                            <div class="form-group select" name="models" id="models">
-                                <select class="form-control">
-                                    <option>Mẫu xe</option>
-                                    <option>Cerato</option>
-                                    <option>Morning</option>
-                                    <option>Optima</option>
-                                    <option>Rondo</option>
-                                    <option>Sedona</option>
-                                    <option>Seltos</option>
-                                    <option>Soluto</option>
-                                    <option>Sorento</option>
+                        <form name="filter">
+                            <div class="form-group select">
+                                <select class="form-control" name="models" id="models">
+                                    <option value="">Mẫu xe</option>
+                                    <option value="cerato">Cerato</option>
+                                    <option value="morning">Morning</option>
+                                    <option value="optima">Optima</option>
+                                    <option value="rondo">Rondo</option>
+                                    <option value="sedora">Sedona</option>
+                                    <option value="seltos">Seltos</option>
+                                    <option value="soluto">Soluto</option>
+                                    <option value="sorento">Sorento</option>
                                 </select>
                             </div>
-                            <div class="form-group select" name="colors" id="colors">
-                                <select class="form-control">
-                                    <option>Màu sắc</option>
-                                    <option>Đỏ</option>
-                                    <option>Trắng</option>
-                                    <option>Cam</option>
-                                    <option>Nâu</option>
+                            <div class="form-group select">
+                                <select class="form-control" name="colors" id="colors">
+                                    <option value="">Màu sắc</option>
+                                    <option value="red">Đỏ</option>
+                                    <option value="white">Trắng</option>
+                                    <option value="orange">Cam</option>
+                                    <option value="brown">Nâu</option>
                                 </select>
                             </div>
-                            <div class="form-group select" name="seats" id="seats">
-                                <select class="form-control">
-                                    <option>Số chỗ</option>
-                                    <option>4 chỗ</option>
-                                    <option>5 chỗ</option>
-                                    <option>6 chỗ</option>
-                                    <option>7 chỗ</option>
+                            <div class="form-group select">
+                                <select class="form-control" name="seats" id="seats">
+                                    <option value="">Số chỗ</option>
+                                    <option value="4 chỗ">4 chỗ</option>
+                                    <option value="5 chỗ">5 chỗ</option>
+                                    <option value="6 chỗ">6 chỗ</option>
+                                    <option value="7 chỗ">7 chỗ</option>
                                 </select>
                             </div>
                             <div class="form-group select">
                                 <select class="form-control" name="fuels" id="fuels">
-                                    <option>Loại nhiên liệu</option>
-                                    <option>Xăng</option>
-                                    <option>Dầu</option>
+                                    <option value="">Loại nhiên liệu</option>
+                                    <option value="xăng">Xăng</option>
+                                    <option value="dầu">Dầu</option>
                                 </select>
                             </div>
 
                             <div class="form-group">
                                 <label class="form-label">Giá (VNĐ)</label>
-                                <input id="price_range" type="text" class="span2" value="" data-slider-min="50"
-                                    data-slider-max="50000000" data-slider-step="5" data-slider-value="[200000000,1500000000]" />
+                                <input id="price_range" type="text" class="span2" value="" data-slider-min="300000000"
+                                    data-slider-max="1000000000" data-slider-step="5" data-slider-value="[200000000,1500000000]" />
                             </div>
                         </form>
                     </div>
