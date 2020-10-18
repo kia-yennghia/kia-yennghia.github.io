@@ -5,7 +5,7 @@ collections:
   cerato:
     title: Cerato
     output: true
-  content:
+  cars:
     title: Content
     output: true
   morning:
