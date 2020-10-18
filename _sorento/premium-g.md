@@ -2,7 +2,7 @@
 title: Sorento Premium G
 categories:
 - sorento
-price: 869000000
+price: '869000000'
 img: premium-g.jpg
 basic:
 - name: Chiều dài cơ sở xe
@@ -21,23 +21,23 @@ basic:
   val: 4 chỗ
   icon: fa-user
 - name: Số túi khí
-  val: 2 túi
+  val: 2 túi khí
   icon: fa-superpowers
 specs:
 - name: Kích thước tổng thể (mm)
   val: 5115 x 1985 x 1755
 - name: Chiều dài cơ sở (mm)
-  val: 3060
+  val: '3060'
 - name: Khoảng sáng gầm xe (mm)
-  val: 163
+  val: '163'
 - name: Bán kính vòng quay (mm)
-  val: 5600
+  val: '5600'
 - name: Trọng lượng không tải (Kg)
-  val: 2070
+  val: '2070'
 - name: Trọng lượng toàn tải (Kg)
-  val: 2830
+  val: '2830'
 - name: Dung tích bình nhiên liệu (L)
-  val: 80
+  val: '80'
 - name: Số chỗ ngồi
   val: 07 Chỗ
 - name: Công nghệ động cơ
