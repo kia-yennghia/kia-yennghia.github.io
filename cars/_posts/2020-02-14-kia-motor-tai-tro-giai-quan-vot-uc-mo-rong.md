@@ -1,9 +1,12 @@
 ---
+title: 'Kia Motors: Nhà Tài Trợ Chính Cho Giải Quần Vợt Úc Mở Rộng 2020'
 layout: post
-title: "Kia Motors: Nhà Tài Trợ Chính Cho Giải Quần Vợt Úc Mở Rộng 2020"
-categories:  ['kia motors', 'showroom kia']
-tags: ['seltos']
-img: "kia-motor.jpg"
+categories:
+- kia motors
+- showroom kia
+tags:
+- seltos
+img: kia-motor.jpg
 video: false
 ---
 

@@ -1,8 +1,10 @@
 ---
+title: Bài viết mới
 layout: post
-title: "Bài viết mới"
-categories: ['kia motors', 'kia yên nghĩa']
-img: "kia-pk-main-0716-w.jpg"
+categories:
+- kia motors
+- kia yên nghĩa
+img: kia-pk-main-0716-w.jpg
 video: false
 ---
 

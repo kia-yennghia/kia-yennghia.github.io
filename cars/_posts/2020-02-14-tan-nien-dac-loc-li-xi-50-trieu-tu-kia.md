@@ -1,8 +1,9 @@
 ---
+title: Tân Niên Đắc Lộc – Lì Xì Trao Tay lên đến 50 triệu từ Kia Việt Nam
 layout: post
-title: "Tân Niên Đắc Lộc – Lì Xì Trao Tay lên đến 50 triệu từ Kia Việt Nam"
-categories: ['kia motors']
-img: "kia-motor.jpg"
+categories:
+- kia motors
+img: kia-motor.jpg
 ---
 
 Nhân dịp đầu xuân, Kia Việt Nam dành tặng gói ưu đãi với tổng trị giá lên đến 50 triệu đồng bao gồm: ưu đãi giá, quà tặng phụ kiện cao cấp chính hãng, gói phụ kiện tiện ích và dịch vụ bảo dưỡng đến các khách hàng mua xe Kia trong tháng 2. Như một món quà lì xì may mắn đầu Xuân, Kia Việt Nam mong muốn đem đến cơ hội sở hữu ô tô với mức chi phí tốt nhất trong năm mới đồng thời không ngừng nâng cao chất lượng dịch vụ theo tiêu chuẩn Kia toàn cầu đến tất cả các khách hàng.

@@ -1,8 +1,9 @@
 ---
+title: Chọn Xe Kia Nào Phù Hợp Với Khả Năng Tài Chính Của Bạn?
 layout: post
-title: "Chọn Xe Kia Nào Phù Hợp Với Khả Năng Tài Chính Của Bạn?"
-categories: ['kia motors']
-img: "kia-seltos-first-drive.jpg"
+categories:
+- kia motors
+img: kia-seltos-first-drive.jpg
 ---
 
 Với dãy sản phẩm đa dạng hàng đầu thị trường: từ Hatchback, Sedan, SUV đến MPV đi kèm giá bán tốt nhất phân khúc A, B, C, D phù hợp với khả năng tài chính của từng đối tượng khách hàng, Kia Việt Nam đã và đang là thương hiệu uy tín được khách hàng nghĩ đến đầu tiên khi chọn mua xe ô tô.
