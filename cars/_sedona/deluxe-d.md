@@ -1,5 +1,5 @@
 ---
-title: Sedora Deluxe D
+title: Sedona Deluxe D
 price: 1039000000
 categories: sedona
 img: deluxe-d.jpg
@@ -202,4 +202,140 @@ acc:
   icon: check
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## TỔNG QUAN
+
+Kia Sedona thuộc phân khúc Minivan, hoặc cũng có thể xếp vào phân khúc MPV, có 7 chỗ ngồi. Ở một vài thị trường nó còn có tên là Kia Carnival, gợi nhớ đến các lễ hội Carnival nổi tiếng trên khắp thế giới. Kia Sedona được hãng xe Hàn Quốc giới thiệu lần đầu năm 1998 và đến nay đang là thế hệ thứ 3. Tại Việt nam, thế hệ mới lần đầu được giới thiệu năm 2015 cùng với các thị trường khác trên thế giới và hiện là mẫu xe gia đình cao cấp bán chạy nhất Việt Nam.
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-1.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 1" />
+*Tổng quan Sedona 2.2L DAT*
+
+## NGOẠI THẤT
+
+**Đầu trước thiết kế ấn tượng**
+
+Lưới tản nhiệt hình mũi hổ với viền mạ chrome kết hợp cùng cụm đèn sắc sảo cho cái nhìn ấn tượng, tương xứng với vẻ bề thế của chiếc xe.
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-2.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 2" />
+*Lưới tản nhiệt hình mũi hổ với viền mạ chrome*
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-3.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 3" />
+*Ga lăng sang trọng*
+
+**Cụm đèn hậu dạng LED**
+
+Phần đuôi xe thiết kế hài hòa giữa cụm đèn hậu dạng LED và cốp sau mang đến cái nhìn trang nhã và tinh tế, phù hợp với thiết kế tổng thể của mẫu xe.
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-4.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 4" />
+*Cụm đèn hậu dạng LED thiết kế trang nhã và tinh tế*
+
+**Cụm đèn pha thiết kế ấn tượng**
+
+Cụm đèn pha thiết kế ấn tượng với đầy đủ công nghệ hiện đại nhất hiện nay gồm đèn xenon cho ánh sáng trắng xanh đôc đáo, kết hợp cùng công nghệ LED chạy ban ngày cho cái nhìn cuốn hút.
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-5.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 5" />
+*Cụm đèn pha thiết kế ấn tượng hiện đại*
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-6.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 6" />
+*Đèn pha HID dạng thấu kính tích hợp tự động thiết kế thể thao thay đổi góc chiếu cao-thấp.*
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-7.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 7" />
+*Đèn sương mù phía trước thiết kế hiện đại với viền mạ chrome.*
+
+**Cửa hông trượt ngang**
+
+Cửa hông trượt ngang hỗ trợ chỉnh điện chỉ với một nút bấm, giúp đem đến trải nghiệm tuyệt vời hơn.
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-8.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 8" />
+*Cửa hông trượt ngang hỗ trợ chỉnh điện chỉ với một nút bấm*
+
+**Hệ thống cửa sau cảm biến thông minh**
+
+Bạn đang bận tay vì những vật dụng cho chuyến dã ngoại sắp tới và cảm thấy khó khăn khi không thể mở của được? Đừng lo vì với hệ thống cảm biến thông minh, cửa sau của Grand Sedona sẽ tự động mở khi bạn đến gần. Việc chuyển hàng hoá lên xe chưa bao giờ dễ dàng đến vậy với Kia Grand Sedona.
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-9.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 9" />
+*Hệ thống cửa sau cảm biến thông minh*
+
+**Mâm hợp kim 18 inch**
+
+Mâm hợp kim 18 inch thể thao với thiết kế 10 chấu ấn tượng và đẹp mắt.
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-10.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 10" />
+*Mâm hợp kim 18 inch thể thao với thiết kế 10 chấu ấn tượng*
+
+### NỘI THẤT
+
+**Nội thất da tự nhiên cao cấp**
+
+Nội thất da tự nhiên cao cấp kết hợp cùng chất liệu gỗ đã tạo nên không gian sang trọng và tinh tế cho nội thất của Grand Sedona.
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-11.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 11" />
+*Nội thất sang trọng và tinh tế*
+
+**Không gian nội thất rộng rãi**
+
+Không gian nội thất rộng rãi, tiện nghi và thoải mái tại mọi vị trí trên xe.
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-12.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 12" />
+
+**Không gian nội thất rộng rãi, tiện nghi**
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-13.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 13" />
+*Ghế lái chỉnh cơ 12 hướng*
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-14.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 14" />
+*Cụm điều khiển trung tâm tiện lợi*
+
+**Rèm cửa che nắng**
+
+Rèm cửa che nắng được bố trí xuyên suốt tại hàng ghế 2, 3 mang đến không gian thoải mái trong những ngày hè nắng nóng.
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-15.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 15" />
+*Không gian nội thất rộng rãi, tiện nghi, mang đến không gian thoải mái*
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-16.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 16" />
+*Điều hòa tự đông 3 vùng độc lập, điều hòa phía sau chỉnh tay*
+
+**Hệ thống giải trí với âm thanh 6 loa**
+
+Hệ thống giải trí với đầu đọc CD, kết nối Bluetooth cùng hệ thống âm thanh 6 loa giúp mang đến không gian âm nhạc đích thực trong nội thất Grand Sedona.
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-17.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 17" />
+*Hệ thống giải trí với đầu đọc CD, kết nối Bluetooth cùng hệ thống âm thanh 6 loa*
+
+### VẬN HÀNH
+
+- Động cơ dầu Diesel CRDi 2.2L.
+- Công suất :190 hp/3800 rpm.
+- Momen xoắn: 440Nm/1750 - 2750 rpm.
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-18.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 18" />
+*Động cơ dầu Diesel CRDi mạnh mẽ*
+
+**Hộp số tự động 8 cấp**
+Hộp số tự động 8 cấp cùng nhiều công nghệ điều khiễn tích hợp chung vị trí cần số, giúp mang đến khả năng kiểm soát hoạt động trên xe tới ưu nhất.
+
+<img src="/assets/images/sedona/deluxe-d/kia-sedona-anh1.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 19" />
+*Hộp số tự động 8 cấp*
+
+**Hệ thống kiểm soát tiêu hao nhiên liệu**
+
+Một lựa chọn hoàn toàn phù hợp cho những dòng xe lớn. Tiết kiệm nhiêu liệu nhưng hiệu năng vẫn tốt.
+
+<img src="/assets/images/sedona/deluxe-d/kia-sedona-anh2.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 20" />
+*Hệ thống kiểm soát tiêu hao nhiên liệu*
+
+### AN TOÀN
+
+**Túi khí**
+
+2 túi khí cùng kết cấu thép cường lực và khung liền khối giúp giảm khả năng chấn động, đảm bảo an toàn tối đa tại mọi vị trí trên xe.
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-21.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 21" />
+*Hệ thống 2 túi khí đảm bảo an toàn người lái*
+
+**Cảm biến sau**
+Cảm biến sau cùng camera lùi giúp mang đến độ an toàn và sự tiện lợi tối đa cho người lái. Cho phép hỗ người lái xe ra vào bãi đậu an toàn hơn.
+
+<img src="/assets/images/sedona/deluxe-d/kia-grand-sedona-2-2l-luxury-dat-2019-22.jpg" style="width: 100%" alt="Kia Grand Sedona 2.2L Luxury (DAT) 2019 - Hình 22" />
+
+Cảm biến sau cùng camera lùi giúp mang đến độ an toàn và sự tiện lợi tối đa cho người lái
