@@ -3088,15 +3088,8 @@ table.info-tabel tr td {
   margin: 0 auto 8px;
 }
 
-.dealer_detail p span {
-  color: #111;
-  margin: 0 5px 0 0;
-  min-width: 50px;
-  display: inline-block;
-}
-
-.dealer_detail .btn {
-  margin-top: 15px;
+.dealer_detail p i {
+    margin-right: 10px;
 }
 
 .listing_detail_wrap {
