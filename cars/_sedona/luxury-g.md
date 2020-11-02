@@ -9,6 +9,7 @@ sliders:
 - 3
 - 4
 - 5
+- 6
 basic:
 - name: Chiều dài cơ sở xe
   val: 3.060 mm
