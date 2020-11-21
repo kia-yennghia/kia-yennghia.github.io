@@ -43,7 +43,7 @@
 
 .phone-circle {
     position: relative;
-    background-color: #c4172c;
+    background-color: #fa2837;
     -webkit-border-radius: 100%;
     border-radius: 100%;
 }
@@ -70,7 +70,7 @@
 
 .phone-circle .ping {
     opacity: 1;
-    border: 1px solid #c4172c;
+    border: 1px solid #fa2837;
     background-color: rgba(221,21,21,.2);
     -webkit-border-radius: 100%;
     border-radius: 100%;
@@ -141,7 +141,7 @@
 span.phone {
     position: relative;
     color: #fff;
-    background-color: #C81728;
+    background-color: #fa2837;
     padding: 10px;
     border-radius: 20px;
     bottom: 15px;
