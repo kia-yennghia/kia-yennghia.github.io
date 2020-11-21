@@ -2820,7 +2820,7 @@ form .slider.slider-horizontal {
   overflow: hidden;
 }
 .active {
-  display: flex;
+  display: block;
 }
 .product-listing-img {
   float: left;

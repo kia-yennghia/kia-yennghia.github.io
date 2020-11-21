@@ -34,8 +34,7 @@ layout: default
                 {% for car in site[label] %}     
                 <div class="col-md-3 grid_listing">
                   <div class="product-listing-m gray-bg">
-                    <div class="product-listing-img"> <a href="{{ car.url }}"><img src="{{ site.baseurl }}{{ site.img }}{{ car.url }}{{ car.img }}" class="img-responsive" alt="image" /></a>
-                    </div>
+                    <div class="product-listing-img"> <a href="{{ car.url }}"><img src="{{ site.baseurl }}{{ site.img }}{{ car.url }}{{ car.img }}" class="img-responsive" alt="image"> </a></div>
                     <div class="product-listing-content">
                       <h5><a href="{{ car.url }}">{{ car.title }}</a></h5>
                       <p class="list-price">{{ car.price }}</p>
