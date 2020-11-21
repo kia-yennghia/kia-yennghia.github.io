@@ -3,6 +3,7 @@ title: Cerato Standard MT
 price: 529000000
 categories: cerato
 img: standard-mt.jpg
+model: cerato
 sliders:
 - 1
 - 2

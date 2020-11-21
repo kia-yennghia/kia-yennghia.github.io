@@ -3,6 +3,7 @@ title: Morning Standard AT
 price: 329000000
 categories: morning
 img: standard-at.jpg
+model: morning
 sliders:
 - 1
 - 2

@@ -3,6 +3,7 @@ title: Sorento Deluxe G
 price: 769000000
 categories: sorento
 img: deluxe-g.jpg
+model: sorento
 sliders:
 - 1
 - 2

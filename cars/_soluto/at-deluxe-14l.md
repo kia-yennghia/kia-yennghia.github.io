@@ -3,6 +3,7 @@ title: Soluto AT Deluxe 1.4L
 price: 429000000
 categories: soluto
 img: at-deluxe-14l.jpg
+model: soluto
 sliders:
 - 1
 - 2

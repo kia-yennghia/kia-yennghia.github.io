@@ -2758,7 +2758,7 @@ form .slider.slider-horizontal {
   border-left: 4px solid #cecece;
   margin-bottom: 40px;
   overflow: hidden;
-  padding: 10px 20px;
+  padding: 20px 20px;
 }
 
 .sorting-count {
@@ -2815,10 +2815,13 @@ form .slider.slider-horizontal {
 }
 
 .product-listing-m {
+  display: none;
   margin: 0 auto 40px;
   overflow: hidden;
 }
-
+.active {
+  display: flex;
+}
 .product-listing-img {
   float: left;
   width: 45%;

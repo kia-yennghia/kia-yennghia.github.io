@@ -3,6 +3,7 @@ title: Optima Luxury
 price: 759000000
 categories: optima
 img: luxury.jpg
+model: optima
 sliders:
 - 1
 - 2

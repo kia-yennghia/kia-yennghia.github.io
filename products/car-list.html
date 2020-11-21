@@ -8,7 +8,7 @@ layout: page
 <section class="listing-page">
     <div class="container">
         <div class="row">
-            <div class="col-md-9 col-md-push-3">
+            <div class="col-md-9 col-md-push-3 auto-list">
                 <div class="mobile_search">
                     <div class="sidebar_widget">
                         <div class="widget_heading">
@@ -70,26 +70,12 @@ layout: page
                     </div>
                 </div>
                 <div class="result-sorting-wrapper">
-                    <div class="result-sorting-by">
-                        <p>Chọn mức giá</p>
-                        <form action="#" method="post">
-                            <div class="form-group select sorting-select">
-                                <select class="form-control">
-                                    <option>Giá (thấp đến cao)</option>
-                                    <option>200000000 - 400000000</option>
-                                    <option>400000000 - 600000000</option>
-                                    <option>600000000 - 900000000</option>
-                                    <option>900000000 - 1200000000</option>
-                                </select>
-                            </div>
-                        </form>
-                    </div>
                 </div>
                 {% for cars in site.collections %}
                 {% assign label = cars.label %}
                 {% if label != 'posts' and label != 'pages' %}
                 {% for car in site[label] %}
-                <div class="product-listing-m gray-bg" id="car-list">
+                <div class="product-listing-m gray-bg active" data-model="{{ car.model }}">
                     <div class="product-listing-img">
                         <a href="{{ car.url }}"><img src="{{ site.baseurl }}{{ site.img }}{{ car.url }}{{ car.img }}"
                                 class="img-responsive" alt="image" />
@@ -131,7 +117,7 @@ layout: page
             <aside class="col-md-3 col-md-pull-9">
                 <div class="sidebar_widget sidebar_search_wrap">
                     <div class="widget_heading">
-                        <h5><i class="fa fa-filter" aria-hidden="true"></i> Tìm xe</h5>
+                        <h5><i class="fa fa-filter" aria-hidden="true"></i> Chọn mẫu xe</h5>
                     </div>
                     <div class="sidebar_filter">
                         <form name="filter">
@@ -142,54 +128,14 @@ layout: page
                                     <option value="morning">Morning</option>
                                     <option value="optima">Optima</option>
                                     <option value="rondo">Rondo</option>
-                                    <option value="sedora">Sedona</option>
+                                    <option value="sedona">Sedona</option>
                                     <option value="seltos">Seltos</option>
                                     <option value="soluto">Soluto</option>
                                     <option value="sorento">Sorento</option>
                                 </select>
                             </div>
-                            <div class="form-group select">
-                                <select class="form-control" name="colors" id="colors">
-                                    <option value="">Màu sắc</option>
-                                    <option value="red">Đỏ</option>
-                                    <option value="white">Trắng</option>
-                                    <option value="orange">Cam</option>
-                                    <option value="brown">Nâu</option>
-                                </select>
-                            </div>
-                            <div class="form-group select">
-                                <select class="form-control" name="seats" id="seats">
-                                    <option value="">Số chỗ</option>
-                                    <option value="4 chỗ">4 chỗ</option>
-                                    <option value="5 chỗ">5 chỗ</option>
-                                    <option value="6 chỗ">6 chỗ</option>
-                                    <option value="7 chỗ">7 chỗ</option>
-                                </select>
-                            </div>
-                            <div class="form-group select">
-                                <select class="form-control" name="fuels" id="fuels">
-                                    <option value="">Loại nhiên liệu</option>
-                                    <option value="xăng">Xăng</option>
-                                    <option value="dầu">Dầu</option>
-                                </select>
-                            </div>
-
-                            <div class="form-group">
-                                <label class="form-label">Giá (VNĐ)</label>
-                                <input id="price_range" type="text" class="span2" value="" data-slider-min="300000000"
-                                    data-slider-max="1000000000" data-slider-step="5" data-slider-value="[200000000,1500000000]" />
-                            </div>
                         </form>
                     </div>
-                </div>
-                <div class="sidebar_widget sell_car_quote">
-                    <div class="white-text div_zindex text-center">
-                        <h3>Sell Your Car</h3>
-                        <p>Request a quote and sell your car now!</p>
-                        <a href="#" class="btn">Request a Quote
-                            <span class="angle_arrow"><i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
-                    </div>
-                    <div class="dark-overlay"></div>
                 </div>
                 <div class="sidebar_widget">
                     <div class="widget_heading">

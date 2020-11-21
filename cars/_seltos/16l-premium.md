@@ -3,6 +3,7 @@ title: Seltos 1.6L Premium
 price: 699000000
 categories: seltos
 img: 16l-premium.jpg
+model: seltos
 sliders:
 - 1
 - 2

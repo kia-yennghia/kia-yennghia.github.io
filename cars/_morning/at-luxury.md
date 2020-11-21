@@ -3,6 +3,7 @@ title: Morning AT Luxury
 price: 383000000
 categories: morning
 img: at-luxury.jpg
+model: morning
 sliders:
 - 1
 - 2

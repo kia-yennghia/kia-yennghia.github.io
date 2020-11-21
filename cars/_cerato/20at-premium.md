@@ -3,6 +3,8 @@ title: Cerato 2.0AT Premium
 price: 665000000
 categories: cerato
 img: 20at-premium.jpg
+model: cerato
+color: white
 sliders:
 - 1
 - 2

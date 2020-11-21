@@ -3,6 +3,7 @@ title: Soluto MT 1.4L
 price: 369000000
 categories: soluto
 img: mt-14l.jpg
+model: soluto
 sliders:
 - 1
 - 2

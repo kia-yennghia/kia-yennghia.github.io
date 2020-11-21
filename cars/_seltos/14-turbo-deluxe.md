@@ -3,6 +3,7 @@ title: Seltos 1.4 Turbo Deluxe
 price: 599000000
 categories: seltos
 img: 14-turbo-deluxe.jpg
+model: seltos
 sliders:
 - 1
 - 2
