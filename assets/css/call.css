@@ -1,0 +1,148 @@
+/* Zalo button */
+.add-widget {
+    position: fixed;
+    z-index: 999999;
+}
+.add-widget.widget-zalo {
+    left: 20px;
+    bottom: 75px;
+}
+.add-widget .widget-circle {
+    position: relative;
+    display: inline-block;
+    width: 44px;
+    height: 44px;
+    background-color: #3897DA;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+.add-widget.widget-zalo .widget-circle .fa-icon {
+    background-image: url(../images/icon-zalo.png);
+}
+.add-widget .widget-circle .fa-icon {
+    position: absolute;
+    left: 7px;
+    top: 7px;
+    width: 30px;
+    height: 30px;
+    background-size: 30px;
+    background-repeat: no-repeat;
+}
+/* Call button */
+.phone-ring {
+    position: fixed;
+    left: 20px;
+    bottom: 20px;
+    z-index: 99999;
+}
+.phone-circle, .phone-circle .ping {
+    display: inline-block;
+    width: 44px;
+    height: 44px;
+}
+
+.phone-circle {
+    position: relative;
+    background-color: #c4172c;
+    -webkit-border-radius: 100%;
+    border-radius: 100%;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.phone-circle .fa {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    color: #fff;
+    font-size: 24px;
+    -webkit-animation: ring-anim 1s infinite ease-in-out;
+    animation: ring-anim 1s infinite ease-in-out;
+}
+
+.fa-phone {
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.phone-circle .ping {
+    opacity: 1;
+    border: 1px solid #c4172c;
+    background-color: rgba(221,21,21,.2);
+    -webkit-border-radius: 100%;
+    border-radius: 100%;
+    -webkit-animation: sonar-anim 1.25s linear infinite;
+    animation: sonar-anim 1.25s linear infinite;
+}
+@-webkit-keyframes sonar-anim {
+    0% {
+        opacity: 1;
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+
+    100% {
+        -webkit-transform: scale(3);
+        transform: scale(3);
+        opacity: 0
+    }
+}
+
+@keyframes sonar-anim {
+    0% {
+        opacity: 1;
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+
+    100% {
+        -webkit-transform: scale(3);
+        transform: scale(3);
+        opacity: 0
+    }
+}
+@-webkit-keyframes ring-anim {
+    0%,100%,50% {
+        -webkit-transform: rotate(0) scale(1) skew(1deg);
+        transform: rotate(0) scale(1) skew(1deg)
+    }
+
+    10%,30% {
+        -webkit-transform: rotate(-25deg) scale(1) skew(1deg);
+        transform: rotate(-25deg) scale(1) skew(1deg)
+    }
+
+    20%,40% {
+        -webkit-transform: rotate(25deg) scale(1) skew(1deg);
+        transform: rotate(25deg) scale(1) skew(1deg)
+    }
+}
+
+@keyframes ring-anim {
+    0%,100%,50% {
+        -webkit-transform: rotate(90deg) scale(1) skew(1deg);
+        transform: rotate(90deg) scale(1) skew(1deg)
+    }
+
+    10%,30% {
+        -webkit-transform: rotate(25deg) scale(1) skew(1deg);
+        transform: rotate(25deg) scale(1) skew(1deg)
+    }
+
+    20%,40% {
+        -webkit-transform: rotate(0) scale(1) skew(1deg);
+        transform: rotate(0) scale(1) skew(1deg)
+    }
+}
+
+span.phone {
+    position: relative;
+    color: #fff;
+    background-color: #C81728;
+    padding: 10px;
+    border-radius: 20px;
+    bottom: 15px;
+}
