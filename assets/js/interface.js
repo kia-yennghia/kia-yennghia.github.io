@@ -10,8 +10,8 @@
 			Testimonial Slider
 			-------------------------------------------------------------------*/
 
-		var owl = $("#testimonial-slider");
-		owl.owlCarousel({
+		var owl1 = $("#testimonial-slider");
+		owl1.owlCarousel({
 			itemsCustom: [
 				[0, 1],
 				[450, 1],
@@ -25,50 +25,11 @@
 			autoPlay: 3000
 		});
 
-
-		/*------------------------------------------------------------------
-			Testimonial Slider 2
-			-------------------------------------------------------------------*/
-		var owl = $("#testimonial-slider-2");
-		owl.owlCarousel({
-			itemsCustom: [
-				[0, 1],
-				[450, 1],
-				[550, 2],
-				[767, 2],
-				[991, 3],
-			],
-			loop: true,
-			nav: true,
-			navigation: false,
-			autoPlay: 3000
-		});
-
-
-
-		/*------------------------------------------------------------------
-			Trending Slider
-			-------------------------------------------------------------------*/
-		var owl = $("#trending_slider");
-		owl.owlCarousel({
-			itemsCustom: [
-				[0, 1],
-				[450, 1],
-				[550, 1],
-				[700, 3],
-			],
-			loop: true,
-			nav: true,
-			navigation: false,
-			autoPlay: 3000
-		});
-
-
 		/*------------------------------------------------------------------
 			Popular Brands
 			-------------------------------------------------------------------*/
-		var owl = $("#popular_brands");
-		owl.owlCarousel({
+		var owl2 = $("#popular_brands");
+		owl2.owlCarousel({
 			itemsCustom: [
 				[0, 2],
 				[450, 3],
@@ -83,48 +44,6 @@
 			autoPlay: 3000
 		});
 
-
-		/*------------------------------------------------------------------
-			Listing Image Slider { Style 1}
-			-------------------------------------------------------------------*/
-		var owl = $("#listing_img_slider");
-		owl.owlCarousel({
-			itemsCustom: [
-				[0, 1],
-				[450, 1],
-				[700, 2],
-				[1024, 3],
-				[1200, 3],
-			],
-			loop: true,
-			nav: true,
-			navigation: true,
-			pagination: false,
-			autoPlay: 3000
-		});
-
-
-
-		/*------------------------------------------------------------------
-			Listing Image Slider { Style 2}
-			-------------------------------------------------------------------*/
-		$('#listing_images_slider').slick({
-			slidesToShow: 1,
-			slidesToScroll: 1,
-			arrows: false,
-			fade: true,
-			asNavFor: '#listing_images_slider_nav'
-		});
-		$('#listing_images_slider_nav').slick({
-			slidesToShow: 4,
-			slidesToScroll: 1,
-			asNavFor: '#listing_images_slider',
-			dots: false,
-			centerMode: true,
-			focusOnSelect: true
-		});
-
-
 		/*------------------------------------------------------------------
 			Price-Range
 			-------------------------------------------------------------------*/
@@ -135,21 +54,7 @@
 		$(function (e) {
 			$("#price_range1").slider({});
 		});
-
-		/*------------------------------------------------------------------
-			Search-button
-			-------------------------------------------------------------------*/
-		$('#search_toggle').on('click', function (e) {
-			$("#header-search-form").slideToggle();
-		});
-
-		/*------------------------------------------------------------------
-			Filter-Form
-			-------------------------------------------------------------------*/
-		$('#filter_toggle').on('click', function (e) {
-			$("#filter_form").slideToggle();
-		});
-
+ 
 		/*------------------------------------------------------------------
 			Other-info
 			-------------------------------------------------------------------*/
