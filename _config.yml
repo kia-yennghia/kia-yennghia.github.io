@@ -53,6 +53,7 @@ permalink: "/:title/"
 author: Duong Vu
 img: "/assets/images"
 fb: https://facebook.com/Kiayennghia
+site.google_analytics: 
 plugins:
 - jekyll-paginate
 - jekyll-sitemap

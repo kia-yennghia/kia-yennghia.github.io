@@ -1,6 +1,6 @@
 ---
 title: Sedona Luxury D
-price: 1169000000
+price: 1149000000
 categories: sedona
 img: luxury-d.jpg
 model: sedona

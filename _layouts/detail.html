@@ -22,7 +22,6 @@ layout: default
             <div class="col-md-3">
                 <div class="price_info">
                     <p>{{ page.price }} VNĐ</p>
-                    <p class="old_price">{{ page.price | plus: 20000000 }} VNĐ</p>
                 </div>
             </div>
         </div>
@@ -53,7 +52,6 @@ layout: default
         <div class="row">
             <div class="col-md-9">
                 {% include details/slider.html %}
-                {% include details/main-features.html %}
                 <div class="listing_more_info">
                     <div class="listing_detail_wrap">
                         <!-- Nav tabs -->

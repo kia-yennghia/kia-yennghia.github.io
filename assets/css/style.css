@@ -909,7 +909,13 @@ table thead td {
   float: left;
   padding-top: 8px;
 }
-
+span.logo-text {
+  position: absolute;
+  top: 14px;
+  left: 18%;
+  color: #B20F18;
+  font-size: x-large;
+}
 .navbar-default .navbar-toggle:focus .icon-bar,
 .navbar-default .navbar-toggle:hover .icon-bar {
   background: #fff;
@@ -5013,6 +5019,9 @@ table.info-tabel tr td {
     float: none;
     text-align: center;
   }
+  span.logo-text {
+    display: none;
+}
   .sidebar_search_wrap {
     display: none;
   }

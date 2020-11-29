@@ -1,6 +1,6 @@
 ---
 title: Sedona Deluxe D
-price: 1039000000
+price: 1019000000
 categories: sedona
 img: deluxe-d.jpg
 model: sedona

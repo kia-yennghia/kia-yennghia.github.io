@@ -46,19 +46,17 @@ _Đáp ứng nhu cầu vốn của khách hàng về việc mua xe ô tô phục
 - Các giấy tờ liên quan (nếu có).
   <img src="./assets/images/tra-gop/ho-so-vay-von-mua-xe.jpg" style="width: 100%" alt="Hồ sơ vay vốn mua xe ô tô trả góp tại các ngần hàng mà bạn nên biết"/>
 
-### 5. Lãi suất vay mua xe ôtô năm 2019 của các ngân hàng mới nhất
+### 5. Lãi suất vay mua xe ôtô năm 2020 của các ngân hàng mới nhất
 
-<h5 style="text-align: center">Bảng lãi suất vay mua ô tô năm 2019</h5>
+<h5 style="text-align: center">Bảng lãi suất vay mua ô tô năm 2020</h5>
 
 | Ngân hàng               | Lãi suất năm đầu | Mức vay tối đa %/giá trị xe | Thời gian vay (Tháng) |
 | ----------------------- | ---------------- | --------------------------- | --------------------- |
-| Ngân hàng VIB bank      | 7.90%            | 80%                         | 84                    |
-| Ngân hàng Seabank       | 9.40%            | 80%                         | 84                    |
-| Ngân hàng TPBank        | 9.49%            | 80%                         | 84                    |
-| Ngân hàng Techcombank   | 7.40%            | 80%                         | 84                    |
-| Ngân hàng Vietcombank   | 9.0%             | 80%                         | 60                    |
-| Ngân hàng SHB           | 7.9%             | 75%                         | 84                    |
-| Ngân hàng VietinBank    | 8.99%            | 80%                         | 60                    |
-| Ngân hàng VPBank        | 7.90%            | 70%                         | 84                    |
-| Ngân hàng OCB           | 6.99%            | 80%                         | 84                    |
-| Ngân hàng Bảo Việt Bank | 8.04%            | 80%                         | 84                    |
+| Ngân hàng VIB bank      | 9.00%            | 80%                         | 96                    |
+| Ngân hàng Seabank       | 9.00%            | 80%                         | 96                    |
+| Ngân hàng TPBank        | 9.00%            | 80%                         | 96                    |
+| Ngân hàng Vietcombank   | 9.00%            | 80%                         | 96                    |
+| Ngân hàng SHB           | 9.00%            | 80%                         | 96                    |
+| Ngân hàng VPBank        | 9.00%            | 80%                         | 96                    |
+| Ngân hàng OCB           | 9.00%            | 80%                         | 96                    |
+| Ngân hàng Bảo Việt Bank | 9.00%            | 80%                         | 96                    |

@@ -1,6 +1,6 @@
 ---
 title: Sedona Luxury G
-price: 1379000000
+price: 1359000000
 categories: sedona
 img: luxury-g.jpg
 model: sedona

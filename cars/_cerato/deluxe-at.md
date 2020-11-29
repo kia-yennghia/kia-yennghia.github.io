@@ -1,6 +1,6 @@
 ---
 title: Cerato Deluxe AT
-price: 569000000
+price: 574000000
 categories: cerato
 img: deluxe-at.jpg
 model: cerato
@@ -350,10 +350,10 @@ Hộp tựa tay trung tâm với thiết kế lớn hơn, hỗ trợ người l�
 <img src="/assets/images/cerato/deluxe-at/kia-cerato-1-6-at-2019-26.jpg" style="width: 100%" alt="KIA Cerato Deluxe AT - Hình 26" />
 *Gương chiếu hậu chống chói*
 
-Xe được trang bị màn hình AVN 8 inch với tính năng cảm ứng; MP3, MP4, Radio; Bản đồ dẫn đường AUX & USB, Bluetooth; Chia sẻ màn hình ONCars 
+Xe được trang bị audio với tính năng cảm ứng; MP3, MP4, Radio; Bản đồ dẫn đường AUX & USB, Bluetooth; Chia sẻ màn hình ONCars 
 
 <img src="/assets/images/cerato/deluxe-at/kia-cerato-1-6-at-2019-27.jpg" style="width: 100%" alt="KIA Cerato Deluxe AT - Hình 27" />
-*Trang bị màn hình AVN*
+*Trang bị audio*
 
 Xe sử dụng 6 loa gồm Loa Tweeters, Loa cửa trước trái, Loa cửa sau trái, Loa cửa trước phải, Loa cửa sau phải.
 
