@@ -5580,9 +5580,6 @@ table.info-tabel tr td {
     display: block;
   }
 
-  #info_toggle {
-    display: none;
-  }
 
   .col-list-3 {
     width: 100%;
@@ -6243,9 +6240,6 @@ table.info-tabel tr td {
     display: block;
   }
 
-  #info_toggle {
-    display: none;
-  }
 
   .listing_other_info button {
     font-size: 14px;

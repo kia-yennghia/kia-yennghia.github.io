@@ -141,7 +141,17 @@ blockquote,
 @media (max-width:767px) {
 .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
 	color:#fa2837;	
+	}
 }
 
 
+@media only screen and (max-width: 600px) {
+
+	#email_friend, #more_info {
+		display: none;
+	}	
+}
+
+#info_toggle {
+	display: block !important;
 }
