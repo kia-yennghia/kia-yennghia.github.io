@@ -142,21 +142,26 @@ blockquote,
 .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
 	color:#fa2837;	
 	}
+#info_toggle button {
+		font-size: 12px;
+	}
 }
 
+.two-line {
+	display: none;
+}
 
 @media only screen and (max-width: 600px) {
 
-	.em_friend, .mor_info, .two-line {
+	.em_friend, .mor_info {
 		display: none;
 	}	
-
+	.two-line {
+		display: inline;
+	}
 	.listing_other_info button {
 		padding: 12px 0;
 		margin: 0 8px 0;
-	}
-	#info_toggle button {
-		font-size: 12px;
 	}
 }
 
