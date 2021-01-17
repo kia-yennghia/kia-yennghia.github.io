@@ -160,29 +160,26 @@ layout: default
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
                         aria-hidden="true">&times;</span></button>
-                <h3 class="modal-title">Make an Offer</h3>
+                <h3 class="modal-title">Nhận báo giá </h3>
             </div>
             <div class="modal-body">
-                <form action="#" method="get">
+                <form action="https://formspree.io/f/mnqowabr" method="POST" id="bao-gia">
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Full Name">
+                        <input type="text" class="form-control" placeholder="Họ tên">
                     </div>
                     <div class="form-group">
-                        <input type="email" class="form-control" placeholder="Email Address">
+                        <input type="text" class="form-control" placeholder="Số điện thoại">
                     </div>
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Phone Number">
+                        <input type="text" class="form-control" placeholder="Dòng xe">
                     </div>
+                    
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Offer Price">
+                        <input type="submit" value="Gửi" class="btn btn-block">
                     </div>
-                    <div class="form-group">
-                        <textarea class="form-control" placeholder="Message"></textarea>
-                    </div>
-                    <div class="form-group">
-                        <input type="submit" value="Submit Query" class="btn btn-block">
-                    </div>
+                    <p id="bao-gia-status"></p>
                 </form>
+                {% include details/baogia.html %}
             </div>
         </div>
     </div>
