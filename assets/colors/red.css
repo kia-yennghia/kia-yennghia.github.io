@@ -153,7 +153,10 @@ blockquote,
 
 	.listing_other_info button {
 		padding: 12px 0;
-		margin: 0 16px 0;
+		margin: 0 8px 0;
+	}
+	#info_toggle button {
+		font-size: 12px;
 	}
 }
 
