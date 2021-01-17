@@ -1,17 +1,19 @@
 <div class="widget_heading">
-    <h5><i class="fa fa-envelope" aria-hidden="true"></i> Gửi một yêu cầu</h5>
+    <h5><i class="fa fa-envelope" aria-hidden="true"></i> Nhận báo giá</h5>
 </div>
-<form action="#">
+<form action="https://formspree.io/f/mnqowabr" id="bao-gia-phai" method="POST">
     <div class="form-group">
-        <input type="text" class="form-control" placeholder="Tên">
+        <input type="text" class="form-control" placeholder="Họ tên" name="name">
     </div>
     <div class="form-group">
-        <input type="email" class="form-control" placeholder="Email">
+        <input type="text" class="form-control" placeholder="Số điện thoại" name="phone-number">
     </div>
     <div class="form-group">
-        <textarea rows="4" class="form-control" placeholder="Yêu cầu"></textarea>
+        <textarea rows="4" class="form-control" placeholder="Dòng xe" name="dong-xe"></textarea>
     </div>
     <div class="form-group">
         <input type="submit" value="Gửi" class="btn btn-block">
     </div>
+    <p id="bao-gia-phai-status"></p>
 </form>
+{% include details/bao-gia-phai.html %}
