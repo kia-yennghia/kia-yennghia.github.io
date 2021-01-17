@@ -137,12 +137,3 @@
         transform: rotate(0) scale(1) skew(1deg)
     }
 }
-
-span.phone {
-    position: relative;
-    color: #fff;
-    background-color: #fa2837;
-    padding: 10px;
-    border-radius: 20px;
-    bottom: 15px;
-}
