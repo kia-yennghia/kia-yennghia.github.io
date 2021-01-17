@@ -130,23 +130,25 @@ layout: default
                 <h3 class="modal-title">Đăng ký lịch lái thử</h3>
             </div>
             <div class="modal-body">
-                <form action="#" method="get">
+                <form action="https://formspree.io/f/moqprakd" method="POST" id="lai-thu">
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Họ tên">
+                        <input type="text" class="form-control" placeholder="Họ tên" name="ten">
                     </div>
                     <div class="form-group">
-                        <input type="email" class="form-control" placeholder="Email">
+                        <input type="text" class="form-control" placeholder="Số điện thoại" name="phone">
                     </div>
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Số điện thoại">
+                        <input type="text" class="form-control" placeholder="Dòng xe lái thử" name="dong-xe">
                     </div>
                     <div class="form-group">
-                        <textarea rows="4" class="form-control" placeholder="Lời nhắn"></textarea>
+                        <textarea rows="4" class="form-control" placeholder="Lời nhắn" name="loi-nhan"></textarea>
                     </div>
                     <div class="form-group">
                         <input type="submit" value="Gửi" class="btn btn-block">
                     </div>
+                    <p id="lai-thu-status"></p>
                 </form>
+                {% include details/laithu.html %}
             </div>
         </div>
     </div>
@@ -165,13 +167,13 @@ layout: default
             <div class="modal-body">
                 <form action="https://formspree.io/f/mnqowabr" method="POST" id="bao-gia">
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Họ tên">
+                        <input type="text" class="form-control" placeholder="Họ tên" name="name">
                     </div>
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Số điện thoại">
+                        <input type="text" class="form-control" placeholder="Số điện thoại" name="phone-number">
                     </div>
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Dòng xe">
+                        <input type="text" class="form-control" placeholder="Dòng xe" name="vehicle line">
                     </div>
                     
                     <div class="form-group">
@@ -185,69 +187,3 @@ layout: default
     </div>
 </div>
 <!--/Make-Offer -->
-
-<!--Email-to-Friend -->
-<div class="modal fade" id="email_friend">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
-                        aria-hidden="true">&times;</span></button>
-                <h3 class="modal-title">Email to a Friend</h3>
-            </div>
-            <div class="modal-body">
-                <form action="#" method="get">
-                    <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Your Name">
-                    </div>
-                    <div class="form-group">
-                        <input type="email" class="form-control" placeholder="Your Email Address">
-                    </div>
-                    <div class="form-group">
-                        <input type="email" class="form-control" placeholder="Friend Email Address">
-                    </div>
-                    <div class="form-group">
-                        <textarea rows="4" class="form-control" placeholder="Message"></textarea>
-                    </div>
-                    <div class="form-group">
-                        <input type="submit" value="Submit Query" class="btn btn-block">
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-</div>
-<!--/Email-to-Friend -->
-
-<!--Request-More-Info -->
-<div class="modal fade" id="more_info">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
-                        aria-hidden="true">&times;</span></button>
-                <h3 class="modal-title">Request More Info</h3>
-            </div>
-            <div class="modal-body">
-                <form action="#" method="get">
-                    <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Full Name">
-                    </div>
-                    <div class="form-group">
-                        <input type="email" class="form-control" placeholder="Email Address">
-                    </div>
-                    <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Phone Number">
-                    </div>
-                    <div class="form-group">
-                        <textarea rows="4" class="form-control" placeholder="Message"></textarea>
-                    </div>
-                    <div class="form-group">
-                        <input type="submit" value="Submit Query" class="btn btn-block">
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-</div>
-<!--/Request-More-Info -->
