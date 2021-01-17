@@ -2258,9 +2258,9 @@ input.newsletter-input {
 }
 
 .back-top {
-  bottom: 35px;
+  bottom: 15px;
   position: fixed;
-  right: 96px;
+  right: 15px;
   z-index: 1;
 }
 
@@ -5186,10 +5186,6 @@ table.info-tabel tr td {
     font-size: 14px;
     line-height: 23px;
     margin-top: 20px;
-  }
-
-  .back-top {
-    right: 90px;
   }
 
   .back-top a {
