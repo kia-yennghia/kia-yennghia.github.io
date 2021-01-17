@@ -1,6 +1,6 @@
 ---
 title: Cerato 2.0AT Premium
-price: 675000000
+price: 685000000
 categories: cerato
 img: 20at-premium.jpg
 model: cerato
@@ -13,10 +13,10 @@ sliders:
 - 5
 basic:
 - name: Chiều dài cơ sở xe
-  val: 3.060 mm
+  val: 0 mm
   icon: fa-road
 - name: Trọng lượng không tải
-  val: 2.070 kg
+  val: 1.270 kg
   icon: fa-tachometer
 - name: Màu sắc
   val: Trắng
@@ -25,10 +25,10 @@ basic:
   val: Xăng
   icon: fa-car
 - name: Số chỗ ngồi
-  val: 4 chỗ
+  val: 5 chỗ
   icon: fa-user
 - name: Số túi khí
-  val: 2 túi
+  val: 6 túi
   icon: fa-superpowers
 specs:
 - name: Kích thước tổng thể (mm)

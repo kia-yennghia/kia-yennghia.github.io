@@ -22,13 +22,13 @@ basic:
   val: Trắng
   icon: fa-bandcamp
 - name: Loại nhiên liệu
-  val: Xăng
+  val: Dầu
   icon: fa-car
 - name: Số chỗ ngồi
-  val: 4 chỗ
+  val: 7 chỗ
   icon: fa-user
 - name: Số túi khí
-  val: 2 túi
+  val: 6 túi
   icon: fa-superpowers
 specs:
 - name: Kích thước tổng thể (mm)

@@ -5,7 +5,7 @@
 }
 .add-widget.widget-zalo {
     left: 20px;
-    bottom: 75px;
+    bottom: 125px;
 }
 .add-widget .widget-circle {
     position: relative;
@@ -32,7 +32,7 @@
 .phone-ring {
     position: fixed;
     left: 20px;
-    bottom: 20px;
+    bottom: 75px;
     z-index: 99999;
 }
 .phone-circle, .phone-circle .ping {

@@ -1,6 +1,6 @@
 ---
 title: Cerato Deluxe AT
-price: 574000000
+price: 584000000
 categories: cerato
 img: deluxe-at.jpg
 model: cerato
@@ -13,10 +13,10 @@ sliders:
 - 5
 basic:
 - name: Chiều dài cơ sở xe
-  val: 3.060 mm
+  val: 0 mm
   icon: fa-road
 - name: Trọng lượng không tải
-  val: 2.070 kg
+  val: 1.270 kg
   icon: fa-tachometer
 - name: Màu sắc
   val: Trắng
@@ -25,7 +25,7 @@ basic:
   val: Xăng
   icon: fa-car
 - name: Số chỗ ngồi
-  val: 4 chỗ
+  val: 5 chỗ
   icon: fa-user
 - name: Số túi khí
   val: 2 túi

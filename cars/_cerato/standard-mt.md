@@ -12,10 +12,10 @@ sliders:
 - 5
 basic:
 - name: Chiều dài cơ sở xe
-  val: 3.060 mm
+  val: 0 mm
   icon: fa-road
 - name: Trọng lượng không tải
-  val: 2.070 kg
+  val: 1.270 kg
   icon: fa-tachometer
 - name: Màu sắc
   val: Trắng
@@ -24,10 +24,10 @@ basic:
   val: Xăng
   icon: fa-car
 - name: Số chỗ ngồi
-  val: 4 chỗ
+  val: 5 chỗ
   icon: fa-user
-- name: Công suất cực đại
-  val: 190Hp/3.800rpm
+- name: Túi khí
+  val: 2 túi
   icon: fa-superpowers
 specs:
 - name: Kích thước tổng thể (mm)
