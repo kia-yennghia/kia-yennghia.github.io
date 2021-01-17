@@ -2258,9 +2258,9 @@ input.newsletter-input {
 }
 
 .back-top {
-  bottom: 13px;
+  bottom: 35px;
   position: fixed;
-  right: 13px;
+  right: 96px;
   z-index: 1;
 }
 
@@ -5580,6 +5580,9 @@ table.info-tabel tr td {
     display: block;
   }
 
+  #info_toggle {
+    display: none;
+  }
 
   .col-list-3 {
     width: 100%;
@@ -6240,6 +6243,9 @@ table.info-tabel tr td {
     display: block;
   }
 
+  #info_toggle {
+    display: none;
+  }
 
   .listing_other_info button {
     font-size: 14px;

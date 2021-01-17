@@ -147,9 +147,14 @@ blockquote,
 
 @media only screen and (max-width: 600px) {
 
-	#email_friend, #more_info {
+	.em_friend, .mor_info, .two-line {
 		display: none;
 	}	
+
+	.listing_other_info button {
+		padding: 12px 0;
+		margin: 0 16px 0;
+	}
 }
 
 #info_toggle {
