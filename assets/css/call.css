@@ -4,8 +4,8 @@
     z-index: 999999;
 }
 .add-widget.widget-zalo {
-    left: 20px;
-    bottom: 125px;
+    left: 32px;
+    bottom: 133px;
 }
 .add-widget .widget-circle {
     position: relative;
@@ -31,8 +31,8 @@
 /* Call button */
 .phone-ring {
     position: fixed;
-    left: 20px;
-    bottom: 75px;
+    left: 32px;
+    bottom: 84px;
     z-index: 99999;
 }
 .phone-circle, .phone-circle .ping {
