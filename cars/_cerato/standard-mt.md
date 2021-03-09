@@ -1,6 +1,6 @@
 ---
 title: Cerato MT
-price: 534000000
+price: 544000000
 categories: cerato
 img: standard-mt.jpg
 model: cerato
