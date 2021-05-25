@@ -1,13 +1,14 @@
-- name: SEDONA
-  link: sedona
+- name: CERATO
+  link: cerato
   class: active
 - name: SORENTO
   link: sorento
-- name: CERATO
-  link: cerato
+- name: SELTOS
+  link: seltos
+- name: SEDONA
+  link: sedona
 - name: OPTIMA
   link: optima
 - name: MORNING
   link: morning
-- name: SELTOS
-  link: seltos
+
