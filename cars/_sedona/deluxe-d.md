@@ -91,11 +91,11 @@ acc:
 - name: Dây đai an toàn các hàng ghế.
   icon: check
 - name: Chức năng đèn mở rộng góc chiếu
-  icon: close
+  icon: 
 - name: Đèn chiếu sáng ban ngày LED
-  icon: close
+  icon: 
 - name: Cụm đèn sau LED
-  icon: close
+  icon: 
 - name: Đèn sương mù trước
   icon: check
 - name: Cánh hướng gió phía sau
@@ -105,11 +105,11 @@ acc:
 - name: Giá đỡ hành lý trên mui xe
   icon: check
 - name: Lưới tản nhiệt
-  icon: close
+  icon: 
 - name: Viền Logo cốp sau
-  icon: close
+  icon: 
 - name: Gạt mưa trước
-  icon: close
+  icon: 
 - name: Gương chiếu hậu chỉnh điện
   icon: check
 - name: Gương chiếu hậu gập điện
@@ -125,7 +125,7 @@ acc:
 - name: Chế độ điện thoại rảnh tay
   icon: check
 - name: Vô lăng điều chỉnh
-  icon: close
+  icon: 
 - name: Màn hình hiển thị đa thông tin
   icon: check
 - name: Hệ thống loa 6 loa
@@ -143,61 +143,61 @@ acc:
 - name: Sấy kính sau
   icon: check
 - name: Sưởi vô lăng
-  icon: close
+  icon: 
 - name: Sưởi và làm mát hàng ghế trước
-  icon: close
+  icon: 
 - name: Kính cửa điều khiển điện 1 chạm, chống kẹp ở 2 cửa trước
   icon: check
 - name: Cửa hông
-  icon: close
+  icon: 
 - name: Cốp sau chỉnh điện
-  icon: close
+  icon: 
 - name: Điều hòa tự động Chỉnh cơ
-  icon: close
+  icon: 
 - name: Hệ thống lọc khí
-  icon: close
+  icon: 
 - name: Hệ thống điều hòa sau Chỉnh cơ
-  icon: close
+  icon: 
 - name: Gương chiếu hậu chống chói (ECM)
-  icon: close
+  icon: 
 - name: Hệ thống kiểm soát tiêu hao nhiên liệu
   icon: check
 - name: Cửa sổ trời
-  icon: close
+  icon: 
 - name: Rèm che nắng hàng ghế 2 và 3
   icon: check
 - name: Ghế da cao cấp
   icon: check
 - name: Điều chỉnh ghế lái Chỉnh cơ
-  icon: close
+  icon: 
 - name: Hàng ghế thứ 3 gập tỷ lệ
-  icon: close
+  icon: 
 - name: Đèn trang điểm
-  icon: close
+  icon: 
 - name: Hệ thống chống bó cứng phanh (ABS)
   icon: check
 - name: Hệ thống hỗ trợ lực phanh khẩn cấp BA
-  icon: close
+  icon: 
 - name: Hệ thống phân phối lực phanh điện tử EBD
   icon: check
 - name: Hệ thống cân bằng điện tử (ESP)
-  icon: close
+  icon: 
 - name: Hệ thống chống trộm
   icon: check
 - name: Chống sao chép chìa khóa
-  icon: close
+  icon: 
 - name: Dây đai an toàn các hàng ghế
-  icon: close
+  icon: 
 - name: Hệ thống túi khí 2 túi khí
-  icon: close
+  icon: 
 - name: Khóa cửa trung tâm
   icon: check
 - name: Khóa cửa tự động theo tốc độ
-  icon: close
+  icon: 
 - name: Hệ thống cảnh báo điểm mù BSM
-  icon: close
+  icon: 
 - name: Cảm biến hỗ trợ đỗ xe trước
-  icon: close
+  icon: 
 - name: Cảm biến hỗ trợ đỗ xe sau
   icon: check
 - name: Camera lùi
