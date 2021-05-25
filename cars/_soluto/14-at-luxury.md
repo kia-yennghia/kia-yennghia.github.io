@@ -1,6 +1,6 @@
 ---
 title: Soluto 1.4 AT Luxury
-price: 469000000
+price: '469,000,000'
 categories: soluto
 img: 14-at-luxury.jpg
 model: soluto

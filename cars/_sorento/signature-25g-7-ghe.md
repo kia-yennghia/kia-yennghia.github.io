@@ -1,6 +1,7 @@
 ---
 title: Sorento All New 2.5G Signature (Máy Xăng - 7 Ghế)
-price: 1279000000
+old_price: '1,279,000,000'
+price: '1,259,000,000'
 categories: sorento
 img: signature-25g-7-ghe.jpg
 model: sorento

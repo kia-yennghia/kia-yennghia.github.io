@@ -1,6 +1,6 @@
 ---
 title: Morning Standard AT
-price: 329000000
+price: '329,000,000'
 categories: morning
 img: standard-at.jpg
 model: morning

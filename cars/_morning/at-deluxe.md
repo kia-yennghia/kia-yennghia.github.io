@@ -1,6 +1,6 @@
 ---
 title: Morning AT Deluxe
-price: 349000000
+price: '349,000,000'
 categories: morning
 img: at-deluxe.jpg
 model: morning

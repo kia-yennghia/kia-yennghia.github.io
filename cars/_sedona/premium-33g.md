@@ -1,6 +1,6 @@
 ---
 title: Sedona Premium 3.3G
-price: 1359000000
+price: '1,359,000,000'
 categories: sedona
 img: premium-33g.jpg
 model: sedona

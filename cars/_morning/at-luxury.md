@@ -1,6 +1,6 @@
 ---
 title: Morning AT Luxury
-price: 383000000
+price: '383,000,000'
 categories: morning
 img: at-luxury.jpg
 model: morning

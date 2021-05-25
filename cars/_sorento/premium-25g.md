@@ -1,6 +1,7 @@
 ---
 title: Sorento All New 2.5G Premium (Máy Xăng)
-price: 1179000000
+old_price: '1,179,000,000'
+price: '1,159,000,000'
 categories: sorento
 img: premium-25g.jpg
 model: sorento

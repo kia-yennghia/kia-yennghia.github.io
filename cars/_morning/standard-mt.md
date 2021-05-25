@@ -1,6 +1,6 @@
 ---
 title: Morning Standard MT
-price: 304000000
+price: '304,000,000'
 categories: morning
 img: standard-mt.jpg
 model: morning

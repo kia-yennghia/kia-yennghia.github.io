@@ -1,6 +1,7 @@
 ---
 title: Sorento All New 2.2D Luxury (Máy dầu)
-price: 1179000000
+old_price: '1,179,000,000'
+price: '1,159,000,000'
 categories: sorento
 img: luxury-22d.jpg
 model: sorento
