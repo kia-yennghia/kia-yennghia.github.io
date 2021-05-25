@@ -1,6 +1,7 @@
 ---
 title: Cerato 1.6AT Luxury
-price: 639000000
+price: 609000000
+old_price: 639000000
 categories: cerato
 img: 16at-luxury.jpg
 model: cerato

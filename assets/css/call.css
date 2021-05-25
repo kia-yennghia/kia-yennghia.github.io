@@ -5,7 +5,7 @@
 }
 .add-widget.widget-zalo {
     left: 32px;
-    bottom: 133px;
+    bottom: 80px;
 }
 .add-widget .widget-circle {
     position: relative;
@@ -32,7 +32,7 @@
 .phone-ring {
     position: fixed;
     left: 32px;
-    bottom: 84px;
+    bottom: 20px;
     z-index: 99999;
 }
 .phone-circle, .phone-circle .ping {
@@ -77,6 +77,16 @@
     -webkit-animation: sonar-anim 1.25s linear infinite;
     animation: sonar-anim 1.25s linear infinite;
 }
+
+span.phone {
+    position: relative;
+    color: #fff;
+    background-color: #fa2837;
+    padding: 10px;
+    border-radius: 20px;
+    bottom: 15px;
+}
+
 @-webkit-keyframes sonar-anim {
     0% {
         opacity: 1;

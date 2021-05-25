@@ -1,6 +1,6 @@
 ---
 title: Seltos 1.4 Turbo Premium
-price: 719000000
+price: 729000000
 categories: seltos
 img: 14-turbo-premium.jpg
 model: seltos
