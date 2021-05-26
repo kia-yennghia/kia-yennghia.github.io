@@ -2,6 +2,7 @@
 title: Soluto MT Deluxe 1.4L
 price: '404,000,000'
 categories: soluto
+tags: soluto
 img: mt-deluxe-14l.jpg
 model: soluto
 sliders:

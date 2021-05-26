@@ -2,6 +2,7 @@
 title: Morning AT Luxury
 price: '383,000,000'
 categories: morning
+tags: morning
 img: at-luxury.jpg
 model: morning
 sliders:
@@ -77,7 +78,7 @@ acc:
   icon: check
 - name: Vô lăng tích hợp điều khiển âm thanh.
   icon: check
-- name: Hệ thống giải trí: DVD 4 loa
+- name: Hệ thống giải trí - DVD 4 loa
   icon: check
 - name: Điều hòa - Tự động.
   icon: check
@@ -111,7 +112,6 @@ acc:
   icon: check
 - name: Camera lùi.
   icon: check
-  
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

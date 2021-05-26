@@ -2,6 +2,7 @@
 title: Optima Premium
 price: '919,000,000'
 categories: optima
+tags: optima
 img: premium.jpg
 model: optima
 sliders:

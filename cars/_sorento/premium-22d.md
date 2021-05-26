@@ -3,6 +3,7 @@ title: Sorento All New 2.2D Premium (Máy dầu)
 old_price: '1,279,000,000'
 price: '1,259,000,000'
 categories: sorento
+tags: sorento
 img: premium-22d.jpg
 model: sorento
 sliders:

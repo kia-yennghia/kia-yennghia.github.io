@@ -65,3 +65,8 @@ collections_dir: cars
 paginate: 6
 paginate_path: page:num/
 markdown: kramdown
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag-page
+tag_permalink_style:  pretty

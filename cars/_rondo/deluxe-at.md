@@ -2,6 +2,7 @@
 title: Rondo Deluxe AT
 price: 655000000
 categories: rondo
+tags: rondo
 img: deluxe-at.jpg
 model: rondo
 sliders:

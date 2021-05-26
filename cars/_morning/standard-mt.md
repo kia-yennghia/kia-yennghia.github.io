@@ -2,6 +2,7 @@
 title: Morning Standard MT
 price: '304,000,000'
 categories: morning
+tags: morning
 img: standard-mt.jpg
 model: morning
 sliders:

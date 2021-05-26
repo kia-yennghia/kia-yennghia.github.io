@@ -3,6 +3,7 @@ title: Cerato 2.0AT Premium
 price: '655,000,000'
 old_price: '685,000,000'
 categories: cerato
+tags: cerato
 img: 20at-premium.jpg
 model: cerato
 color: white

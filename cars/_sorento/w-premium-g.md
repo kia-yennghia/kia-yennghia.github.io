@@ -2,6 +2,7 @@
 title: Sorento Premium G
 price: '869000000'
 categories: sorento
+tags: sorento
 img: w-premium-g.jpg
 model: sorento
 sliders:

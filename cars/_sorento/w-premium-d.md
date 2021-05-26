@@ -2,6 +2,7 @@
 title: Sorento Premium D
 price: 899000000
 categories: sorento
+tags: sorento
 img: w-premium-d.jpg
 model: sorento
 sliders:
