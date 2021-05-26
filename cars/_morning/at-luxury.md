@@ -12,7 +12,7 @@ sliders:
 - 5
 basic:
 - name: Chiều dài cơ sở xe
-  val: mm
+  val: 2.385 mm
   icon: fa-road
 - name: Trọng lượng không tải
   val: 960 kg
@@ -31,176 +31,87 @@ basic:
   icon: fa-superpowers
 specs:
 - name: Kích thước tổng thể (mm)
-  val: 5115 x 1985 x 1755
+  val: 3.595 x 1.595 x 1.490
 - name: Chiều dài cơ sở (mm)
-  val: 3060
+  val: 2.385
 - name: Khoảng sáng gầm xe (mm)
-  val: 163
+  val: 152
 - name: Bán kính vòng quay (mm)
-  val: 5600
+  val: 4.900
 - name: Trọng lượng không tải (Kg)
-  val: 2070
+  val: 960
 - name: Trọng lượng toàn tải (Kg)
-  val: 2830
+  val: 1.370
 - name: Dung tích bình nhiên liệu (L)
-  val: 80
+  val: 35
 - name: Số chỗ ngồi
-  val: 07 Chỗ
+  val: 05 Chỗ
 - name: Công nghệ động cơ
-  val: Dầu, 2.2L CRD
+  val: Xăng
 - name: Loại động cơ
-  val: DOHC
+  val: Kappa 1.25
 - name: Dung tích xi lanh (cc)
-  val: 2.199 cc
+  val: 1248 cc
 - name: Công suất cực đại (hp / rpm)
-  val: 190Hp / 3.800rpm
+  val: 86Hp/6.000rpm
 - name: Mô men xoắn cực đại (Nm / rpm)
-  val: 440Nm / 1.750~2.750rpm
+  val: 120Nm/4.000rpm
 - name: Hộp số
-  val: Số tự động 6 cấp
-- name: Hệ thống dẫn động
-  val: Cầu trước
+  val: Số tự động
 - name: Hệ thống treo trước
   val: Kiểu Mc Pherson
 - name: Hệ thống treo sau
-  val: Đa liên kết
+  val: Trục xoắn lò xo trụ
 - name: Hệ thống phanh trước
-  val: Đĩa thông gió
+  val: Đĩa 
 - name: Hệ thống phanh sau
-  val: Đĩa đặc
+  val: Tang trống
 - name: Trợ lực tay lái
-  val: Trợ lực thủy lực
+  val: Trợ lực điện
 - name: Kích thước lốp xe
-  val: 235/60R18
+  val: 175P/50R15
 - name: Loại mâm xe
   val: Mâm đúc hợp kim nhôm
 acc:
-- name: Hệ thống chống bó cứng phanh ABS.
+- name: Tay lái điềuu chỉnh 2 hướng.
   icon: check
-- name: Hệ thống phân phối lực phanh điện tử EBD.
+- name: Vô lăng tích hợp điều khiển âm thanh.
   icon: check
-- name: Hệ thống ga tự động.
+- name: Hệ thống giải trí: DVD 4 loa
+  icon: check
+- name: Điều hòa - Tự động.
+  icon: check
+- name: Áo ghế da.
+  icon: check
+- name: Đèn pha chiếu xa – chiếu gần (Halogen Projector).
+  icon: check
+- name: Đèn sương mù phía trước - Projector
+  icon: check
+- name: Đèn phanh lắp trên cao.
+  icon: check
+- name: Cụm đèn sau dạng LED.
+  icon: check
+- name: Tay nắm cửa mạ Chrome.
+  icon: check
+- name: Gương chiếu hậu chỉnh điện.
+  icon: check
+- name: Gương chiếu hậu - gập điện.
+  icon: check
+- name: Gương chiếu hậu tích hợp đèn báo rẽ.
+  icon: check
+- name: Ốp cản sau bô đôi cá tính.
+  icon: check
+- name: Khóa cửa trung tâm.
   icon: check
 - name: Khóa cửa điều khiển từ xa.
   icon: check
-- name: Hệ thống chống trộm.
+- name: Hệ thống chống bó cứng phanh ABS.
   icon: check
-- name: Chống sao chép chìa khóa.
+- name: Hệ thống phân bố lực phanh điện tử EBD.
   icon: check
-- name: Dây đai an toàn các hàng ghế.
+- name: Camera lùi.
   icon: check
-- name: Chức năng đèn mở rộng góc chiếu
-  icon: close
-- name: Đèn chiếu sáng ban ngày LED
-  icon: close
-- name: Cụm đèn sau LED
-  icon: close
-- name: Đèn sương mù trước
-  icon: check
-- name: Cánh hướng gió phía sau
-  icon: check
-- name: Đèn báo phanh trên cao
-  icon: check
-- name: Giá đỡ hành lý trên mui xe
-  icon: check
-- name: Lưới tản nhiệt
-  icon: close
-- name: Viền Logo cốp sau
-  icon: close
-- name: Gạt mưa trước
-  icon: close
-- name: Gương chiếu hậu chỉnh điện
-  icon: check
-- name: Gương chiếu hậu gập điện
-  icon: check
-- name: Gương chiếu hậu tích hợp đèn báo rẽ
-  icon: check
-- name: Phim cách nhiệt
-  icon: check
-- name: Bọc da vô lăng
-  icon: check
-- name: Vô lăng tích hợp nút bấm âm thanh
-  icon: check
-- name: Chế độ điện thoại rảnh tay
-  icon: check
-- name: Vô lăng điều chỉnh
-  icon: close
-- name: Màn hình hiển thị đa thông tin
-  icon: check
-- name: Hệ thống loa 6 loa
-  icon: check
-- name: Đầu DVD, MP3, Radio
-  icon: check
-- name: Cổng kết nối AUX
-  icon: check
-- name: Cổng kết nối USB
-  icon: check
-- name: Kết nối Bluetooth
-  icon: check
-- name: Sấy kính trước
-  icon: check
-- name: Sấy kính sau
-  icon: check
-- name: Sưởi vô lăng
-  icon: close
-- name: Sưởi và làm mát hàng ghế trước
-  icon: close
-- name: Kính cửa điều khiển điện 1 chạm, chống kẹp ở 2 cửa trước
-  icon: check
-- name: Cửa hông
-  icon: close
-- name: Cốp sau chỉnh điện
-  icon: close
-- name: Điều hòa tự động Chỉnh cơ
-  icon: close
-- name: Hệ thống lọc khí
-  icon: close
-- name: Hệ thống điều hòa sau Chỉnh cơ
-  icon: close
-- name: Gương chiếu hậu chống chói (ECM)
-  icon: close
-- name: Hệ thống kiểm soát tiêu hao nhiên liệu
-  icon: check
-- name: Cửa sổ trời
-  icon: close
-- name: Rèm che nắng hàng ghế 2 và 3
-  icon: check
-- name: Ghế da cao cấp
-  icon: check
-- name: Điều chỉnh ghế lái Chỉnh cơ
-  icon: close
-- name: Hàng ghế thứ 3 gập tỷ lệ
-  icon: close
-- name: Đèn trang điểm
-  icon: close
-- name: Hệ thống chống bó cứng phanh (ABS)
-  icon: check
-- name: Hệ thống hỗ trợ lực phanh khẩn cấp BA
-  icon: close
-- name: Hệ thống phân phối lực phanh điện tử EBD
-  icon: check
-- name: Hệ thống cân bằng điện tử (ESP)
-  icon: close
-- name: Hệ thống chống trộm
-  icon: check
-- name: Chống sao chép chìa khóa
-  icon: close
-- name: Dây đai an toàn các hàng ghế
-  icon: close
-- name: Hệ thống túi khí 2 túi khí
-  icon: close
-- name: Khóa cửa trung tâm
-  icon: check
-- name: Khóa cửa tự động theo tốc độ
-  icon: close
-- name: Hệ thống cảnh báo điểm mù BSM
-  icon: close
-- name: Cảm biến hỗ trợ đỗ xe trước
-  icon: close
-- name: Cảm biến hỗ trợ đỗ xe sau
-  icon: check
-- name: Camera lùi
-  icon: check
+  
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

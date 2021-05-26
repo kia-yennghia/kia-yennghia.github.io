@@ -27,7 +27,7 @@ basic:
   val: 5 chỗ
   icon: fa-user
 - name: Số túi khí
-  val: 0 túi
+  val: 1 túi
   icon: fa-superpowers
 specs:
 - name: Kích thước tổng thể (mm)
@@ -69,21 +69,21 @@ specs:
 - name: Trợ lực tay lái
   val: Trợ lực điện
 - name: Kích thước lốp xe
-  val: 165P/60R14
+  val: 165P/60R15
 - name: Loại mâm xe
-  val: Mâm Thép
+  val: Mâm đúc hợp kim nhôm
 acc:
 - name: Tay lái điềuu chỉnh 2 hướng.
   icon: check
 - name: Vô lăng tích hợp điều khiển âm thanh.
   icon:
-- name: Hệ thống giải trí (DVD 4 loa)
+- name: Hệ thống giải trí - DVD 4 loa
   icon: check
-- name: Điều hòa Tự động.
+- name: Điều hòa - Tự động.
   icon:
 - name: Áo ghế da.
   icon: check
-- name: Đèn pha chiếu xa – chiếu gần (Halogen Projector)
+- name: Đèn pha chiếu xa – chiếu gần (Halogen Projector).
   icon: check
 - name: Đèn sương mù phía trước - Projector
   icon: check
@@ -93,24 +93,20 @@ acc:
   icon:
 - name: Tay nắm cửa mạ Chrome.
   icon: check
-- name: Gương chiếu hậu chỉnh điện.
-  icon: check
 - name: Gương chiếu hậu - gập điện.
-  icon:
+  icon: check
 - name: Gương chiếu hậu tích hợp đèn báo rẽ.
-  icon:
+  icon: check
 - name: Ốp cản sau bô đôi cá tính.
   icon:
 - name: Khóa cửa trung tâm.
   icon: check
 - name: Khóa cửa điều khiển từ xa.
-  icon:
+  icon: check
 - name: Hệ thống chống bó cứng phanh ABS.
   icon: check
 - name: Hệ thống phân bố lực phanh điện tử EBD.
   icon: check
-- name: Túi khí.
-  icon:
 - name: Camera lùi.
   icon:
 ---
