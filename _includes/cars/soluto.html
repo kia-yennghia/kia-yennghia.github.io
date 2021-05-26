@@ -1,22 +1,22 @@
-{% for o in site.optima %}
+{% for so in site.soluto %}
 <div class="col-list-3">
     <div class="recent-car-list">
         <div class="featured-car-list">
             <div class="featured-car-img">
-                <a href="{{ o.url }}"><img src="{{ site.img }}/{{ o.url }}{{ o.img }}" class="img-responsive"
+                <a href="{{ so.url }}"><img src="{{ site.img }}/{{ so.url }}{{ so.img }}" class="img-responsive"
                         alt="Image" /></a>
             </div>
             <div class="featured-car-content">
-                <h6><a href="{{ o.url }}">Kia {{ o.title }}</a></h6>
+                <h6><a href="{{ so.url }}">Kia {{ so.title }}</a></h6>
                 <div class="price_info">
-                    <p class="featured-price">{{ o.price }}</p>
+                    <p class="featured-price">{{ so.price }}</p>
                     <div class="car-location">
                         <span><i class="fa fa-map-marker" aria-hidden="true"></i>
                             Kia Yên nghĩa</span>
                     </div>
                 </div>
                 <ul>
-                    {% for info in o.basic %}
+                    {% for info in so.basic %}
                     <li title="{{ info.name }}">
                         <i class="fa {{ info.icon }}" aria-hidden="true"></i>{{ info.val }}
                     </li>

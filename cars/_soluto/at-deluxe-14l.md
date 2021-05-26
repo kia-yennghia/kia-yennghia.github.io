@@ -12,10 +12,10 @@ sliders:
 - 5
 basic:
 - name: Chiều dài cơ sở xe
-  val: 3.060 mm
+  val: 2.570 mm
   icon: fa-road
 - name: Trọng lượng không tải
-  val: 2.070 kg
+  val: 1.066 kg
   icon: fa-tachometer
 - name: Màu sắc
   val: Trắng
@@ -24,54 +24,54 @@ basic:
   val: Xăng
   icon: fa-car
 - name: Số chỗ ngồi
-  val: 4 chỗ
+  val: 5 chỗ
   icon: fa-user
 - name: Số túi khí
   val: 2 túi
   icon: fa-superpowers
 specs:
 - name: Kích thước tổng thể (mm)
-  val: 5115 x 1985 x 1755
+  val: 4.300 x 1.700 x 1.460
 - name: Chiều dài cơ sở (mm)
-  val: 3060
+  val: 2.570
 - name: Khoảng sáng gầm xe (mm)
-  val: 163
+  val: 150
 - name: Bán kính vòng quay (mm)
-  val: 5600
+  val: 5.200
 - name: Trọng lượng không tải (Kg)
-  val: 2070
+  val: 1.066
 - name: Trọng lượng toàn tải (Kg)
-  val: 2830
+  val: 1.500
 - name: Dung tích bình nhiên liệu (L)
-  val: 80
+  val: 43
 - name: Số chỗ ngồi
-  val: 07 Chỗ
+  val: 05 Chỗ
 - name: Công nghệ động cơ
-  val: Dầu, 2.2L CRD
+  val: Xăng
 - name: Loại động cơ
-  val: DOHC
+  val: Kappa 1.4 
 - name: Dung tích xi lanh (cc)
-  val: 2.199 cc
+  val: 1368 cc
 - name: Công suất cực đại (hp / rpm)
-  val: 190Hp / 3.800rpm
+  val: 94Hp/6.000rpm
 - name: Mô men xoắn cực đại (Nm / rpm)
-  val: 440Nm / 1.750~2.750rpm
+  val: 132Nm/4000rpm
 - name: Hộp số
-  val: Số tự động 6 cấp
+  val: Số tự động 4 cấp
 - name: Hệ thống dẫn động
-  val: Cầu trước
+  val: Cầu trước FWD
 - name: Hệ thống treo trước
   val: Kiểu Mc Pherson
 - name: Hệ thống treo sau
-  val: Đa liên kết
+  val: Thanh xoắn
 - name: Hệ thống phanh trước
-  val: Đĩa thông gió
+  val: Đĩa 
 - name: Hệ thống phanh sau
-  val: Đĩa đặc
+  val: Đĩa
 - name: Trợ lực tay lái
-  val: Trợ lực thủy lực
+  val: Trợ lực điện
 - name: Kích thước lốp xe
-  val: 235/60R18
+  val: 175/70R14
 - name: Loại mâm xe
   val: Mâm đúc hợp kim nhôm
 acc:
@@ -79,127 +79,21 @@ acc:
   icon: check
 - name: Hệ thống phân phối lực phanh điện tử EBD.
   icon: check
-- name: Hệ thống ga tự động.
+- name: Hệ thống hỗ trợ phanh khẩn cấp BA.
   icon: check
-- name: Khóa cửa điều khiển từ xa.
+- name: Dây đai an toàn các hàng ghế.
   icon: check
-- name: Hệ thống chống trộm.
+- name: Tự động khóa cửa khi vận hành.
   icon: check
-- name: Chống sao chép chìa khóa.
+- name: Khóa cửa điều khiển từ xa.
   icon: check
-- name: Dây đai an toàn các hàng ghế.
+- name: Hệ thống ga tự động.
   icon: check
-- name: Chức năng đèn mở rộng góc chiếu
-  icon: close
-- name: Đèn chiếu sáng ban ngày LED
-  icon: close
-- name: Cụm đèn sau LED
-  icon: close
-- name: Đèn sương mù trước
+- name: Mã khóa chìa khóa.
   icon: check
-- name: Cánh hướng gió phía sau
+- name: Camera lùi.
   icon: check
-- name: Đèn báo phanh trên cao
-  icon: check
-- name: Giá đỡ hành lý trên mui xe
-  icon: check
-- name: Lưới tản nhiệt
-  icon: close
-- name: Viền Logo cốp sau
-  icon: close
-- name: Gạt mưa trước
-  icon: close
-- name: Gương chiếu hậu chỉnh điện
-  icon: check
-- name: Gương chiếu hậu gập điện
-  icon: check
-- name: Gương chiếu hậu tích hợp đèn báo rẽ
-  icon: check
-- name: Phim cách nhiệt
-  icon: check
-- name: Bọc da vô lăng
-  icon: check
-- name: Vô lăng tích hợp nút bấm âm thanh
-  icon: check
-- name: Chế độ điện thoại rảnh tay
-  icon: check
-- name: Vô lăng điều chỉnh
-  icon: close
-- name: Màn hình hiển thị đa thông tin
-  icon: check
-- name: Hệ thống loa 6 loa
-  icon: check
-- name: Đầu DVD, MP3, Radio
-  icon: check
-- name: Cổng kết nối AUX
-  icon: check
-- name: Cổng kết nối USB
-  icon: check
-- name: Kết nối Bluetooth
-  icon: check
-- name: Sấy kính trước
-  icon: check
-- name: Sấy kính sau
-  icon: check
-- name: Sưởi vô lăng
-  icon: close
-- name: Sưởi và làm mát hàng ghế trước
-  icon: close
-- name: Kính cửa điều khiển điện 1 chạm, chống kẹp ở 2 cửa trước
-  icon: check
-- name: Cửa hông
-  icon: close
-- name: Cốp sau chỉnh điện
-  icon: close
-- name: Điều hòa tự động Chỉnh cơ
-  icon: close
-- name: Hệ thống lọc khí
-  icon: close
-- name: Hệ thống điều hòa sau Chỉnh cơ
-  icon: close
-- name: Gương chiếu hậu chống chói (ECM)
-  icon: close
-- name: Hệ thống kiểm soát tiêu hao nhiên liệu
-  icon: check
-- name: Cửa sổ trời
-  icon: close
-- name: Rèm che nắng hàng ghế 2 và 3
-  icon: check
-- name: Ghế da cao cấp
-  icon: check
-- name: Điều chỉnh ghế lái Chỉnh cơ
-  icon: close
-- name: Hàng ghế thứ 3 gập tỷ lệ
-  icon: close
-- name: Đèn trang điểm
-  icon: close
-- name: Hệ thống chống bó cứng phanh (ABS)
-  icon: check
-- name: Hệ thống hỗ trợ lực phanh khẩn cấp BA
-  icon: close
-- name: Hệ thống phân phối lực phanh điện tử EBD
-  icon: check
-- name: Hệ thống cân bằng điện tử (ESP)
-  icon: close
-- name: Hệ thống chống trộm
-  icon: check
-- name: Chống sao chép chìa khóa
-  icon: close
-- name: Dây đai an toàn các hàng ghế
-  icon: close
-- name: Hệ thống túi khí 2 túi khí
-  icon: close
-- name: Khóa cửa trung tâm
-  icon: check
-- name: Khóa cửa tự động theo tốc độ
-  icon: close
-- name: Hệ thống cảnh báo điểm mù BSM
-  icon: close
-- name: Cảm biến hỗ trợ đỗ xe trước
-  icon: close
-- name: Cảm biến hỗ trợ đỗ xe sau
-  icon: check
-- name: Camera lùi
+- name: Cảm biến hỗ trợ đỗ xe.
   icon: check
 ---
 

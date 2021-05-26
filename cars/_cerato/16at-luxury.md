@@ -14,7 +14,7 @@ sliders:
 - 5
 basic:
 - name: Chiều dài cơ sở xe
-  val: 0 mm
+  val: mm
   icon: fa-road
 - name: Trọng lượng không tải
   val: 1.270 kg
