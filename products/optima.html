@@ -1,5 +1,5 @@
 ---
-permalink: "/car-models/"
+permalink: "/optima"
 layout: default
 ---
 
@@ -11,7 +11,7 @@ layout: default
       </div>
       <ul class="coustom-breadcrumb">
         <li><a href="/">Trang chủ</a></li>
-        <li>Models</li>
+        <li>Optima</li>
       </ul>
     </div>
   </div>
@@ -26,7 +26,7 @@ layout: default
 
               {% for cars in site.collections %}
               {% assign label = cars.label %}
-              {% if label != 'posts' and label != 'pages' %}
+              {% if label != 'posts' and label != 'pages' and label == 'optima' %}
 
                 
                 <h4 class="mt-5 mb-neg-30" id="{{ label }}"><span class="badge badge-danger">{{ label | upcase }}</span></h4>
@@ -55,4 +55,4 @@ layout: default
     </div>
   </div>
 </section>
-<!--/Dealer-profile--> 
+<!--/Dealer-profile-->

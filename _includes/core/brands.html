@@ -6,7 +6,7 @@
             <div class="brand-logo-list">
                 <div id="popular_brands">
                     {% for brand in site.data.brands %}
-                    <div><a href="{{site.baseurl}}/car-models#{{ brand.img }}"><img
+                    <div><a href="{{site.baseurl}}/{{ brand.img }}"><img
                                 src="{{ site.baseurl }}/assets/images/brands/{{ brand.img }}.jpg" class="img-responsive"
                                 alt="image">
                             <p style="padding-left: 30px;">{{ brand.name}}</p>
