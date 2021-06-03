@@ -135,7 +135,7 @@ blockquote,
 }
 
 .navbar-nav > li > .dropdown-menu li {
-  border-bottom: 1px solid #e21625;
+  border-bottom: 1px solid #000000;
 }
 
 @media (max-width:767px) {
