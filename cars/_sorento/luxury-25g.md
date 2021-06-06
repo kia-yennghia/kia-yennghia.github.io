@@ -15,13 +15,13 @@ sliders:
 - 6
 basic:
 - name: Chiều dài cơ sở xe
-  val: 0 mm
+  val: 2815 mm
   icon: fa-road
 - name: Trọng lượng không tải
-  val: 2.720 kg
+  val: 1860 kg
   icon: fa-tachometer
 - name: Màu sắc
-  val: Nhiều màu
+  val: Trắng
   icon: fa-bandcamp
 - name: Loại nhiên liệu
   val: Xăng
@@ -34,176 +34,108 @@ basic:
   icon: fa-superpowers
 specs:
 - name: Kích thước tổng thể (mm)
-  val: 5115 x 1985 x 1755
+  val: 4810 x 1900 x 1700
 - name: Chiều dài cơ sở (mm)
-  val: 3060
+  val: 2.815
 - name: Khoảng sáng gầm xe (mm)
-  val: 163
+  val: 176
 - name: Bán kính vòng quay (mm)
-  val: 5600
+  val: 5.780
 - name: Trọng lượng không tải (Kg)
-  val: 2070
+  val: 1.860
 - name: Trọng lượng toàn tải (Kg)
-  val: 2830
+  val: 2490
 - name: Dung tích bình nhiên liệu (L)
-  val: 80
+  val: 67
 - name: Số chỗ ngồi
   val: 07 Chỗ
 - name: Công nghệ động cơ
-  val: Dầu, 2.2L CRD
+  val: Smartstream 
 - name: Loại động cơ
-  val: DOHC
+  val: Smartstream G2.5
 - name: Dung tích xi lanh (cc)
-  val: 2.199 cc
+  val: 2.151 cc
 - name: Công suất cực đại (hp / rpm)
-  val: 190Hp / 3.800rpm
+  val: 177Hp / 6000rpm
 - name: Mô men xoắn cực đại (Nm / rpm)
-  val: 440Nm / 1.750~2.750rpm
+  val: 232Nm / 4000rpm
 - name: Hộp số
-  val: Số tự động 6 cấp
+  val: Hộp số tự động 6 cấp
 - name: Hệ thống dẫn động
-  val: Cầu trước
+  val: FWD
 - name: Hệ thống treo trước
   val: Kiểu Mc Pherson
 - name: Hệ thống treo sau
-  val: Đa liên kết
+  val: Liên kết đa điểm
 - name: Hệ thống phanh trước
-  val: Đĩa thông gió
+  val: Đĩa
 - name: Hệ thống phanh sau
-  val: Đĩa đặc
+  val: Đĩa
 - name: Trợ lực tay lái
-  val: Trợ lực thủy lực
+  val: Trợ lực điện
 - name: Kích thước lốp xe
-  val: 235/60R18
+  val: 235/55R19
 - name: Loại mâm xe
   val: Mâm đúc hợp kim nhôm
 acc:
-- name: Hệ thống chống bó cứng phanh ABS.
+- name: Hệ thống chống bó cứng phanh ABS, EBD.
   icon: check
-- name: Hệ thống phân phối lực phanh điện tử EBD.
+- name: Hệ thống cân bằng điện tử ESC.
   icon: check
-- name: Hệ thống ga tự động.
+- name: Điều khiển hành trình.
   icon: check
-- name: Khóa cửa điều khiển từ xa.
+- name: Cảm biến hỗ trợ đỗ xe trươc sau.
   icon: check
-- name: Hệ thống chống trộm.
+- name: Camera lùi.
   icon: check
-- name: Chống sao chép chìa khóa.
+- name: Tùy chỉnh chế độ lái.
   icon: check
-- name: Dây đai an toàn các hàng ghế.
+- name: Khởi động từ xa bằng chìa khóa.
   icon: check
-- name: Chức năng đèn mở rộng góc chiếu
-  icon: close
-- name: Đèn chiếu sáng ban ngày LED
-  icon: close
-- name: Cụm đèn sau LED
-  icon: close
-- name: Đèn sương mù trước
+- name: Khóa trẻ em điện tử.
   icon: check
-- name: Cánh hướng gió phía sau
+- name: Hệ Thống quan sát toàn cảnh SVM.
   icon: check
-- name: Đèn báo phanh trên cao
+- name: Hiển thị điểm mù trên màn hình đa thông tin BVM.
   icon: check
-- name: Giá đỡ hành lý trên mui xe
+- name: Tùy chỉnh chế độ địa hình.
+  icon: 
+- name: Hỗ trợ giữ làn đường LFA.
+  icon: 
+- name: Hỗ trợ tránh va chạm phía trước FCA.
+  icon: 
+- name: Điều khiển hành trình thông minh SCC.
+  icon: 
+- name: Số túi khí (6).
   icon: check
-- name: Lưới tản nhiệt
-  icon: close
-- name: Viền Logo cốp sau
-  icon: close
-- name: Gạt mưa trước
-  icon: close
-- name: Gương chiếu hậu chỉnh điện
+- name: cảm biến tự động gạt mưa.
   icon: check
-- name: Gương chiếu hậu gập điện
+- name: Sạc điện thoại không dây.
   icon: check
-- name: Gương chiếu hậu tích hợp đèn báo rẽ
+- name: Cửa sổ trời toàn cảnh.
   icon: check
-- name: Phim cách nhiệt
+- name: Lẫy chuyển số.
+  icon: 
+- name: Màn hình đa thông tin (12.3'')
   icon: check
-- name: Bọc da vô lăng
+- name: Số Loa (12 loa Bose)
+  icon: 
+- name: Phanh tay điện tử tích hợp giữ phanh tự động.
   icon: check
-- name: Vô lăng tích hợp nút bấm âm thanh
+- name: Chuyển số dạng núm xoay.
+  icon: 
+- name: Ghế hành khách trước chỉnh điện.
+  icon: 
+- name: Chức năng nhớ vị trí ghế lái.
+  icon: 
+- name: Gương chiều hậu chống chói tự động.
   icon: check
-- name: Chế độ điện thoại rảnh tay
-  icon: check
-- name: Vô lăng điều chỉnh
-  icon: close
-- name: Màn hình hiển thị đa thông tin
-  icon: check
-- name: Hệ thống loa 6 loa
-  icon: check
-- name: Đầu DVD, MP3, Radio
-  icon: check
-- name: Cổng kết nối AUX
-  icon: check
-- name: Cổng kết nối USB
-  icon: check
-- name: Kết nối Bluetooth
-  icon: check
-- name: Sấy kính trước
-  icon: check
-- name: Sấy kính sau
-  icon: check
-- name: Sưởi vô lăng
-  icon: close
-- name: Sưởi và làm mát hàng ghế trước
-  icon: close
-- name: Kính cửa điều khiển điện 1 chạm, chống kẹp ở 2 cửa trước
-  icon: check
-- name: Cửa hông
-  icon: close
-- name: Cốp sau chỉnh điện
-  icon: close
-- name: Điều hòa tự động Chỉnh cơ
-  icon: close
-- name: Hệ thống lọc khí
-  icon: close
-- name: Hệ thống điều hòa sau Chỉnh cơ
-  icon: close
-- name: Gương chiếu hậu chống chói (ECM)
-  icon: close
-- name: Hệ thống kiểm soát tiêu hao nhiên liệu
-  icon: check
-- name: Cửa sổ trời
-  icon: close
-- name: Rèm che nắng hàng ghế 2 và 3
-  icon: check
-- name: Ghế da cao cấp
-  icon: check
-- name: Điều chỉnh ghế lái Chỉnh cơ
-  icon: close
-- name: Hàng ghế thứ 3 gập tỷ lệ
-  icon: close
-- name: Đèn trang điểm
-  icon: close
-- name: Hệ thống chống bó cứng phanh (ABS)
-  icon: check
-- name: Hệ thống hỗ trợ lực phanh khẩn cấp BA
-  icon: close
-- name: Hệ thống phân phối lực phanh điện tử EBD
-  icon: check
-- name: Hệ thống cân bằng điện tử (ESP)
-  icon: close
-- name: Hệ thống chống trộm
-  icon: check
-- name: Chống sao chép chìa khóa
-  icon: close
-- name: Dây đai an toàn các hàng ghế
-  icon: close
-- name: Hệ thống túi khí 2 túi khí
-  icon: close
-- name: Khóa cửa trung tâm
-  icon: check
-- name: Khóa cửa tự động theo tốc độ
-  icon: close
-- name: Hệ thống cảnh báo điểm mù BSM
-  icon: close
-- name: Cảm biến hỗ trợ đỗ xe trước
-  icon: close
-- name: Cảm biến hỗ trợ đỗ xe sau
-  icon: check
-- name: Camera lùi
-  icon: check
+- name: Chức năng sưởi ấm và làm mát hàng ghế trước.
+  icon:
+- name: Chức năng sưởi tay lái.
+  icon: 
+- name: Màn hình hiển thị thông tin trên kính lái
+  icon:
 ---
 ## Tổng quan
 
