@@ -1,6 +1,6 @@
 ---
 title: Cerato MT
-price: '524,000,000'
+price: '499,000,000'
 old_price: '544,000,000'
 categories: cerato
 tags: cerato
