@@ -126,125 +126,133 @@ acc:
 - name: Điều hòa tự động 2 vùng độc lập
   icon: check
 ---
-
 ## TỔNG QUAN
 
-Mẫu crossover KIA Seltos 2021 được THACO lắp ráp trong nước và trình làng tại thị trường Việt Nam với 3 phiên bản và 2 tùy chọn động cơ đi kèm giá bán từ 599 triệu đồng.
+Kia Seltos là mẫu xe CUV cỡ B mới nhất được Kia Motor Việt Nam ra mắt vào tháng 7/2020.Kia Seltos được rất nhiều khách hàng mong chờ kể từ khi ra mắt ở Ấn Độ và Hàn Quốc. từ khi ra mắt ở thị trường Việt Nam Kia Seltos đã làm mưa làm gió trong phân khúc xe CUV đô thị ở Việt Nam. Đã đánh đổ tượng đài Hyundai Kona để đứng đầu về doanh số.  xứng đáng là đối thủ xứng tầm của Toyota Cross, Hyundai Kona….
 
-KIA Seltos 2021 là 1 trong 4 mẫu xe SUV thuộc thế hệ mới của KIA sử dụng cấu trúc nền tảng chung với Hyundai Kona nhưng Seltos tạo dấu ấn riêng và rõ nét nhờ thiết kế khác biệt so với đối thủ đồng hương.
+<img src="/assets/images/seltos/14-turbo-premium/KIA Seltos 1.4 Premium (1).jpg" style="width: 100%" alt="Kia Seltos Premium 2022"/>
 
-<img src="/assets/images/seltos/14-turbo-premium/kia-seltos-14-premium-1.jpg" style="width: 100%" alt="Kia Seltos Premium - Hình 1" />
+Kia Seltos sử dụng động cơ 1.4L Turbo và 1.6L khiến chiếc xe sản sinh công suất lớn hơn mà vẫn tiết kiệm nhiên liệu, đông cơ turbo của Kia Seltos cũng mang đến cảm giác khác lạ khi tăng tốc và cảm giác lái thể thao hơn, được phân phối tại Việt Nam với 04 phiên bản, với mức giá cạnh tranh nhất phân khúc, cụ thể :
 
-*KIA Seltos thiết kế trẻ trung*
+- <a href="https://kiayennghia.dailykia5s.com/seltos/14-turbo-deluxe"><span style="color: #0094da">KIA SELTOS 1.4 DELUXE</span></a>       : **629.000.000 VNĐ**
 
-Đặt Seltos 2021 trong dàn xe crossover mới của hãng KIA thì Seltos được định vị trên Soul và dưới Sportage. ADN chung rõ ràng và cũng là duy nhất giữa các dòng xe này là bộ lưới tản nhiệt với phong cách thiết kế dạng “mũi hổ” đặc trưng của hãng xe Kia.
+- <a href="https://kiayennghia.dailykia5s.com/seltos/14-turbo-luxury/"><span style="color: #0094da">KIA SELTOS 1.4 LUXURY</span></a>      : **689.000.000 VNĐ**
+
+- <a href="https://kiayennghia.dailykia5s.com/seltos/14-turbo-premium/"><span style="color: #0094da">KIA SELTOS 1.4 PREMIUM</span></a>    : **739.000.000 VNĐ**
+
+- <span style="color: #0094da">KIA SELTOS 1.6 PREMIUM</span>    : **719.000.000 VNĐ**
+
+Hiện tại, khách hàng mua xe Kia Seltos sẽ nhận được rất nhiều quà tặng phụ kiện giá trị. Quý khách vui lòng liên hệ hotline <a href="tel:0346084666">0346 084 666</a> để được tư vấn miễn phí.
+
+**Đánh giá tổng quan về Kia Seltos 1.4 premium**
+
+- Kia Seltos 1.4 Premium - Phiên bản số tự động cao cấp được trang  bị gói option cao cấp nhất với giá bán 739,000,000 đ trở thành mẫu xe có giá khá cạnh tranh trọng  phân khúc xe CUV đô thị, mức giá này thậm chí chỉ ngang với giá của Toyota cross bản G( bản thấp nhất của Toyota cross) nhưng lại có lợi thế áp đảo về kích thước xe, động cơ, vận hành và trang bị tiện ích trên xe.
+
+ <img src="/assets/images/seltos/14-turbo-premium/KIA Seltos 1.4 Premium-2.jpg" style="width: 100%" alt="Kia Seltos Premium 2022"/>
+
+Sử dụng động cơ  Turbo 1.4L với hộp số tự động 7 cấp, cùng giá bán hợp lý Kia Seltos 1.4 premium hoàn toàn phù hợp với rất nhiều mục đích sử dụng:
+
+- Đối tượng khách hàng cần 1 chiếc xe CUV gầm cao rộng rãi, động cơ mạnh mẽ, lựa chọn hợp lý nhất trong phân khúc xe 700tr.
+- Lựa chọn số 1 của khách hàng muốn trải nghiệm một chiếc xe gầm cao, kiểu dáng thể thao, thiết kế trẻ trung, năng động…..
+- Phù hợp với những gia đình trẻ, mua xe lần đầu và có mức tài chính trung bình.
 
 ### NGOẠI THẤT
 
-Ngoại hình KIA Seltos 1.4 Turbo Premium có thiết kế năng động và hiện đại, trang bị các tính năng và tiện ích hướng tới người dùng. Phần đầu xe với lưới tản nhiệt đặc trưng nối liền với dãy đèn LED đi cùng kết cấu đa tầng cùng họa tiết điêu khắc hoa văn. Về ngoại hình tổng thể, KIA Seltos 2021 bản Premium vẫn sở hữu thiết kế, trang bị tương tự như phiên bản từng ra mắt ở nhiều quốc gia khác. Xe sở hữu kích thước dài x rộng x cao lần lượt là 4.315 x 1.800 x 1.645 mm, chiều dài trục cơ sở 2.610 mm. Seltos 2021 khoác lên vẻ ngoài hào nhoáng quyến rũ với những đường nét thiết kế mạnh mẽ cơ bắp.
+**Ngoại thất của Kia Seltos 1.4l Turbo: Trẻ trung, phong cách**
 
-<img src="/assets/images/seltos/14-turbo-premium/kia-seltos-14-premium-2.jpg" style="width: 100%" alt="Kia Seltos Premium - Hình 2" />
+- Kia Seltos 1.4 Premium sử dụng chung khung gầm động cơ với các phiên bản còn lại, xe có kích thước dài x rộng x cao lần lượt là 4315 x 1800 x 1645 (mm). Chiều dài cơ sở 2610mm, nhỉnh hơn 20mm so với hyundai Kona.
 
-*KIA Seltos thiết kế trẻ trung*
+<img src="/assets/images/seltos/14-turbo-premium/KIA Seltos 1.4 Premium-3.jpg" style="width: 100%" alt="Kia Seltos Premium 2022"/>
 
-Ở phần đầu xe KIA Seltos 1.4 Turbo Premium nổi bật với bề mặt cơ bắp, các đường gờ gân guốc, lưới tản nhiệt mũi hổ đặc trưng của hãng xe KIA. Do đây là bản cao cấp nhất của Seltos nên xe được trang bị hệ thống cụm đèn trước LED, đèn sương mù LED, đèn tín hiệu chuyển hướng LED, đèn chạy ban ngày LED, chế độ bật/tắt đèn tự động.
+*phần đầu xe thiết kế trẻ trung và thể thao*
 
-<img src="/assets/images/seltos/14-turbo-premium/kia-seltos-14-premium-3.jpg" style="width: 100%" alt="Kia Seltos Premium - Hình 3" />
+**Đầu xe KIA Seltos 1.4 Premium**
 
-*KIA Seltos thiết kế trẻ trung năng động*
+- Nổi bật với lưới tản nhiệt dạng “mũi hổ” đặc trưng của Kia với đường viền mạ crom sáng bóng nối liền với cụm đèn pha full Led. Điểm nhấn là sự xuất hiện của hốc hút gió kéo dài và cụm đèn pha full Led và đèn xương mù dạng led là yếu tố giúp phần đầu xe trở nên rộng rãi và cứng cáp hơn.
 
-<img src="/assets/images/seltos/14-turbo-premium/kia-seltos-14-premium-4.jpg" style="width: 100%" alt="Kia Seltos Premium - Hình 4" />
+- Thiết kế hai bóng đèn sương mù dạng Led với ba bi led siêu sáng trên cản trước làm hoàn thiện tổng thể đầu xe, giúp xe vận hành tốt hơn trong điều kiện sương mù ở Việt Nam
 
-*Cụm đèn pha trước*
 
-Tiến tới phần thân xe, chất mạnh mẽ, cơ bắp vẫn được giữ lại như phần đầu xe, chiếc xe khi lướt đi trên đường tạo nên sức hút cực mạnh với những ai đang cần tìm mẫu xe mang đậm phong cách thể thao. KIA Seltos sử dụng mâm xe có thông số 215/60R17 vững chãi giúp hoàn thiện tổng thể cho thân xe.
+<img src="/assets/images/seltos/14-turbo-premium/KIA Seltos 1.4 Premium-4.jpg" style="width: 100%" alt="Kia Seltos Premium 2022"/>
 
-<img src="/assets/images/seltos/14-turbo-premium/kia-seltos-14-premium-5.jpg" style="width: 100%" alt="Kia Seltos Premium - Hình 5" />
+*Cụm đèn pha cùng cụm đèn xương mù dạng led làm tăng khả năng chiếu sáng và vẻ đẹp cho chiếc xe*
 
-*Mâm xe với thiết kế vằn vện mạnh mẽ*
+<img src="/assets/images/seltos/14-turbo-premium/KIA Seltos 1.4 Premium-5.jpg" style="width: 100%" alt="Kia Seltos Premium 2022"/>
 
-Phía sau xe có thiết kế hình khối tạo nên sự vững chãi và cứng cáp với ống xả kép mạ crôm, dải đèn LED với hiệu ứng ánh sáng theo phương ngang, liền mạch tôn lên vẻ đẹp hiện đại và năng động cho KIA Seltos Premium 2021.
+*Các đường gờ dập nổi tạo điểm nhấn trên lắp capo và cũng làm tăng độ cứng cáp cho chiếc xe*
 
-<img src="/assets/images/seltos/14-turbo-premium/kia-seltos-14-premium-6.jpg" style="width: 100%" alt="Kia Seltos Premium - Hình 6" />
+<img src="/assets/images/seltos/14-turbo-premium/KIA Seltos 1.4 Premium-6.jpg" style="width: 100%" alt="Kia Seltos Premium 2022"/>
 
-*Cụm đèn hậu thiết kế tinh sảo*
+*Lazang 17 inch làm tăng thêm phần cứng cáp và vẻ thể thao cho chiếc xe*
 
-<img src="/assets/images/seltos/14-turbo-premium/kia-seltos-14-premium-7.jpg" style="width: 100%" alt="Kia Seltos Premium - Hình 7" />
+**Phần thân xe**
 
-*Phần đuôi xe thiết kế thể thao*
+- thiết kế rất ấn tượng với những đường gân dập nổi kéo dài từ vòm bánh trước đến tận đèn hậu góp phần tăng tính khí động học cho xe. Nổi bật trên thân xe KIA Seltos 1.4 Premium chính là bộ vành đúc to bản kích thước 17 inch cực kỳ phù hợp với ngoại hình của xe, giúp chiếc xe nhìn khỏe khoắn và thể thao hơn.
+
+
+<img src="/assets/images/seltos/14-turbo-premium/KIA Seltos 1.4 Premium-7.jpg" style="width: 100%" alt="Kia Seltos Premium 2022"/>
+
+KIA Seltos premium còn nổi bật với trang bị gương chiếu hậu tích hợp đèn báo rẽ LED. Phong cách thiết kế dáng xe hơi xuôi về phía sau chính là cách giúp chiếc xe có vẻ dài hơn và tăng sức cuốn hút hơn.
+
+<img src="/assets/images/seltos/14-turbo-premium/KIA Seltos 1.4 Premium-8.jpg" style="width: 100%" alt="Kia Seltos Premium 2022"/>
+
+*Cụm đèn hậu dạng led được bao bởi đường viền mạ chrom sáng bóng làm tăng thêm điểm nhấn cho xe*
+
+**Bên dưới phần đuôi xe KIA Seltos 1.4 Premium**
+
+- cụm đèn phản quang và cụm đèn hậu dạng led đối xứng nhau giúp tăng yếu tố nhận diện cho các phương tiện phía sau nhất là khi di chuyển vào ban đêm. Đuôi xe càng thêm phần sang trọng và tinh tế nhớ thiết kế cụm ống xả đôi giúp tăng them phần khỏe khoắn và thể thao của chiếc xe.
+
+<img src="/assets/images/seltos/14-turbo-premium/KIA Seltos 1.4 Premium-9.jpg" style="width: 100%" alt="Kia Seltos Premium 2022"/>
 
 ### NỘI THẤT
 
-Hệ thống âm thanh 6 loa và một số trang bị khác để biến nội thất của KIA Seltos 2021 trở nên tiện nghi và thoải mái như trong phòng khách.
+**Nội thất của xe Kia Seltos 1.4l Premium**
 
-<img src="/assets/images/seltos/14-turbo-premium/kia-seltos-14-premium-8.jpg" style="width: 100%" alt="Kia Seltos Premium - Hình 8" />
+Không gian nội thất của Kia Seltos  rất rộng rãi, các chi tiết thiết kế thông minh,  mang lại sự thoải mái cho cả người lái và hành khách phía sau:
 
-*Khoang nội thất thiết kế sang trọng*
+Các trang bị chính trên bản Kia Seltos 1.4 Premium
 
-Khu vực táp lô thiết kế gọn gàng và toát lên vẻ công nghệ với màn hình cảm ứng lên tới 10,25 inch đặt ở giữa bảng điều khiển. Các nút bấm cơ học sẽ nằm ngay ngắn trên thanh ngang tối màu được gọt dũa khá tinh xảo. Màn hình giải trí của Seltos cho phép kết nối Apple Carplay và Android Auto. Đặc biệt, Seltos 1.4Turbo Premium 2021 được trang bị cả đèn viền nội thất Sound Mood Lighting và gương chiếu hậu chống chói ECM.
+<img src="/assets/images/seltos/14-turbo-premium/KIA Seltos 1.4 Premium-10.jpg" style="width: 100%" alt="Kia Seltos Premium 2022"/>
 
-<img src="/assets/images/seltos/14-turbo-premium/kia-seltos-14-premium-9.jpg" style="width: 100%" alt="Kia Seltos Premium - Hình 9" />
+Nội thất da màu kem sang trọng.với thiết kế ghế dạng múi ngang cùng những lỗ thông khí, hàng ghế phía trước được trang bị tính năng thông gió làm mát  ghế, giúp thông thoáng và cảm giác ngồi thoải mái hơn cho người sử dụng.
 
-*Khu vực táp lô thiết kế gọn gàng*
+<img src="/assets/images/seltos/14-turbo-premium/KIA Seltos 1.4 Premium-11.jpg" style="width: 100%" alt="Kia Seltos Premium 2022"/>
 
-Vô lăng của KIA Seltos sẽ giống hệt xe KIA Cerato kiểu 3 chấu bọc da, mạ nhôm sang trọng. Xung quanh cách nút bấm tiện lợi cũng sẽ được viền kim loại sáng bóng.
+- Đồng hồ bảng điều khiển thiết kế thị tối ưu, tạo cảm giác hứng khởi và tiện dụng cho người lái.
+- Vô lăng DCut thể thao bọc da, có thể điều chỉnh lên xuống phù hợp chiều cao từng thành viên ngồi trong xe.
+- Cửa kính của Kia Seltos 1.4 Premium chỉnh điện, điều hòa tự động, dung tích khoang hành lý 350L.
+- Màn hình LCD có kết nối Bluetooth tích hợp đàm thoại, apple carplay, android auto. hệ thống 6 loa cao cấp, giúp cảm giác trả nghiệm được thoải mái hơn.
+- Trang bị nhiều ngăn chứa đồ, cổng sạc tiện lợi.
+- Xạc điện thoại không dây tiện lợi.
+- Cửa xổ trời toàn cảnh giúp khách hàng có không gian để ngắm cảnh mỗi khi đi chơi xa
+- Hàng ghế thứ 2 có thể ngả thêm 5cm.
 
-<img src="/assets/images/seltos/14-turbo-premium/kia-seltos-14-premium-10.jpg" style="width: 100%" alt="Kia Seltos Premium - Hình 10" />
+<img src="/assets/images/seltos/14-turbo-premium/KIA Seltos 1.4 Premium-12.jpg" style="width: 100%" alt="Kia Seltos Premium 2022"/>
 
-*Tay lái bọc da cao cấp*
+*Khoang hành khách phía sau rộng rãi, có thể điều chỉnh được độ ngả của ghế*
 
-Toàn bộ ghế ngồi trên KIA Seltos 2021 đều được bọc da toàn bộ để tăng cường lợi thế cạnh tranh trước các đối thủ. Ghế lái của Seltos chỉnh điện và có hệ thống thông gió hàng ghế trước.
+<img src="/assets/images/seltos/14-turbo-premium/KIA Seltos 1.4 Premium-13.jpg" style="width: 100%" alt="Kia Seltos Premium 2022"/>
 
-<img src="/assets/images/seltos/14-turbo-premium/kia-seltos-14-premium-11.jpg" style="width: 100%" alt="Kia Seltos Premium - Hình 11" />
-
-*Ghế ngồi bọc da*
-
-Là mẫu xe của KIA nên khách hàng có thể yên tâm về các công nghệ mà hãng xe Hàn chuẩn bị cho phần ghế ngồi, như tính năng tùy chỉnh độ ngả lưng hàng ghế sau. KIA Seltos Premium 2021 sử dụng hệ thống điều hòa tự động có cửa gió cho hàng ghế sau. Ngoài ra, Seltos còn được trang bị chìa khóa thông minh vả nút Star/Stop.
-
-<img src="/assets/images/seltos/14-turbo-premium/kia-seltos-14-premium-12.jpg" style="width: 100%" alt="Kia Seltos Premium - Hình 12" />
-
-*Hệ thống điều hòa tiện dụng*
-
-Sở hữu màn hình cảm ứng 10,25 inch, KIA Seltos cho phép hành khách thoả sức tận hưởng không gian gian trí. Đặc biệt KIA Seltos còn mang đến trải nghiệm âm nhạc thích thú với dàn âm thanh Bose cao cấp gồm 6 loa, đủ sức làm bùng nổ khoang cabin.
-
-<img src="/assets/images/seltos/14-turbo-premium/kia-seltos-14-premium-13.jpg" style="width: 100%" alt="Kia Seltos Premium - Hình 13" />
-
-*Màn hình cảm ứng giải trí*
-
-Một vài tính năng nổi bật dành cho chủ xe có thể nói đến như hệ thống UVO Connect ra lệnh bằng giọng nói (dựa trên AI), theo dõi xe bị mất cắp, khởi động và dừng động cơ từ xa, điều khiển từ xa máy lọc không khí…
-
-<img src="/assets/images/seltos/14-turbo-premium/kia-seltos-14-premium-14.jpg" style="width: 100%" alt="Kia Seltos Premium - Hình 14" />
-
-*Cửa gió điều hòa*
-
-<img src="/assets/images/seltos/14-turbo-premium/kia-seltos-14-premium-15.jpg" style="width: 100%" alt="Kia Seltos Premium - Hình 15" />
-
-*Hàng ghế sau rộng rãi*
-
-## VẬN HÀNH
-
-KIA Seltos 1.4Turbo Premium được trang bị tùy chọn động cơ Kappa 1.4 T-GDi và Gamma 1,6 MPI, hộp số tự động 6 cấp, cho khả năng sản sinh công suất 138 Nm và momen xoắn cực đại 242 Nm.
-
-<img src="/assets/images/seltos/14-turbo-premium/kia-seltos-14-premium-16.jpg" style="width: 100%" alt="Kia Seltos Premium - Hình 16" />
-
-*Động cơ vận hành mạnh mẽ*
-
-<img src="/assets/images/seltos/14-turbo-premium/kia-seltos-14-premium-17.jpg" style="width: 100%" alt="Kia Seltos Premium - Hình 17" />
-
-*Hộp số tự động chuyễn động mượt mà*
-
-Seltos 2021 có 3 cơ chế lái (Normal, Eco và Sport) cùng các lựa chọn chạy các chế độ địa hình (Ướt, Bùn và Cát). Người lái cũng có thể chọn sử dụng núm xoay được đặt trên bảng điều khiển trung tâm.
+*Cửa sổ trời làm tăng thêm sự tiện nghi cùng sự trẻ trung, thời thượng hơn cho mỗi chuyến đi*
 
 ### AN TOÀN
 
-Các trang bị an toàn có trên KIA Seltos Premium 2021 bao gồm:
+Trang bị an toàn và vận hành của Kia Seltos 1.4l premium
+- Với mức giá của Kia Seltos 1.4 premium là 739.000.000 VNĐ với một chiếc xe gầm cao tầm trung, nhưng các tiêu chí về vận hành và an toàn không làm người tiêu dùng thất vọng.
 
-- Hệ thống hỗ trợ phanh ABS, EBD, ESP.
-- Hệ thống hỗ trợ khởi hành ngang dốc HAC.
-- Mã hóa chìa khóa.
-- Cảnh báo chống trộm.
-- 3 chế độ lái.
-- 3 chế độ kiểm soát lực kéo.
-- Cảm biến sau hỗ trợ đỗ xe.
-- Camera lùi.
-- 6 túi khí.
+- Xe sử dụng động cơ kappa turbo 1.4L hoàn toàn mới kết hợp cùng hộp số tự động 7 cấp, công suất cực đại 138 Hp tại 5300 Rpm giúp xe vận hành ổn định mạnh mẽ trên mọi cung đường
+
+<img src="/assets/images/seltos/14-turbo-premium/KIA Seltos 1.4 Premium-14.jpg" style="width: 100%" alt="Kia Seltos Premium 2022"/>
+
+- Mức tiêu thụ nhiên liệu trên Kia Seltos 1.4 premium rất ấn tượng chỉ 5.5L/100Km rất phù hợp với những xe chạy kinh doanh dịch vụ hoặc những khách hàng trẻ di chuyển nhiều trong phố.
+
+- Các trang bị an toàn trên xe Kia seltos 1.4 Premium cũng rất đầy đủ, các trang bị an toàn trên xe thậm chí còn cao cấp hơn nhiều so với các xe cùng phân khúc và giá tiền
+
+- Hệ thống phanh đĩa, chống bó cứng phanh ABS
+- Phân phối lực phanh điện tử EBD
+- Hệ thống cân bằng điện tử
+- 6 chế độ lái năng động
+- Hệ thống hỗ trợ đổ đèo
+- Camera lùi, cảm biến lùi, cam toàn cảnh phía sau khi xe vận hành
+- 6 túi khí quanh xe, tự động chốt cửa khi vận hành
+- Dây đai an toàn trên tất cả các ghế.v.v

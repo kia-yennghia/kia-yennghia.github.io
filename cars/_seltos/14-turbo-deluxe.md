@@ -1,6 +1,6 @@
 ---
 title: Seltos 1.4 Turbo Deluxe
-price: '609,000,000'
+price: '629,000,000'
 categories: seltos
 tags: seltos
 img: 14-turbo-deluxe.jpg
@@ -12,7 +12,6 @@ sliders:
 - 6
 - 7
 - 8
-- 9
 basic:
 - name: Chiều dài cơ sở xe
   val: 2.610 mm
@@ -124,113 +123,137 @@ acc:
 - name: Điều hòa tự động 2 vùng độc lập
   icon: 
 ---
-
 ## TỔNG QUAN
 
-Ngày 22/7/2021, KIA Seltos hoàn toàn mới chính thức ra mắt thị trường Việt Nam, cạnh tranh trực tiếp với Hyundai Kona, Honda HR-V và Toyota Corolla Cross sắp được giới thiệu. Dự kiến, Seltos sẽ chính thức có mặt tại đại lý từ tháng 9.
+- Kia seltos 1.4 deluxe là một trong 4 phiên bản của kia seltos tại thị trường Việt Nam. Đây là phiên bản tiêu chuẩn được trang bị những option tiêu chuẩn nhưng cũng rất đầy đủ để phục vụ người dùng những trang bị cho bản deluxe còn được đánh giá là dẫn đầu phân khúc. Cùng giá bán cạnh tranh, Kia seltos 1.4 deluxe đang là phiên bản bán chạy của dòng xe này hướng đến những khách hàng trẻ và mua xe lần đầu.
 
-<img src="/assets/images/seltos/14-turbo-deluxe/kia-seltos-1-4-turbo-deluxe-1.jpg" style="width: 100%" alt="KIA Seltos 1.4 Turbo Deluxe - Hình 1" />
+<img src="/assets/images/seltos/14-turbo-deluxe/Kia-Seltos (18).jpg" style="width: 100%" alt="Kia Seltos Deluxe"/>
 
-*KIA Seltos thiết kế trẻ trung*
+
+ 
+Giá lăn bánh kia seltos 1.4 deluxe tại Hà Nội: <span style="color: red">730.000.000 VNĐ</span>
 
  
 
-### NGOẠI THẤT
+\+) Lý do nên lựa trọn Kia seltos deluxe thời điểm này
 
-Deluxe là bản thấp nhất của dòng xe KIA Seltos ra mắt tại thị trường Việt Nam. Về ngoại hình tổng thể, Kia Seltos 2021 vẫn sở hữu những thiết kế, trang bị tương tự như phiên bản từng ra mắt ở nhiều quốc gia khác. Xe sở hữu kích thước dài x rộng x cao lần lượt là 4.315 x 1.800 x 1.645 mm, chiều dài trục cơ sở 2.610 mm. Seltos 2021 khoác lên vẻ ngoài hào nhoáng quyến rũ với những đường nét thiết kế mạnh mẽ cơ bắp.
+- Là mẫu xe thế hệ mới hoàn toàn của KIA, dòng xe SUV đô thị
+- Thiết kế thể thao, trẻ trung, và bắt mắt
+- Giá thành vô cùng hợp lý cho khách hàng mua xe lần đầu, lần đầu sử dụng xe
+- Động cơ mạnh mẽ, tiết kiệm nhiên liệu và option nhiều nhất phân khúc
 
-<img src="/assets/images/seltos/14-turbo-deluxe/kia-seltos-1-4-turbo-deluxe-2.jpg" style="width: 100%" alt="KIA Seltos 1.4 Turbo Deluxe - Hình 2" />
+\-  Để hiểu rõ hơn chúng ta cùng đến với nhưng chi tiết từ nội, ngoại thất và tính năng vận hành của xe để hiểu rõ hơn vì sao Kia seltos lại chiếm lĩnh được cảm tình của khách hàng đến vậy.
 
-*KIA Seltos thiết kế trẻ trung năng động*
+### NGOẠI THẤT KIA SELTOS 1.4 DELUXE
 
-Ở phần đầu xe KIA Seltos Deluxe nổi bật với bề mặt cơ bắp, các đường gờ gân guốc, lưới tản nhiệt mũi hổ đặc trưng của hãng xe KIA. Do đây là bản Deluxe nên Seltos chỉ sử dụng hệ thống đèn pha Halogen Projector cơ bản. 
+**+) Phần Đầu Xe**
 
-<img src="/assets/images/seltos/14-turbo-deluxe/kia-seltos-1-4-turbo-deluxe-3.jpg" style="width: 100%" alt="KIA Seltos 1.4 Turbo Deluxe - Hình 3" />
+- Trước tiên về phần ngoại thất nổi bật nhất là phần đầu xe, có thiết kế như những phiên bản cao, nhưng Kia seltos 1.4 deluxe đã lược bỏ một số chi tiết khác với những bản cao như dải đèn mi led kéo dài đến phần logo, cụm đèn pha led, cụm đèn xương mù led mà thay vào đó là đèn halogen projector. 
 
-*Đầu xe nổi bật với bề mặt cơ bắp*
+<img src="/assets/images/seltos/14-turbo-deluxe/Kia-Seltos (18).jpg" style="width: 100%" alt="Kia Seltos Deluxe"/>
+*Phần đầu xe với mặt calang mũi hổ đặc trưng và cụm đèn pha bắt mắt*
 
-<img src="/assets/images/seltos/14-turbo-deluxe/kia-seltos-1-4-turbo-deluxe-4.jpg" style="width: 100%" alt="KIA Seltos 1.4 Turbo Deluxe - Hình 4" />
+- Mặt calang mũi hỗ được bao bởi đường viền mạ chrom mờ to bản thiết kế 3D bắt mắt và khoẻ khoắn. 
 
-*Cụm đèn pha trước*
+<img src="/assets/images/seltos/14-turbo-deluxe/Kia-Seltos (13).jpg" style="width: 100%" alt="Kia Seltos Deluxe"/>
 
-Tiến tới phần thân xe, chất mạnh mẽ, cơ bắp vẫn được giữ lại như phần đầu xe, chiếc xe khi lướt đi trên đường tạo nên sức hút cực mạnh với những ai đang cần tìm mẫu xe mang đậm phong cách thể thao. KIA Seltos sử dụng mâm xe có thông số 215/60R17 vững chãi giúp hoàn thiện tổng thể cho thân xe.
+*mặt calang mũi hổ đặc trưng của KIA seltos với viền chrom to bản*
 
-<img src="/assets/images/seltos/14-turbo-deluxe/kia-seltos-1-4-turbo-deluxe-5.jpg" style="width: 100%" alt="KIA Seltos 1.4 Turbo Deluxe - Hình 5" />
+- Cụm đèn pha halogen projector thiết kế bo tròn độc đáo, anh sáng vàng của đèn halogen giúp làm tăng độ sáng và tăng khả năng quan sát khi di chuyển trong đêm, khác với bản premium là sử dụng đèn pha full led
 
-*Mâm xe với thiết kế vằn vện mạnh mẽ*
+<img src="/assets/images/seltos/14-turbo-deluxe/Kia-Seltos (11).jpg" style="width: 100%" alt="Kia Seltos Deluxe"/>
 
-Phần đuôi xe SUV Kia Seltos 5 chỗ cũng không hề kém cạnh phía trước khi thiết kế rất công phu. Với diện tích nhỏ nhưng các kỹ sư đã bố trí những mảng góc cạnh khỏe khoắn. Ống xả đôi thể thao và bộ đèn 2 mảnh siêu đẹp là những điểm nhấn ấn tượng.
+*cụm đèn pha halogen projector*
 
-<img src="/assets/images/seltos/14-turbo-deluxe/kia-seltos-1-4-turbo-deluxe-6.jpg" style="width: 100%" alt="KIA Seltos 1.4 Turbo Deluxe - Hình 6" />
 
-*Phần đuôi xe thiết kế thể thao*
+**+) phần thân xe**
 
-Seltos được trang bị đèn nhận diện ban ngày, đèn pha, đèn sương mù và đèn hậu đều dạng Halogen Projector. Đèn báo rẽ nhiều lớp cũng được xuất hiện ở cả phía trước lẫn phía sau.
+-  Với kích thước giống với những phiên bản cao phiên bản deluxe cũng mang một kích thước lớn sứng tầm với phân khúc CUV cỡ B với kích thước chi tiết Dài x Rộng x Cao lần lượt là 4,315 x 1,800 x 1645 (mm)
 
-<img src="/assets/images/seltos/14-turbo-deluxe/kia-seltos-1-4-turbo-deluxe-7.jpg" style="width: 100%" alt="KIA Seltos 1.4 Turbo Deluxe - Hình 7" />
+<img src="/assets/images/seltos/14-turbo-deluxe/Kia-Seltos (10).jpg" style="width: 100%" alt="Kia Seltos Deluxe"/>
 
-*Cụm đèn hậu thiết kế tinh sảo*
+- Phiên bản này cũng được trang bị đèn chiếu hậu dạng Led tích hợp trên gương, giúp tăng tính năng an toàn và thẩm mỹ
 
+<img src="/assets/images/seltos/14-turbo-deluxe/Kia-Seltos (16).jpg" style="width: 100%" alt="Kia Seltos Deluxe"/>
+
+*đèn xin nhan tích hợp trên gương*
+
+- Xe được trang bị mâm 17 inh 5 chấu khoẻ khoắn 
+
+<img src="/assets/images/seltos/14-turbo-deluxe/Kia-Seltos (5).jpg" style="width: 100%" alt="Kia Seltos Deluxe"/>
+
+**+) phần đuôi xe**
+
+- Với thiết kế góc cạnh lấy cảm hứng từ những chiếc xe thể thao đình đám thì seltos deluxe còn được trang bị thêm những điểm nhấn khó có thể bỏ qua như thanh chrom to bản sáng bóng ở phần đuôi xe làm nổi bật mỗi khi xuất hiện, cùng với đó là cụm đèn hậu thiết kế bắt mắt.
+
+<img src="/assets/images/seltos/14-turbo-deluxe/Kia-Seltos (12).jpg" style="width: 100%" alt="Kia Seltos Deluxe"/>
+
+*đuôi xe thiết kế cân xứng và bắt mắt*
+
+*)NỘI THẤT VÀ TRANG BỊ TIỆN NGHI, AN TOÀN TRÊN KIA SELTOS DELUXE
 
 ### NỘI THẤT
 
-Hệ thống âm thanh 6 loa và một số trang bị khác để biến nội thất của KIA Seltos 2021 trở nên tiện nghi và thoải mái như trong phòng khách.
+**+) Khoang Cabin Rộng Rãi, Tiện Nghi**
+ - Với khoang lái rộng rãi cùng nhiều tiện nghi cơ bản đó chính là những điểm cộng rất lớn của Kia Seltos Deluxe.
 
-<img src="/assets/images/seltos/14-turbo-deluxe/kia-seltos-1-4-turbo-deluxe-8.jpg" style="width: 100%" alt="KIA Seltos 1.4 Turbo Deluxe - Hình 8" />
+ - Được trang bị nội thất ghế da mầu đen sang trọng và sạch sẽ với khách hàng sử dụng. ghế da luôn là trang bị cơ bản với các dòng xe của Thaco KIA tại thị trường Việt Nam. 
 
-*Khoang nội thất thiết kế sang trọng*
+<img src="/assets/images/seltos/14-turbo-deluxe/Kia-Seltos (7).jpg" style="width: 100%" alt="Kia Seltos Deluxe"/>
 
-KIA Seltos Deluxe 2021 sử dụng màn hình hiển thị thông tin giải trí 8 inch, do đây là bản tiêu chuẩn nên chỉ có hệ thống Audio đơn giản. Các nút bấm cơ học sẽ nằm ngay ngắn trên thanh ngang tối màu được gọt dũa khá tinh xảo.
+*nội thất mầu đen giúp khoang hành khách sạch sẽ hơn*
 
-<img src="/assets/images/seltos/14-turbo-deluxe/kia-seltos-1-4-turbo-deluxe-9.jpg" style="width: 100%" alt="KIA Seltos 1.4 Turbo Deluxe - Hình 9" />
+**+) khoang hành khách**
 
-*Màn hình cảm ứng kích thước lên tới 8 inch*
+- Thiết kế rộng rãi với kích thước lớn nhất phân khúc, tạo cảm giác thoải mái cho khách hàng khi di chuyển đặc biệt là những cũng đường xa. Hàng ghế thứ 2 có thể gập 6:4 và có thể ngả thêm 5 cm để thêm thể tích và thoải mái.
 
-Vô lăng của Kia Seltos sẽ giống hệt xe KIA Cerato kiểu 3 chấu bọc da, mạ nhôm sang trọng. Xung quanh cách nút bấm tiện lợi cũng sẽ được viền kim loại sáng bóng.
+<img src="/assets/images/seltos/14-turbo-deluxe/Kia-Seltos (8).jpg" style="width: 100%" alt="Kia Seltos Deluxe"/>
 
-<img src="/assets/images/seltos/14-turbo-deluxe/kia-seltos-1-4-turbo-deluxe-10.jpg" style="width: 100%" alt="KIA Seltos 1.4 Turbo Deluxe - Hình 10" />
+*khoang hành khách rộng rãi*
 
-*Tay lái bọc da cao cấp*
+- Xe được trang bị cửa gió điều hoà hàng ghế sau giúp khả năng làm mát nhanh hơn trong những ngày hè nóng bức như ở Việt Nam.
 
-Toàn bộ ghế ngồi trên KIA Seltos 2021 đều được bọc da toàn bộ để tăng cường lợi thế cạnh tranh trước các đối thủ. Là mẫu xe của KIA nên khách hàng có thể yên tâm về các công nghệ mà hãng xe Hàn chuẩn bị cho phần ghế ngồi, như tính năng tùy chỉnh độ ngả lưng hàng ghế sau, hệ thống điều hòa của xe có cửa gió cho hàng ghế sau.
+<img src="/assets/images/seltos/14-turbo-deluxe/Kia-Seltos (14).jpg" style="width: 100%" alt="Kia Seltos Deluxe"/>
 
-<img src="/assets/images/seltos/14-turbo-deluxe/kia-seltos-1-4-turbo-deluxe-11.jpg" style="width: 100%" alt="KIA Seltos 1.4 Turbo Deluxe - Hình 3" />
+*cửa gió điều hoà hàng ghế sau* 
 
-*Ghế ngồi bọc da*
+#### TRANG BỊ TIỆN NGHI
 
-Sở hữu màn hình cảm ứng khủng lên đến 10.25 inch, Kia Seltos cho phép hành khách thoả sức tận hưởng không gian gian trí. Đặc biệt Kia Seltos còn mang đến trải nghiệm âm nhạc thích thú với dàn âm thanh Bose cao cấp gồm 6 loa, đủ sức làm bùng nổ khoang cabin.
+- Được trang bị nhưng tiện nghi không kém những bản cao cấp như.
+Màn hình AVN
 
-Một vài tính năng nổi bật dành cho chủ xe có thể nói đến như hệ thống UVO Connect ra lệnh bằng giọng nói (dựa trên AI), theo dõi xe bị mất cắp, khởi động và dừng động cơ từ xa, điều khiển từ xa máy lọc không khí…
+<img src="/assets/images/seltos/14-turbo-deluxe/Kia-Seltos (6).jpg" style="width: 100%" alt="Kia Seltos Deluxe"/>
 
-<img src="/assets/images/seltos/14-turbo-deluxe/kia-seltos-1-4-turbo-deluxe-12.jpg" style="width: 100%" alt="KIA Seltos 1.4 Turbo Deluxe - Hình 12" />
 
-*Cửa gió điều hòa*
+Kết nối bluetooth
 
-<img src="/assets/images/seltos/14-turbo-deluxe/kia-seltos-1-4-turbo-deluxe-13.jpg" style="width: 100%" alt="KIA Seltos 1.4 Turbo Deluxe - Hình 3" />
+Đề nổ statop
 
-*Hàng ghế sau rộng rãi*
+6 loa mang đến âm thanh vòm ổn trong phân khúc
 
- 
+Được trang bị 3 chế độ lái linh hoạt v….v
 
-### VẬN HÀNH
+AN TOÀN
+- Xe được trang bị nhưng tính năng an toàn tiêu chuẩn như.
+Hai túi khí an toàn
 
-KIA Seltos 2021 được trang bị động cơ Kappa 1.4 T-GDi, hộp số ly hợp kép 7 cấp, cho khả năng sản sinh công suất 138 Nm và momen xoắn cực đại 242 Nm.
+Camera lùi
 
-<img src="/assets/images/seltos/14-turbo-deluxe/kia-seltos-1-4-turbo-deluxe-14.jpg" style="width: 100%" alt="KIA Seltos 1.4 Turbo Deluxe - Hình 14" />
+Cảm biến hỗ trợ đỗ
 
-*Động cơ vận hành mạnh mẽ*
+Cân bằng điện tử
 
-Seltos 2021 có 3 cơ chế lái (Normal, Eco và Sport) cùng các lựa chọn chạy các chế độ địa hình (Ướt, Bùn và Cát). Người lái cũng có thể chọn sử dụng núm xoay được đặt trên bảng điều khiển trung tâm.
+Phanh ABS V……..v
 
-### AN TOÀN
+*) ĐỘNG CƠ VÀ VẬN HÀNH CỦA KIA SELTOS DELUXE
+-   Được trang bị động cơ giống như những phiên bản khác như luxury hay premium. Bản deluxe sử dụng động cơ 1.4 Turbo tiết kiệm nhiên liệu và mạnh mẽ. 
 
-Các trang bị an toàn có trên KIA Seltos Deluxe 2021 bao gồm:
+<img src="/assets/images/seltos/14-turbo-deluxe/Kia-Seltos (3).jpg" style="width: 100%" alt="Kia Seltos Deluxe"/>
 
-- Hệ thống hỗ trợ phanh ABS, EBD, ESP.
-- Hệ thống hỗ trợ khởi hành ngang dốc HAC.
-- Mã hóa chìa khóa.
-- Cảnh báo chống trộm.
-- 3 chế độ lái.
-- 3 chế độ kiểm soát lực kéo.
-- Cảm biến sau hỗ trợ đỗ xe.
-- 2 túi khí
+*động cơ turbo nhỏ gọn và tiết kiệm nhiên liệu*
+
+- Kia seltos deluxe được trang bị 3 chế độ lái giúp lái xe khi vận hành được mượt mà hơn trên mọi cung đường. Hiện nay với giá bán vô cùng hấp dẫn so với các xe cùng phân khúc, Kia seltos deluxe đang là phiên bản bán chạy nhất phân khúc với doanh số được thống kê 3 tháng gần nhất luôn dẫn đầu. Điều đó chứng tỏ sức hút vô cùng to lớn của hãng xe Hàn Quốc tại thị trường Việt Nam.
+
+- Hiện nay Kia Yên Nghĩa đang phân phối phiên bản deluxe với giá bán 629.000.000 VNĐ cùng những quà tặng phụ kiện giá trị.
+
+- Qua bài viết trên cũng đã phần nào cung cấp một số thông tin cơ bản để gửi đến quý bạn đọc và khách hàng, chúc quý khách hàng có thể đưa ra lựa trọn phù hợp nhất khi mua xe để mua được chiếc xe ưng ý

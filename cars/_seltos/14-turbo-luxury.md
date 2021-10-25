@@ -1,6 +1,6 @@
 ---
 title: Seltos 1.4 Turbo Luxury
-price: '659,000,000'
+price: '689,000,000'
 categories: seltos
 tags: seltos
 img: 14-turbo-luxury.jpg
@@ -13,7 +13,6 @@ sliders:
 - 5
 - 6
 - 7
-- 8
 basic:
 - name: Chiều dài cơ sở xe
   val: 2.610 mm
@@ -124,111 +123,139 @@ acc:
 - name: Điều hòa tự động 2 vùng độc lập
   icon: check
 ---
+## TỔNG QUAN
 
-### TỔNG QUAN
+Kia Seltos là mẫu xe SUV đô thị mới của Kia Việt Nam, được ra mắt vào tháng 7 năm 2020, với 4 phiên bản.
 
-Ngày 22/7/2020, Trường Hải giới thiệu KIA Seltos mới tại thị trường Việt Nam. Seltos được định vị trong phân khúc CUV hạng B, nơi sản phẩm đồng hương Kona đang có doanh số thống trị phân khúc. Ở giai đoạn đầu mở bán, Seltos được bán với giá ưu đãi từ 599 triệu đồng, dự kiến giao xe trong tháng 9 tới.
+- <a href="https://kiayennghia.dailykia5s.com/seltos/14-turbo-deluxe"><span style="color: #0094da">KIA SELTOS 1.4 DELUXE</span></a>       : **629.000.000 VNĐ**
 
-<img src="/assets/images/seltos/14-turbo-luxury/kia-seltos-luxury-1.jpg" style="width: 100%" alt="Kia Seltos Luxury - Hình 1" />
+- <a href="https://kiayennghia.dailykia5s.com/seltos/14-turbo-luxury/"><span style="color: #0094da">KIA SELTOS 1.4 LUXURY</span></a>      : **689.000.000 VNĐ**
 
-*KIA Seltos thiết kế trẻ trung*
+- <a href="https://kiayennghia.dailykia5s.com/seltos/14-turbo-premium/"><span style="color: #0094da">KIA SELTOS 1.4 PREMIUM</span></a>    : **739.000.000 VNĐ**
 
-### NGOẠI THẤT
+- <span style="color: #0094da">KIA SELTOS 1.6 PREMIUM</span>    : **719.000.000 VNĐ**
 
-Về ngoại hình tổng thể, KIA Seltos 2021 bản Luxury vẫn sở hữu thiết kế, trang bị tương tự như phiên bản từng ra mắt ở nhiều quốc gia khác. Xe sở hữu kích thước dài x rộng x cao lần lượt là 4.315 x 1.800 x 1.645 mm, chiều dài trục cơ sở 2.610 mm. Seltos 2021 khoác lên vẻ ngoài hào nhoáng quyến rũ với những đường nét thiết kế mạnh mẽ cơ bắp.
+Trong đó có 3 phiên bản sử dụng động cơ 1.4 turbo và 1 phiên bản sử dụng động cơ 1.6 gama giống như Kia Cerato hiện hữu. kể từ khi ra mắt tại thị trường hàn quốc, thị trường ấn độ, Kia Seltos đã rất được sự quan tâm từ người tiêu dùng Việt Nam. Đến khi ra mắt Kia Seltos đã làm mưa làm gió tại thị trường Việt Nam, lần lượt đánh đổ nhưng tượng đài SUV độ thị ở việt Nam, như Hyundai Kona, Ford eco sport
 
-<img src="/assets/images/seltos/14-turbo-luxury/kia-seltos-luxury-2.jpg" style="width: 100%" alt="Kia Seltos Luxury - Hình 2" />
+<iframe width="640" height="360" src="https://www.youtube.com/embed/qdijTTFwO6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Seltos khoác lên vẻ ngoài hào nhoáng quyến rũ*
 
-Ở phần đầu xe KIA Seltos Luxury nổi bật với bề mặt cơ bắp, các đường gờ gân guốc, lưới tản nhiệt mũi hổ đặc trưng của hãng xe KIA. Do đây là bản Luxury nên Seltos chỉ sử dụng hệ thống đèn pha Halogen Projector cơ bản. KIA Seltos Luxury 2021 được trang bị đèn chạy ban ngày dạng LED, chế độ bật/tắt đèn tự động.
+Bài viết dưới đây sẽ giới thiệu tổng thể với quý khách hàng về thiết kế nội ngoại thất của phiên bản Kia seltos 1.4 turbo luxury, một phiên bản mà số lượng xe bán ra dẫn đầu hiện nay. Và những lý do nên lựa chọn phiên bản luxury.
 
-<img src="/assets/images/seltos/14-turbo-luxury/kia-seltos-luxury-3.jpg" style="width: 100%" alt="Kia Seltos Luxury - Hình 3" />
+<img src="/assets/images/seltos/14-turbo-luxury/14-turbo-luxury-1.jpg" style="width: 100%" alt="Kia Seltos Luxury 2021"/>
 
-*Đầu xe nổi bật với bề mặt cơ bắp*
+ 
+### NGOẠI THẤT KIA SELTOS 1.4 TURBO LUXURY
 
-<img src="/assets/images/seltos/14-turbo-luxury/kia-seltos-luxury-4.jpg" style="width: 100%" alt="Kia Seltos Luxury - Hình 4" />
+**- Về ngoại thất Kia seltos luxury**
 
-*Hệ thống đèn chiếu sáng thiết kế 3D*
+có thiết kế vô cùng bắt mắt với thiết kế thể thao, khoẻ khoắn với nhưng đường viền mạ chrom to bản dạng 3D, nhưng vẫn giữ được thiết kế đặc trưng của hãng KIA đó là mặt galang mũi hổ rất đặc trưng.
 
-Tiến tới phần thân xe, chất mạnh mẽ, cơ bắp vẫn được giữ lại như phần đầu xe, chiếc xe khi lướt đi trên đường tạo nên sức hút cực mạnh với những ai đang cần tìm mẫu xe mang đậm phong cách thể thao. KIA Seltos sử dụng mâm xe có thông số 215/60R17 vững chãi giúp hoàn thiện tổng thể cho thân xe.
+<img src="/assets/images/seltos/14-turbo-luxury/14-turbo-luxury-2.jpg" style="width: 100%" alt="Kia Seltos Luxury 2021"/>
 
-<img src="/assets/images/seltos/14-turbo-luxury/kia-seltos-luxury-5.jpg" style="width: 100%" alt="Kia Seltos Luxury - Hình 5" />
+*phần đầu xe với mặt galang mũi hổ đặc trưng của kia seltos luxury*
 
-*Mâm xe với thiết kế vằn vện mạnh mẽ*
+**- Phần đầu xe**
 
-Phần đuôi xe SUV KIA Seltos 5 chỗ cũng không hề kém cạnh phía trước khi thiết kế rất công phu. Với diện tích nhỏ nhưng các kỹ sư đã bố trí những mảng góc cạnh khỏe khoắn. Ống xả đôi thể thao, bộ đèn 2 mảnh siêu đẹp, cụm đèn sau dạng LED là những điểm nhấn ấn tượng.
+chúng ta có thể thấy Kia seltos luxury được trang bị mặt galang lớn cùng đường viền mạ chrom to bản giúp chiếc xe thêm phần khoẻ khoắn và bắt mắt hơn mỗi khi xuất hiện. nổi bật hơn nữa đó là cụm đèn định ban ngày dạng Led siêu sáng và sang trọng, cùng với đó là cụm đèn pha và đèn xương mù halogen projector có ánh sáng vàng giúp người lái dễ quan sát khi đi vào buổi đêm.
 
-<img src="/assets/images/seltos/14-turbo-luxury/kia-seltos-luxury-6.jpg" style="width: 100%" alt="Kia Seltos Luxury - Hình 6" />
+<img src="/assets/images/seltos/14-turbo-luxury/14-turbo-luxury-3.jpg" style="width: 100%" alt="Kia Seltos Luxury 2021"/>
 
-*Cụm đèn hậu thiết kế tinh sảo*
+*đèn pha và đèn led định vị ban ngày*
 
-<img src="/assets/images/seltos/14-turbo-luxury/kia-seltos-luxury-7.jpg" style="width: 100%" alt="Kia Seltos Luxury - Hình 7" />
+**- Phần lắp capo**
 
-*Phần đuôi xe thiết kế thể thao*
+được thiết kế dập nổi vừa giúp chiếc xe thêm phần hầm hố còn làm tặng độ cứng cáp cho kia seltos luxury.
 
-### NỘI THẤT
+**- Phần thân xe**
+chúng ta có thể thấy, Kia seltos luxury có chiều dài tổng thể là 4,315m một kích thước khá là lớn so với những xe cùng phân khúc. 
 
-Hệ thống âm thanh 6 loa và một số trang bị khác để biến nội thất của KIA Seltos 2021 trở nên tiện nghi và thoải mái như trong phòng khách.
+<img src="/assets/images/seltos/14-turbo-luxury/14-turbo-luxury-4.jpg" style="width: 100%" alt="Kia Seltos Luxury 2021"/>
 
-<img src="/assets/images/seltos/14-turbo-luxury/kia-seltos-luxury-8.jpg" style="width: 100%" alt="Kia Seltos Luxury - Hình 8" />
+*phần thân xe rất trường và cứng cáp*
 
-*Không gian nội thất rộng rãi*
+**- Phần nóc xe**
 
-Khu vực táp lô thiết kế gọn gàng và toát lên vẻ công nghệ với màn hình cảm ứng 8 inch đặt ở giữa bảng điều khiển. Các nút bấm cơ học sẽ nằm ngay ngắn trên thanh ngang tối màu được gọt dũa khá tinh xảo. Màn hình giải trí của Seltos cho phép kết nối Apple Carplay và Android Auto.
+được trang bị bagamui giúp chiếc xe trở lên thể thao và khoẻ hơn, thêm vào đó cũng tăng thêm tính đa dụng cho chiếc xe trong mỗi lần đi dã ngoại của gia đình.
 
-<img src="/assets/images/seltos/14-turbo-luxury/kia-seltos-luxury-9.jpg" style="width: 100%" alt="Kia Seltos Luxury - Hình 9" />
+<img src="/assets/images/seltos/14-turbo-luxury/14-turbo-luxury-5.jpg" style="width: 100%" alt="Kia Seltos Luxury 2021"/>
+                                                 
+*bagamui làm tăng độ cứng và vẻ thể thao cho xe*
 
-*Khu vực táp lô thiết kế gọn gàng*
+**- Gương chiếu hậu chỉnh điện**
 
-Vô lăng của KIA Seltos sẽ giống hệt xe KIA Cerato kiểu 3 chấu bọc da, mạ nhôm sang trọng. Xung quanh cách nút bấm tiện lợi cũng sẽ được viền kim loại sáng bóng.
+được tích hợp đèn báo rẽ dạng led thông mình, giúp người lái xe mỗi lần chuyển làn được an toàn hơn.
 
-<img src="/assets/images/seltos/14-turbo-luxury/kia-seltos-luxury-10.jpg" style="width: 100%" alt="Kia Seltos Luxury - Hình 10" />
+<img src="/assets/images/seltos/14-turbo-luxury/14-turbo-luxury-6.jpg" style="width: 100%" alt="Kia Seltos Luxury 2021"/>
 
-*Tay lái bọc da cao cấp*
+**- Phần mâm xe của Kia Seltos luxury**
 
-Toàn bộ ghế ngồi trên KIA Seltos 2021 đều được bọc da toàn bộ để tăng cường lợi thế cạnh tranh trước các đối thủ. Là mẫu xe của KIA nên khách hàng có thể yên tâm về các công nghệ mà hãng xe Hàn chuẩn bị cho phần ghế ngồi, như tính năng tùy chỉnh độ ngả lưng hàng ghế sau. KIA Seltos Luxury 2021 sử dụng hệ thống điều hòa tự động có cửa gió cho hàng ghế sau. Ngoài ra, Seltos còn được trang bị chìa khóa thông minh vả nút Star/Stop.
++ Xe được trang bị bộ mâm 17 inh đa chấu, giúp xe khoẻ khoắn hơn, di chuyển êm ái hơn cùng với lốp xe continental được sản xuất từ đức. với khoảng sáng gầm xe 19cm kết hợp với bộ mâm 17 inh giúp xe có thể vượt mọi địa hình di chuyển 
 
-<img src="/assets/images/seltos/14-turbo-luxury/kia-seltos-luxury-11.jpg" style="width: 100%" alt="Kia Seltos Luxury - Hình 11" />
+<img src="/assets/images/seltos/14-turbo-luxury/14-turbo-luxury-7.jpg" style="width: 100%" alt="Kia Seltos Luxury 2021"/>
 
-*Ghế ngồi bọc da*
+*lazang đa chấu 17 inh khoẻ khoắn*
 
-Sở hữu màn hình cảm ứng 8 inch, KIA Seltos cho phép hành khách thoả sức tận hưởng không gian gian trí. Đặc biệt KIA Seltos còn mang đến trải nghiệm âm nhạc thích thú với dàn âm thanh Bose cao cấp gồm 6 loa, đủ sức làm bùng nổ khoang cabin.
++ Phần đuôi xe mang một thiết kế mới trẻ trung và thể thao.
 
-<img src="/assets/images/seltos/14-turbo-luxury/kia-seltos-luxury-12.jpg" style="width: 100%" alt="Kia Seltos Luxury - Hình 12" />
+<img src="/assets/images/seltos/14-turbo-luxury/14-turbo-luxury-8.jpg" style="width: 100%" alt="Kia Seltos Luxury 2021"/>
 
-*Màn hình cảm ứng giải trí*
++ Với cụm đèn hậu led giúp chiếc xe bắt mắt hơn cùng đường chrom nối liền phần đèn hậu làm tăng độ rộng cho chiếc xe.
 
-Một vài tính năng nổi bật dành cho chủ xe có thể nói đến như hệ thống UVO Connect ra lệnh bằng giọng nói (dựa trên AI), theo dõi xe bị mất cắp, khởi động và dừng động cơ từ xa, điều khiển từ xa máy lọc không khí…
+### NỘI THẤT CỦA KIA SELTOS LUXURY
 
-<img src="/assets/images/seltos/14-turbo-luxury/kia-seltos-luxury-13.jpg" style="width: 100%" alt="Kia Seltos Luxury - Hình 13" />
+**- Phần nội thất của Kia seltos luxury**
 
-*Cửa gió điều hòa*
++ nổi bật nên với tông mầu kem chủ đạo, tăng thêm sự sang trọng và đẳng cấp cho chiếc xe, với tông mầu này, khoang xe cũng chở lên rộng rãi hơn
 
-<img src="/assets/images/seltos/14-turbo-luxury/kia-seltos-luxury-14.jpg" style="width: 100%" alt="Kia Seltos Luxury - Hình 14" />
++  Xe được trang bị ghế lái điều chỉnh điện 12 hướng, đó cũng là điểm nổi bật hơn so với bản deluxe chỉ là chỉnh cơ, Nội thất da với thiết kế dạng quả chám và những lỗ thoát khí giúp thông thoáng hơn cho hành khách khi sử dụng trong điều kiện thời tiết nóng ẩm ở Việt Nam.
 
-*Hàng ghế sau rộng rãi*
+<img src="/assets/images/seltos/14-turbo-luxury/14-turbo-luxury-10.jpg" style="width: 100%" alt="Kia Seltos Luxury 2021"/>
 
-### VẬN HÀNH
+*ghế ngồi được thiết kế bắt mắt cùng tối ưu để thoáng khí trong điều kiện nóng ẩm ở việt nam*
 
-KIA Seltos 2021 được trang bị động cơ Kappa 1.4 T-GDi, hộp số ly hợp kép 7 cấp, cho khả năng sản sinh công suất 138 Nm và momen xoắn cực đại 242 Nm.
++  Hàng ghế phía sau thiết kế gập 6:4 và có thể ngả thêm 5cm giúp hành khách phía sau cảm thấy thoải mái hơn khi di chuyển ở những chuyến đi dài. 
 
-<img src="/assets/images/seltos/14-turbo-luxury/kia-seltos-luxury-15.jpg" style="width: 100%" alt="Kia Seltos Luxury - Hình 15" />
+<img src="/assets/images/seltos/14-turbo-luxury/14-turbo-luxury-11.jpg" style="width: 100%" alt="Kia Seltos Luxury 2021"/>
 
-*Động cơ vận hành mạnh mẽ*
+*hàng ghế phía sau rộng rãi có thể ngả và gập 6:4*
 
-Seltos 2021 có 3 cơ chế lái (Normal, Eco và Sport) cùng các lựa chọn chạy các chế độ địa hình (Ướt, Bùn và Cát). Người lái cũng có thể chọn sử dụng núm xoay được đặt trên bảng điều khiển trung tâm.
++  Phía cốp sau rộng rãi với khoang hành lý 433l giúp Kia seltos luxury có thể để được nhiều đồ hơn trong những chuyến đi chơi xa, cốp được chia làm 2 tầng, giúp tăng khả năng chứa đồ.
 
-### AN TOÀN
+<img src="/assets/images/seltos/14-turbo-luxury/14-turbo-luxury-12.jpg" style="width: 100%" alt="Kia Seltos Luxury 2021"/>
 
-Các trang bị an toàn có trên KIA Seltos Luxury 2021 bao gồm:
+*khoang hành lý rộng rãi*
 
-- Hệ thống hỗ trợ phanh ABS, EBD, ESP.
-- Hệ thống hỗ trợ khởi hành ngang dốc HAC.
-- Mã hóa chìa khóa.
-- Cảnh báo chống trộm.
-- 3 chế độ lái.
-- 3 chế độ kiểm soát lực kéo.
-- Cảm biến sau hỗ trợ đỗ xe.
-- Camera lùi.
-- 2 túi khí
+### TIỆN NGHI- AN TOÀN CỦA KIA SELTOS 1.4 LUXURY
+
+**-Trang Bị Tiện Nghi**
+
+Kia seltos luxury được trang bị màn hình giải trí AVN 8 inh có kết nối car play điều này cũng là một điểm cộng so với các xe cùng phân khúc và so với bản deluxe, được trang bị 6 loa mang đến trải nghiệm âm thanh hay vượt trội, xe sử dụng chìa khoá thông minh statop, có cửa gió điều hoà hàng ghế sau.
+
+<img src="/assets/images/seltos/14-turbo-luxury/14-turbo-luxury-13.jpg" style="width: 100%" alt="Kia Seltos Luxury 2021"/>
+
+màn hình giải trí được trang bị car play
+
+<img src="/assets/images/seltos/14-turbo-luxury/14-turbo-luxury-15.jpg" style="width: 100%" alt="Kia Seltos Luxury 2021"/>
+
+*cửa gió điều hoà hàng ghế sau*
+
+**-An Toàn**
+
+Kia seltos luxury được trang bị nhiều tính năng an toàn vượt trội so với các xe trong cùng phân khúc. Được trang bị 3 chế độ lái, 3 chế độ kiểm soát lực kéo chỉ trên cùng một núm chỉnh.
+
+<img src="/assets/images/seltos/14-turbo-luxury/14-turbo-luxury-16.jpg" style="width: 100%" alt="Kia Seltos Luxury 2021"/>
+
+*nút điều chỉnh chế độ lái*
+
++  Ngoài ra kia seltos luxury còn được trang bị những hệ thống an toàn tiên tiến như hệ thống phanh ABS, hỗ trợ khởi hành ngang dốc HAC, hệ thống cân bằng điện tử ESP, hệ thống phân phối lực phanh điện tử EBD, cammera lùi, mã khoá thông minh, cảm biến đỗ phía sau và 2 túi khí an toàn.
+
+ĐỘNG CƠ CỦA KIA SELTOS LUXURY
++  Được trang bị động cơ 1.4 turbo sản sinh công suất 138hp, kia seltos mang đến một sức mạnh vô cùng đáng gờm với dòng xe SUV đô thị, với động cơ này giúp kia seltos tăng khả năng vận hành và tiết kiệm nhiên liệu đáng kể.
+
+<img src="/assets/images/seltos/14-turbo-luxury/14-turbo-luxury-17.jpg" style="width: 100%" alt="Kia Seltos Luxury 2021"/>
+
+*động cơ 1.4 turbo tối ưu và vô cùng mạnh mẽ*
+
+TỔNG KẾT
++  Hiện nay Kia seltos 1.4 turbo luxury đang được Kia Yên Nghĩa phân phối với 9 mầu sắc và giá bán là 689.000.000VNĐ giá lăn bánh tại thị trường hà nội vào khoảng 790.000.000VNĐ, cùng nhiều quà tặng giá trị và phụ kiện đi kèm khi khách hàng liên hệ trực tiếp hotline.
