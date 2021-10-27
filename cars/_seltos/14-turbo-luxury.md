@@ -137,7 +137,7 @@ Kia Seltos là mẫu xe SUV đô thị mới của Kia Việt Nam, được ra m
 
 Trong đó có 3 phiên bản sử dụng động cơ 1.4 turbo và 1 phiên bản sử dụng động cơ 1.6 gama giống như Kia Cerato hiện hữu. kể từ khi ra mắt tại thị trường hàn quốc, thị trường ấn độ, Kia Seltos đã rất được sự quan tâm từ người tiêu dùng Việt Nam. Đến khi ra mắt Kia Seltos đã làm mưa làm gió tại thị trường Việt Nam, lần lượt đánh đổ nhưng tượng đài SUV độ thị ở việt Nam, như Hyundai Kona, Ford eco sport
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/qdijTTFwO6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="560" src="https://www.youtube.com/embed/qdijTTFwO6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Bài viết dưới đây sẽ giới thiệu tổng thể với quý khách hàng về thiết kế nội ngoại thất của phiên bản Kia seltos 1.4 turbo luxury, một phiên bản mà số lượng xe bán ra dẫn đầu hiện nay. Và những lý do nên lựa chọn phiên bản luxury.
