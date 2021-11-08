@@ -1,0 +1,29 @@
+{% for so in site.sorento %}
+<div class="col-list-3">
+    <div class="recent-car-list">
+        <div class="featured-car-list">
+            <div class="featured-car-img">
+                <a href="{{ so.url }}"><img src="{{ site.img }}{{ so.url }}{{ so.img }}" class="img-responsive"
+                        alt="Image" /></a>
+            </div>
+            <div class="featured-car-content">
+                <h6><a href="{{ so.url }}">Kia {{ so.title }}</a></h6>
+                <div class="price_info">
+                    <p class="featured-price">{{ so.price }}</p>
+                    <div class="car-location">
+                        <span><i class="fa fa-map-marker" aria-hidden="true"></i>
+                            Kia Yên nghĩa</span>
+                    </div>
+                </div>
+                <ul>
+                    {% for info in so.basic %}
+                    <li title="{{ info.name }}">
+                        <i class="fa {{ info.icon }}" aria-hidden="true"></i>{{ info.val }}
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}

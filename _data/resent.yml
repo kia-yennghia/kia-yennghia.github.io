@@ -3,6 +3,8 @@
   class: active
 - name: SONET
   link: sonet
+- name: SORENTO
+  link: sorento
 - name: SELTOS
   link: seltos
 - name: SEDONA

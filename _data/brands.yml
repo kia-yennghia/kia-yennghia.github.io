@@ -6,6 +6,8 @@
   img: optima
 - name: SONET
   img: sonet
+- name: SORENTO
+  img: sorento
 - name: SEDONA
   img: sedona
 - name: SELTOS
