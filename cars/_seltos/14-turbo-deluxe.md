@@ -12,6 +12,7 @@ sliders:
 - 6
 - 7
 - 8
+description: Kia seltos 1.4 deluxe là một trong 4 phiên bản của kia seltos tại thị trường Việt Nam. Đây là phiên bản tiêu chuẩn được trang bị những option tiêu chuẩn nhưng cũng rất đầy đủ để phục vụ người dùng những trang bị cho bản deluxe còn được đánh giá là dẫn đầu phân khúc. Cùng giá bán cạnh tranh, Kia seltos 1.4 deluxe đang là phiên bản bán chạy của dòng xe này hướng đến những khách hàng trẻ và mua xe lần đầu.
 basic:
 - name: Chiều dài cơ sở xe
   val: 2.610 mm

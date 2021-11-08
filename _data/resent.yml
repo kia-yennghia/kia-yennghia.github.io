@@ -1,8 +1,8 @@
 - name: CERATO
   link: cerato
   class: active
-- name: SORENTO
-  link: sorento
+- name: SONET
+  link: sonet
 - name: SELTOS
   link: seltos
 - name: SEDONA

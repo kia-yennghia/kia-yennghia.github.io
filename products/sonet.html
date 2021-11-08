@@ -1,0 +1,58 @@
+---
+permalink: "/sonet"
+layout: default
+---
+
+<section class="page-header profile_page">
+  <div class="container">
+    <div class="page-header_wrap">
+      <div class="page-heading">
+        <h1>Xe Kia Yên Nghĩa</h1>
+      </div>
+      <ul class="coustom-breadcrumb">
+        <li><a href="/">Trang chủ</a></li>
+        <li>Sonet</li>
+      </ul>
+    </div>
+  </div>
+  <!-- Dark Overlay-->
+  <div class="dark-overlay"></div>
+</section>
+<!-- /Page Header--> 
+
+<!--Dealer-profile-->
+<section class="dealer_profile inner_pages">
+  <div class="container">
+
+              {% for cars in site.collections %}
+              {% assign label = cars.label %}
+              {% if label != 'posts' and label != 'pages' and label == 'sonet' %}
+
+                
+                <h4 class="mt-5 mb-neg-30" id="{{ label }}"><span class="badge badge-danger">{{ label | upcase }}</span></h4>
+                <div class="row">
+                {% for car in site[label] %}     
+                <div class="col-md-3 grid_listing">
+                  <div class="product-listing-m gray-bg">
+                    <div class="product-listing-img"> <a href="{{ car.url }}"><img src="{{ site.baseurl }}{{ site.img }}{{ car.url }}{{ car.img }}" class="img-responsive" alt="image"> </a></div>
+                    <div class="product-listing-content">
+                      <h5><a href="{{ car.url }}">{{ car.title }}</a></h5>
+                      <p class="list-price">{{ car.price }}</p>
+                      <div class="car-location"><span><i class="fa fa-map-marker" aria-hidden="true"></i> Kia Yên Nghĩa</span></div>
+                      <ul class="features_list">
+                        <li><i class="fa fa-road" aria-hidden="true"></i>0 km</li>
+                        <li><i class="fa fa-tachometer" aria-hidden="true"></i>0 miles</li>
+                        <li><i class="fa fa-calendar" aria-hidden="true"></i>2021 model</li>
+                        <li><i class="fa fa-car" aria-hidden="true"></i>0</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                {% endfor %}
+              </div>
+              {% endif %}
+              {% endfor %}
+    </div>
+  </div>
+</section>
+<!--/Dealer-profile-->

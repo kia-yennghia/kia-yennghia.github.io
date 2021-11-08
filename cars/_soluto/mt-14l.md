@@ -11,6 +11,7 @@ sliders:
 - 3
 - 4
 - 5
+description: KIA Soluto AT Luxury hay còn gọi là KIA Pegas là mẫu sedan hạng B xuất hiện lần đầu tiên trước công chúng trong triển lãm ô tô Thượng Hải 2017. Soluto được sản xuất dựa trên nền tảng của mẫu xe KIA K2 hướng tới khách hàng trẻ. Khi Soluto được bán chính thức tại Việt Nam nó sẽ thay thế cho KIA Rio và sẽ chám trán các đối thủ cực mạnh như Toyota Vios, Hyundai Accent, Honda City,...
 basic:
 - name: Chiều dài cơ sở xe
   val: 2.570 mm

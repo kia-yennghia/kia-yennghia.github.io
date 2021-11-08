@@ -13,6 +13,7 @@ sliders:
 - 4
 - 5
 - 6
+description: KIA Sorento 2021 chính thức ra mắt thị trường Việt vào ngày 14-09-2020. THACO đã bỏ qua thế hệ thứ 3 và "nhảy cóc" giới thiệu ngay thế hệ thứ 4 của Kia Sorento tới khách hàng Việt. Đây cũng là thế hệ mới nhất đã ra mắt thế giới từ hồi tháng 3/2020.
 basic:
 - name: Chiều dài cơ sở xe
   val: 2815 mm

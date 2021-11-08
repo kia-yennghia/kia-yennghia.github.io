@@ -15,6 +15,7 @@ sliders:
 - 9
 - 10
 - 11
+description: Kia Seltos là mẫu xe CUV cỡ B mới nhất được Kia Motor Việt Nam ra mắt vào tháng 7/2020.Kia Seltos được rất nhiều khách hàng mong chờ kể từ khi ra mắt ở Ấn Độ và Hàn Quốc. từ khi ra mắt ở thị trường Việt Nam Kia Seltos đã làm mưa làm gió trong phân khúc xe CUV đô thị ở Việt Nam. Đã đánh đổ tượng đài Hyundai Kona để đứng đầu về doanh số.  xứng đáng là đối thủ xứng tầm của Toyota Cross, Hyundai Kona….
 basic:
 - name: Chiều dài cơ sở xe
   val: 2.610 mm
@@ -142,7 +143,7 @@ Kia Seltos sử dụng động cơ 1.4L Turbo và 1.6L khiến chiếc xe sản 
 
 - <span style="color: #0094da">KIA SELTOS 1.6 PREMIUM</span>    : **719.000.000 VNĐ**
 
-Hiện tại, khách hàng mua xe Kia Seltos sẽ nhận được rất nhiều quà tặng phụ kiện giá trị. Quý khách vui lòng liên hệ hotline <a href="tel:0346084666">0346 084 666</a> để được tư vấn miễn phí.
+Hiện tại, khách hàng mua xe Kia Seltos sẽ nhận được rất nhiều quà tặng phụ kiện giá trị. Quý khách vui lòng liên hệ hotline <a href="tel:0901468383">0901 46 83 83</a> để được tư vấn miễn phí.
 
 **Đánh giá tổng quan về Kia Seltos 1.4 premium**
 
