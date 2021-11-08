@@ -1,6 +1,6 @@
 ---
-title: Sonet 2022 - mẫu CUV đô thị nhỏ gọn với mức giá hấp dẫn
-old_price: '519,000,000'
+title: Sonet 2021
+old_price: ''
 price: '499,000,000'
 categories: sorento
 tags: sorento
