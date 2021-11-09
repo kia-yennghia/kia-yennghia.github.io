@@ -291,10 +291,6 @@ Trên phiên bản cao cấp nhất, Kia Sonet GT-line còn có cả cửa sổ 
 
 *Khoang hành lý có dung tích 392 lít*
 
-<img src="/assets/images/sonet/sonet-22/Kia-Sonet-2022-27.jpg" style="width: 100%" alt="Cửa gió điều hòa dành cho hàng ghế sau"/>
-
-*Nội thất bản Kia Sonet 7 chỗ với khác biệt ở hàng ghế thứ 3*
-
 ### Vận hành
 
 Tại Việt Nam, Kia Sonet 2022 sử dụng động cơ xăng Smartstream 1.5G, công suất 113 sức ngựa và mô men xoắn 144Nm. Hộp số sàn 6MT hoặc tự động Smartstream IVT. Hệ dẫn động cầu trước.
