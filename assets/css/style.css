@@ -912,8 +912,8 @@ table thead td {
 span.logo-text {
   position: absolute;
   top: 14px;
-  left: 18%;
-  color: #B20F18;
+  left: 19%;
+  color: #000;
   font-size: x-large;
 }
 .navbar-default .navbar-toggle:focus .icon-bar,
@@ -6691,6 +6691,7 @@ table.info-tabel tr td {
 
 .scrollable-table {
   overflow-x: auto;
+
 }
 
 table {
