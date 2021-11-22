@@ -1,5 +1,5 @@
 ---
-title: Sonet 2021
+title: Sonet
 old_price: ''
 price: '499,000,000'
 categories: sorento
@@ -148,14 +148,12 @@ Mức giá này khi cộng với các chi phí lăn bánh như Chi phí đăng k
 
 <img src="/assets/images/sonet/sonet-22/Kia-Sonet-2022-1.jpg" style="width: 100%" alt="Giá lăn bánh các phiên bản của KIA Sonet tại Việt Nam - 1"/>
 
-**Giá bán niêm yết và giá lăn bánh (tham khảo) của xe KIA Sonet cụ thể như sau:**
+**Giá bán niêm yết của xe KIA Sonet cụ thể như sau:**
 
-Mẫu xe | Giá niêm yết | Giá lăn bánh tạm tính
--------|-----------------|--------------
-Kia Sonet 1.5 MT | 499,000,000đ | 581,360,000đ
-Kia Sonet 1.5 Deluxe | 539,000,000đ | 626,160,000đ
-Kia Sonet 1.5 Luxury | 579,000,000đ | 670,960,000đ
-Kia Sonet 1.5 Premium |	609,000,000đ | 704,560,000đ
+- <span style="color:#0094da">KIA SONET MT DELUXE</span>: <span style="color:red; font-weight: bold;">499,000,000 VNĐ</span>
+- <span style="color:#0094da">KIA SONET AT DELUXE</span>: <span style="color:red; font-weight: bold;">539,000,000 VNĐ</span>
+- <span style="color:#0094da">KIA SONET AT LUXURY</span>: <span style="color:red; font-weight: bold;">579,000,000 VNĐ</span>
+- <span style="color:#0094da">KIA SONET AT PREMIUM</span>: <span style="color:red; font-weight: bold;">609,000,000 VNĐ</span>
 
 *\*Lưu ý: giá lăn bánh trên chỉ mang tính chất tham khảo, giá chưa bao gồm khuyến mại tại đại lý (nếu có), giá có thể thay đổi tùy theo khu vực và trang bị từng xe và chưa bao gồm phí bảo hiểm hai chiều*.
 
@@ -309,22 +307,112 @@ Thông số kỹ thuật cơ bản của Kia Sonet như sau:
 
 <img src="/assets/images/sonet/sonet-22/Kia-Sonet-2022-29.jpg" style="width: 100%" alt="Động cơ xăng Smartstream 1.5G trên Kia Sonet"/>
 
-**Thông số kỹ thuật** | **Sonet Deluxe MT/AT** | **Sonet Luxury AT** | **Sonet Premium AT**
-------------------|--------------------|-----------------|----------------
-Kiểu xe, Số chỗ ngồi | SUV cỡ nhỏ 05 chỗ | SUV cỡ nhỏ 05 chỗ | SUV cỡ nhỏ 05 chỗ
-Kích thước DxRxC (mm) | 4120x 1790x 1642 | 4120x 1790x 1642 | 4120x 1790x 1642
-Chiều dài cơ sở (mm) | 2500 | 2500 | 2500
-Khoảng sáng (mm) | 205 | 205 | 205
-Bán kính vòng quay (m) | 5,3 | 5,3 | 5,3
-Động cơ	| Xăng, SmartStream 1.5G | Xăng, SmartStream 1.5G | Xăng, SmartStream 1.5G
-Dung tích động cơ | 1.5L | 1.5L | 1.5L
-Công suất cực đại (Hp/ rpm) | 113/ 6300 | 113/ 6300 | 113/ 6300
-Mô-men xoắn cực đại (Nm/ rpm) | 144/4500 | 144/ 4500 | 144/ 4500
-Hộp số | 6MT/ SmartStream IVT | SmartStream IVT | SmartStream IVT
-Dẫn động | FWD | FWD | FWD
-Tiêu hao nhiên liệu | 5,5 (L/100km) | 5,5 (L/100km) | 5,5 (L/100km)
-Mâm xe | 215/60 R16 | 215/60 R16 | 215/60 R16
-Dung tích khoang hành lý | 392 lít | 392 lít | 392 lít
-Bình nhiên liệu | 45 lít | 45 lít | 45 lít
+
+<div class="scrollable-table">
+  <table class="table">
+    <tr>
+      <th>THÔNG SỐ KĨ THUẬT</th>
+      <th>SONET MT/AT DELUXE</th>
+      <th>SONET AT LUXURY</th>
+      <th>SONET AT PREMIUM</th>
+    </tr>
+    <tr>
+      <td>Kiểu xe, Số chỗ ngồi</td>
+      <td>SUV cỡ nhỏ 05 chỗ</td>
+      <td>SUV cỡ nhỏ 05 chỗ	</td>
+      <td>SUV cỡ nhỏ 05 chỗ</td>
+    </tr>
+    <tr>
+      <td>Kích thước DxRxC (mm)</td>
+      <td>4120x 1790x 1642</td>
+      <td>4120x 1790x 1642</td>
+      <td>4120x 1790x 1642</td>
+    </tr>
+    <tr>
+      <td>Chiều dài cơ sở (mm)</td>
+      <td>2500</td>
+      <td>2500</td>
+      <td>2500</td>
+    </tr>
+    <tr>
+      <td>Khoảng sáng (mm)</td>
+      <td>205</td>
+      <td>205</td>
+      <td>205</td>
+    </tr>
+    <tr>
+      <td>Bán kính vòng quay (m)</td>
+      <td>5,3</td>
+      <td>5,3</td>
+      <td>5,3</td>
+    </tr>
+    <tr>
+      <td>Kiểu xe, Số chỗ ngồi</td>
+      <td>SUV cỡ nhỏ 05 chỗ</td>
+      <td>SUV cỡ nhỏ 05 chỗ	</td>
+      <td>SUV cỡ nhỏ 05 chỗ</td>
+    </tr>
+    <tr>
+      <td>Động cơ</td>
+      <td>Xăng, SmartStream 1.5G</td>
+      <td>Xăng, SmartStream 1.5G</td>
+      <td>Xăng, SmartStream 1.5G</td>
+    </tr>
+    <tr>
+      <td>Dung tích động cơ</td>
+      <td>1.5L</td>
+      <td>1.5L</td>
+      <td>1.5L</td>
+    </tr>
+    <tr>
+      <td>Công suất cực đại (Hp/ rpm)</td>
+      <td>113/ 6300</td>
+      <td>113/ 6300</td>
+      <td>113/ 6300</td>
+    </tr>
+    <tr>
+      <td>Mô-men xoắn cực đại (Nm/ rpm)</td>
+      <td>144/4500</td>
+      <td>144/4500</td>
+      <td>144/4500</td>
+    </tr>
+    <tr>
+      <td>Hộp số</td>
+      <td>6MT/ SmartStream IVT</td>
+      <td>SmartStream IVT</td>
+      <td>SmartStream IVT</td>
+    </tr>
+    <tr>
+      <td>Dẫn động</td>
+      <td>FWD</td>
+      <td>FWD</td>
+      <td>FWD</td>
+    </tr>
+    <tr>
+      <td>Tiêu hao nhiên liệu</td>
+      <td>5,5 (L/100km)</td>
+      <td>5,5 (L/100km)</td>
+      <td>5,5 (L/100km)</td>
+    </tr>
+    <tr>
+      <td>Mâm xe</td>
+      <td>215/60 R16</td>
+      <td>215/60 R16</td>
+      <td>215/60 R16</td>
+    </tr>
+    <tr>
+      <td>Dung tích khoang hành lý</td>
+      <td>392 lít</td>
+      <td>392 lít</td>
+      <td>392 lít</td>
+    </tr>
+    <tr>
+      <td>Bình nhiên liệu</td>
+      <td>45 lít</td>
+      <td>45 lít</td>
+      <td>45 lít</td>
+    </tr>
+  </table>
+</div>
 
 *Màu xe: <span style="color:red">Đỏ</span>,<span style="color:black">Đen</span>, <span style="color:#8B4513">Nâu vàng</span>, <span style="color:blue">Xanh Blue</span>, <span>Trắng</span>, <span>Ghi bạc</span>*

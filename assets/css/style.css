@@ -6688,3 +6688,16 @@ table.info-tabel tr td {
 .mobile_search {
   display: none;
 }
+
+.scrollable-table {
+  overflow-x: auto;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: .25em;
+  border: 1px solid darkgrey;
+}
