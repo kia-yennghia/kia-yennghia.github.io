@@ -13,25 +13,6 @@ sliders:
 - 4
 - 5
 description: KIA Cerato là thế hệ mới được kết hợp giữa thiết kế tinh tế và năng động, cùng với các tính năng công nghệ đa dạng và tiên tiến. Cerato sẵn sàng giúp chủ nhân có một cuộc sống thú vị, trẻ trung và thông minh hơn. Mẫu xe phân khúc C có diện mạo mới, thiết kế thời trang, năng động. Đối thủ của KIA Cerato 2021 hiện nay trên thị trường là Hyundai Elantra, Toyota Altis, Honda Civic…
-basic:
-- name: Chiều dài cơ sở xe
-  val: 2.700 mm
-  icon: fa-road
-- name: Trọng lượng không tải
-  val: 1.610 kg
-  icon: fa-tachometer
-- name: Màu sắc
-  val: Trắng
-  icon: fa-bandcamp
-- name: Loại nhiên liệu
-  val: Xăng
-  icon: fa-car
-- name: Số chỗ ngồi
-  val: 5 chỗ
-  icon: fa-user
-- name: Số túi khí
-  val: 2 túi
-  icon: fa-superpowers
 specs:
 - name: Kích thước tổng thể (mm)
   val: 4640 x 1800 x 1450

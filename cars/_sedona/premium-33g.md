@@ -13,25 +13,6 @@ sliders:
 - 5
 - 6
 description: Kia Sedona thuộc phân khúc Minivan, hoặc cũng có thể xếp vào phân khúc MPV, có 7 chỗ ngồi. Ở một vài thị trường nó còn có tên là Kia Carnival, gợi nhớ đến các lễ hội Carnival nổi tiếng trên khắp thế giới. Kia Sedona được hãng xe Hàn Quốc giới thiệu lần đầu năm 1998 và đến nay đang là thế hệ thứ 3. Tại Việt nam, thế hệ mới lần đầu được giới thiệu năm 2015 cùng với các thị trường khác trên thế giới và hiện là mẫu xe gia đình cao cấp bán chạy nhất Việt Nam.
-basic:
-- name: Chiều dài cơ sở xe
-  val: 3.060 mm
-  icon: fa-road
-- name: Trọng lượng không tải
-  val: 2.070 kg
-  icon: fa-tachometer
-- name: Màu sắc
-  val: Trắng
-  icon: fa-bandcamp
-- name: Loại nhiên liệu
-  val: Xăng
-  icon: fa-car
-- name: Số chỗ ngồi
-  val: 7 chỗ
-  icon: fa-user
-- name: Số túi khí
-  val: 6 túi
-  icon: fa-superpowers
 specs:
 - name: Kích thước tổng thể (mm)
   val: 5115 x 1985 x 1755

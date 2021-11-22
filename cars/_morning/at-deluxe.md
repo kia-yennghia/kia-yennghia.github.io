@@ -11,25 +11,6 @@ sliders:
 - 3
 - 4
 - 5
-basic:
-- name: Chiều dài cơ sở xe
-  val: 2.385 mm
-  icon: fa-road
-- name: Trọng lượng không tải
-  val: 960 kg
-  icon: fa-tachometer
-- name: Màu sắc
-  val: Trắng
-  icon: fa-bandcamp
-- name: Loại nhiên liệu
-  val: Xăng
-  icon: fa-car
-- name: Số chỗ ngồi
-  val: 5 chỗ
-  icon: fa-user
-- name: Số túi khí
-  val: 1 túi
-  icon: fa-superpowers
 specs:
 - name: Kích thước tổng thể (mm)
   val: 3.595 x 1.595 x 1.490

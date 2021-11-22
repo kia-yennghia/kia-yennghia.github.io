@@ -15,27 +15,7 @@ sliders:
 - 9
 - 10
 - 11
-description: Kia Seltos là mẫu xe CUV cỡ B mới nhất được Kia Motor Việt Nam ra mắt vào tháng 7/2020.Kia Seltos được rất nhiều khách hàng mong chờ kể từ khi ra mắt ở Ấn Độ và Hàn Quốc. từ khi ra mắt ở thị trường Việt Nam Kia Seltos đã làm mưa làm gió trong phân khúc xe CUV đô thị ở Việt Nam. Đã đánh đổ tượng đài Hyundai Kona để đứng đầu về doanh số.  xứng đáng là đối thủ xứng tầm của Toyota Cross, Hyundai Kona….
-basic:
-- name: Chiều dài cơ sở xe
-  val: 2.610 mm
-  icon: fa-road
-- name: Trọng lượng không tải
-  val: 1.290 kg
-  icon: fa-tachometer
-- name: Màu sắc
-  val: Trắng
-  icon: fa-bandcamp
-- name: Loại nhiên liệu
-  val: Xăng
-  icon: fa-car
-- name: Số chỗ ngồi
-  val: 5 chỗ
-  icon: fa-user
-- name: Số túi khí
-  val: 6 túi
-  icon: fa-superpowers
-
+description: Kia Seltos là mẫu xe CUV cỡ B mới nhất được Kia Motor Việt Nam ra mắt vào tháng 7/2020.Kia Seltos được rất nhiều khách hàng mong chờ kể từ khi ra mắt ở Ấn Độ và Hàn Quốc. từ khi ra mắt ở thị trường Việt Nam Kia Seltos đã làm mưa làm gió trong phân khúc xe CUV đô thị ở Việt Nam. Đã đánh đổ tượng đài Hyundai Kona để đứng đầu về doanh số.  xứng đáng là đối thủ xứng tầm của Toyota Cross, Hyundai Kona…
 specs:
 - name: Kích thước tổng thể (mm)
   val: 4.315 x 1.800 x 1.645

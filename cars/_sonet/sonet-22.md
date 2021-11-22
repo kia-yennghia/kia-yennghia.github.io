@@ -16,25 +16,6 @@ sliders:
 - 7
 - 8
 description: KIA Việt Nam đã công bố giá bán KIA Sonet hoàn toàn mới với mức giá khởi điểm từ 499 – 609 triệu đồng. Vậy giá lăn bánh của các phiên bản xe này sẽ là bao nhiêu?
-basic:
-- name: Chiều dài cơ sở xe
-  val: 2500
-  icon: fa-road
-- name: Trọng lượng không tải
-  val: 1860 kg
-  icon: fa-tachometer
-- name: Màu sắc
-  val: Nhiều màu
-  icon: fa-bandcamp
-- name: Loại nhiên liệu
-  val: Xăng
-  icon: fa-car
-- name: Số chỗ ngồi
-  val: 5 chỗ
-  icon: fa-user
-- name: Số túi khí
-  val: 2 túi
-  icon: fa-superpowers
 specs:
 - name: Kích thước tổng thể (mm)
   val: 4120x 1790x 1642
