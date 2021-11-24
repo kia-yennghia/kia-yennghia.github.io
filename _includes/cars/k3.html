@@ -1,0 +1,22 @@
+{% for k in site.k3 %}
+<div class="col-list-3">
+    <div class="recent-car-list">
+        <div class="featured-car-list">
+            <div class="featured-car-img">
+                <a href="{{ k.url }}"><img src="{{ site.img }}/{{ k.url }}{{ k.img }}" class="img-responsive"
+                        alt="Image" /></a>
+            </div>
+            <div class="featured-car-content">
+                <h6><a href="{{ k.url }}">Kia {{ k.title }}</a></h6>
+                <div class="price_info">
+                    <p class="featured-price">{{ k.price }}</p>
+                    <div class="car-location">
+                        <span><i class="fa fa-map-marker" aria-hidden="true"></i>
+                            Kia Yên Nghĩa</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}

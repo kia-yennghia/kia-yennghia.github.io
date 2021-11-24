@@ -5,6 +5,9 @@ collections:
   cerato:
     title: Cerato
     output: true
+  k3:
+    title: K3
+    output: true
   morning:
     title: Morning
     output: true
