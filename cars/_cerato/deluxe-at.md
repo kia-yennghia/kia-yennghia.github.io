@@ -1,7 +1,6 @@
 ---
 title: Cerato Deluxe AT
 price: '529,000,000'
-old_price: '584,000,000'
 categories: cerato
 tags: cerato
 img: deluxe-at.jpg

@@ -1,6 +1,5 @@
 ---
 title: Sorento All New 2.2D Signature (6 Ghế - Máy Dầu)
-old_price: '1,349,000,000'
 price: '1,329,000,000'
 categories: sorento
 tags: sorento

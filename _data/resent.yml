@@ -1,5 +1,5 @@
-- name: CERATO
-  link: cerato
+- name: K3
+  link: k3
   class: active
 - name: SONET
   link: sonet

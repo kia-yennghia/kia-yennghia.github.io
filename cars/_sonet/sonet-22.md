@@ -1,6 +1,5 @@
 ---
 title: Sonet
-old_price: ''
 price: '499,000,000'
 categories: sorento
 tags: sorento

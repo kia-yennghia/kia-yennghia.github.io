@@ -1,6 +1,5 @@
 ---
 title: Sorento All New 2.2D Deluxe (Máy dầu)
-old_price: '1,079,000,000'
 price: '1,059,000,000'
 categories: sorento
 tags: sorento

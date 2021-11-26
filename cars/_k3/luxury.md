@@ -1,7 +1,6 @@
 ---
 title: K3 Luxury
 price: '629,000,000'
-old_price: '639,000,000'
 categories: k3
 tags: k3
 img: kia-k3-luxury.jpg

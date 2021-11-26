@@ -1,7 +1,6 @@
 ---
 title: K3 Premium
 price: '659,000,000'
-old_price: '679,000,000'
 categories: k3
 tags: k3
 img: kia-k3-premium.jpg
