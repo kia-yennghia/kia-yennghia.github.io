@@ -1,6 +1,6 @@
 ---
 title: Seltos 1.4 Turbo Luxury
-price: '689,000,000'
+price: '694,000,000'
 categories: seltos
 tags: seltos
 img: 14-turbo-luxury.jpg
